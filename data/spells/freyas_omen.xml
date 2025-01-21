@@ -1,0 +1,22 @@
+			<freyas_omen>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>For the spell's duration, you do not lose the ability to cast a spell if you fail its spellcasting check. If you critically fail a spellcasting check, you may reroll your check once. You must use the new result.</p>
+				</description>
+				<duration type="string">1d6 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Freya's Omen</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</freyas_omen>

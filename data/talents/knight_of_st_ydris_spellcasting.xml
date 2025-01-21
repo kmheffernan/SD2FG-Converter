@@ -1,0 +1,7 @@
+			<knight_of_st_ydris_spellcasting>
+				<class type="string">Knight of St. Ydris</class>
+				<name type="string">Spellcasting</name>
+				<text type="formattedtext">
+					<p>You can cast witch spells you know. Each time you gain a level, you choose new witch spells to learn according to the Witch Spells Known table. You use your Charisma stat to cast witch spells. The DC is 10 + the spell's tier. If you fail a spellcasting check, you can't cast that spell again until you complete a rest. If you roll a natural 1 on a spellcasting check, you must also roll on the corresponding Diabolical Mishap table for the spell's tier.</p>
+				</text>
+			</knight_of_st_ydris_spellcasting>

@@ -1,0 +1,7 @@
+			<pit_fighter_improved_flourish>
+				<class type="string">Pit Fighter</class>
+				<name type="string">Improved Flourish</name>
+				<text type="formattedtext">
+					<p>Increase the HP you gain from Flourish by 1d6.</p>
+				</text>
+			</pit_fighter_improved_flourish>

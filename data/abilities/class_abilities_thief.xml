@@ -1,0 +1,19 @@
+			<backstab>
+				<name type="string">Backstab</name>
+				<text type="formattedtext">
+					<p>If you hit a creature who is unaware of your attack, you deal an extra weapon die of damage. Add additional weapon dice of damage equal to half your level (round down). </p>
+				</text>
+			</backstab>
+			<thievery>
+				<name type="string">Thievery</name>
+				<text type="formattedtext">
+					<p>You are adept at thieving skills and have the necessary tools of the trade secreted on your person (they take up no gear slots). You are trained in the following tasks and have advantage on any associated checks:</p>
+					<list>
+						<li>Climbing</li>
+						<li>Sneaking and hiding</li>
+						<li>Applying disguises</li>
+						<li>Finding and disabling traps</li>
+						<li>Delicate tasks such as picking pockets and opening locks</li>
+					</list>
+				</text>
+			</thievery>

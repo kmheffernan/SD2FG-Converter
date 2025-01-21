@@ -1,0 +1,13 @@
+			<the_kytherian_mechanism>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A towering, brass platform mounted with countless cogs and gears speckled in blue-green rust.</i></p>
+				<p><b>Benefit.</b> A handle turns The Kytherian Mechanism's mighty wheels, but it doesn't function until its seven missing Kytherian Cogs are replaced. Once functional, activating the mechanism allows the operator to undo one event of their choosing from history. Then, the seven Kytherian Cogs magically scatter to far-flung locations.</p>
+				</description>
+				<name type="string">The Kytherian Mechanism</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/The Kytherian Mechanism.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</the_kytherian_mechanism>

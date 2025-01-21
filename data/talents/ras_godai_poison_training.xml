@@ -1,0 +1,7 @@
+			<ras_godai_poison_training>
+				<class type="string">Ras-Godai</class>
+				<name type="string">Poison Training</name>
+				<text type="formattedtext">
+					<p>You are trained in the use of poisons (reroll if duplicate).</p>
+				</text>
+			</ras_godai_poison_training>

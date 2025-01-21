@@ -1,0 +1,10 @@
+			<almazzat_melee_attack_advantage>
+				<class type="string">Almazzat</class>
+				<name type="string">Melee Attack Advantage</name>
+				<text type="formattedtext">
+					<p>1/day, gain advantage on melee attacks for 3 rounds; if duplicate result, +1/day.</p>
+					<p>If this is an Ancestry Talent, then check  to see if the following effect was already added to your Character Effects section.</p>
+					<p>If this is a Class Talent, then add the following effect to the Character Effects section of the Note tab and edit as needed.</p>
+					<p>[ADVATK: melee]</p>
+				</text>
+			</almazzat_melee_attack_advantage>

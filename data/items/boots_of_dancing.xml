@@ -1,0 +1,13 @@
+			<boots_of_dancing>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Fine, supple boots of sheepskin.</i></p>
+				<p><b>Curse.</b> As soon as you don these boots, you begin cavorting and dancing uncontrollably. You move randomly each turn and must pass a DC 15 Dexterity check to remove the boots.</p>
+				</description>
+				<name type="string">Boots of Dancing</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Boots of Dancing.webp</picture>
+				<type type="string">Clothing</type>
+				<weight type="number">1</weight>
+			</boots_of_dancing>

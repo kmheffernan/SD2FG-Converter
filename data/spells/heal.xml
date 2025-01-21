@@ -1,0 +1,22 @@
+			<heal>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>One creature you touch is healed to full hit points. You cannot cast this spell again until you complete a rest.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Heal</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</heal>

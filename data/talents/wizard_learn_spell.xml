@@ -1,0 +1,7 @@
+			<wizard_learn_spell>
+				<class type="string">Wizard</class>
+				<name type="string">Learn Spell</name>
+				<text type="formattedtext">
+					<p>Learn one additional wizard spell of any tier you know.</p>
+				</text>
+			</wizard_learn_spell>

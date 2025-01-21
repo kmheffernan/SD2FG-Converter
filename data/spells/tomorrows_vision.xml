@@ -1,0 +1,24 @@
+			<tomorrows_vision>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>After one round of communing with your nature spirit, you can ask three yes/no questions to gain insight into an important event or events that are expected to happen in the next week.</p>
+					<p>Your role in the event cannot be predicted, only what is likely to occur in the world or region.</p>
+					<p>The questions cannot directly pertain to you or your allies.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Tomorrow’s Vision</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</tomorrows_vision>

@@ -1,0 +1,17 @@
+			<ophidian_armor>
+				<ac type="number">12</ac>
+				<cost type="string"></cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p><i>Glistening, smooth leather of dappled emerald scales.</i></p>
+				<p><b>Bonus.</b> +1 leather armor.</p>
+				<p><b>Benefit.</b> You have advantage on checks to avoid the effects of poison.</p>
+				</description>
+				<name type="string">Ophidian Armor</name>
+				<nodex type="number"></nodex>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Ophidian Armor.webp</picture>
+				<type type="string">Armor</type>
+				<weight type="number">1</weight>
+			</ophidian_armor>

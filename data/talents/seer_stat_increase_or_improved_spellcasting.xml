@@ -1,0 +1,7 @@
+			<seer_stat_increase_or_improved_spellcasting>
+				<class type="string">Seer</class>
+				<name type="string">Stat Increase or Improved Spellcasting</name>
+				<text type="formattedtext">
+					<p>+2 to WIS or CHA stat, or +1 to spellcasting checks.</p>
+				</text>
+			</seer_stat_increase_or_improved_spellcasting>

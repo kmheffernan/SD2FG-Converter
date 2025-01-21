@@ -1,0 +1,22 @@
+			<trance>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You enter a trance, catching small glimpses of a creature's fate. One humanoid creature you touch (you can't target yourself) gains a luck token. It can't have more than one luck token at once.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Trance</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</trance>

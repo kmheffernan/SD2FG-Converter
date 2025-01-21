@@ -1,0 +1,22 @@
+			<chant>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You begin an unearthly chant that lifts your vision beyond its ordinary limitations. For the spell's duration, you can see all invisible and hidden things as though they were plainly visible. This spell does not allow you to see in a way that you could not normally, such as in darkness or through walls.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Chant</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</chant>

@@ -1,0 +1,7 @@
+			<warlock_patron_boon>
+				<class type="string">Warlock</class>
+				<name type="string">Patron Boon</name>
+				<text type="formattedtext">
+					<p>Roll two Patron Boons and choose one to keep</p>
+				</text>
+			</warlock_patron_boon>

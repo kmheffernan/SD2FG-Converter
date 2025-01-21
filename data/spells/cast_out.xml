@@ -1,0 +1,22 @@
+			<cast_out>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You turn a creature aside, throwing it out of your presence. Choose a creature you can see. For the spell's duration, that creature can't come within near range of you. It can still attack you from outside of near range.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Cast Out</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</cast_out>

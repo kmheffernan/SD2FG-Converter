@@ -1,0 +1,7 @@
+			<black_lotus_walk_on_water>
+				<class type="string">Black Lotus</class>
+				<name type="string">Walk on Water</name>
+				<text type="formattedtext">
+					<p>1/day, you can walk on water as if it were solid for 1d4 rounds.</p>
+				</text>
+			</black_lotus_walk_on_water>

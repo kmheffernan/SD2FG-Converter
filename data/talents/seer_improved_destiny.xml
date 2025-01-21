@@ -1,0 +1,7 @@
+			<seer_improved_destiny>
+				<class type="string">Seer</class>
+				<name type="string">Improved Destiny</name>
+				<text type="formattedtext">
+					<p>Increase the die category of your Destined talent by one.</p>
+				</text>
+			</seer_improved_destiny>

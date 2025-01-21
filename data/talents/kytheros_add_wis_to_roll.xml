@@ -1,0 +1,7 @@
+			<kytheros_add_wis_to_roll>
+				<class type="string">Kytheros</class>
+				<name type="string">Add WIS to Roll</name>
+				<text type="formattedtext">
+					<p>3/day, add your WIS bonus to any roll (reroll if duplicate.)</p>
+				</text>
+			</kytheros_add_wis_to_roll>

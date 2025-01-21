@@ -1,0 +1,7 @@
+			<ovate_additional_animal_language>
+				<class type="string">Ovate</class>
+				<name type="string">Additional Animal Language</name>
+				<text type="formattedtext">
+					<p>You can speak to an additional species of animal.</p>
+				</text>
+			</ovate_additional_animal_language>

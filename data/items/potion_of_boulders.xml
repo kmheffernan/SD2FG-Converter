@@ -1,0 +1,13 @@
+			<potion_of_boulders>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A surprisingly heavy grey liquid that tastes like iron.</i></p>
+				<p><b>Benefit</b> Your jaw unhinges and grotesquely widens, large enough to spew 2 magic boulders from your throat, one per round. They do 5d6 damage to a single target within near.</p>
+				</description>
+				<name type="string">Potion of Boulders</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Potion of Boulders.webp</picture>
+				<type type="string">Potion</type>
+				<weight type="number">1</weight>
+			</potion_of_boulders>

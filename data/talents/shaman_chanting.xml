@@ -1,0 +1,7 @@
+			<shaman_chanting>
+				<class type="string">Shaman</class>
+				<name type="string">Chanting</name>
+				<text type="formattedtext">
+					<p>You can perform shamanic chants you know using your drum and voice. You may choose two tier 1 chants from the shamanic chants list. Each time you gain a level, you choose new shamanic chants to learn according to the Shamanic Chants Known Table. Add your Wisdom modifier to perform shamanic chants. The Dc is 9 + the chant’s tier. If you fail a chanting check, you can’t perform that chant again until you complete a rest. For performing shamanic chants, see Chanting on pg. 40.</p>
+				</text>
+			</shaman_chanting>

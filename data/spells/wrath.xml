@@ -1,0 +1,32 @@
+			<wrath>
+				<actions>
+				<wrath_1>
+					<apply type="string"></apply>
+					<durmod type="string">10</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">Wrath; DMGTYPE: magic; ATK: 2; DMG: 2; DMG: 1d8</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</wrath_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>Your weapons become magical +2 and deal an additional d8 of damage dice for the spell's duration.</p>
+				</description>
+				<duration type="string">10 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Wrath</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</wrath>

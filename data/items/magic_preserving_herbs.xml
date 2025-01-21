@@ -1,0 +1,13 @@
+			<magic_preserving_herbs>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Bright colored dried leaves, berries, and seeds.</i></p>
+				<p><b>Benefit</b> When you use as a primary ingredient in an elixir or remedy, it gives that concoction an infinite shelf-life. Enough for 10 uses.</p>
+				</description>
+				<name type="string">Magic Preserving Herbs</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Magic Preserving Herbs.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</magic_preserving_herbs>

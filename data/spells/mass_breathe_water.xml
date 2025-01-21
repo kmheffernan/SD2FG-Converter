@@ -1,0 +1,22 @@
+			<mass_breathe_water>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You and your allies a near distance from you gain magical gills, allowing you to breathe underwater for the spell’s duration.</p>
+				</description>
+				<duration type="string">1 hour</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Mass Breathe Water</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</mass_breathe_water>

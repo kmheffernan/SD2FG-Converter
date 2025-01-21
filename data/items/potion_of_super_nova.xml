@@ -1,0 +1,14 @@
+			<potion_of_super_nova>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Always warm, red liquid that packs a spicy punch.</i></p>
+				<p><b>Benefit</b> You detonate yourself as a superheated explosion in a near area around you, dealing 5d12 damage to all creatures.</p>
+				<p><b>Curse</b> Any objects within close and all of your possessions are destroyed. You are reduced to 0 hit points.</p>
+				</description>
+				<name type="string">Potion of Super Nova</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Potion of Super Nova.webp</picture>
+				<type type="string">Potion</type>
+				<weight type="number">1</weight>
+			</potion_of_super_nova>

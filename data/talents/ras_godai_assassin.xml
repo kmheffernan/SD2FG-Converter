@@ -1,0 +1,7 @@
+			<ras_godai_assassin>
+				<class type="string">Ras-Godai</class>
+				<name type="string">Assassin</name>
+				<text type="formattedtext">
+					<p>You have advantage on checks to sneak and hide. Your attacks deal double damage against targets that are unaware of your presence.</p>
+				</text>
+			</ras_godai_assassin>

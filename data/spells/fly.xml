@@ -1,0 +1,32 @@
+			<fly>
+				<actions>
+				<fly_1>
+					<apply type="string"></apply>
+					<durmod type="string">5</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">Fly</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</fly_1>
+				</actions>
+				<class type="string">Intelligence</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>Your feet lift from the ground, and you take to the air like a hummingbird. You can fly near for the spell's duration and are able to hover in place.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Fly</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</fly>

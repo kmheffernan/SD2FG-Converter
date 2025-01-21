@@ -1,0 +1,7 @@
+			<dragonborn_breath_weapon>
+				<class type="string">Dragonborn</class>
+				<name type="string">Breath Weapon</name>
+				<text type="formattedtext">
+					<p>1/day, unleash a breath weapon based on your draconic heritage that deals 1d8 damage in a near-length line starting from you.</p>
+				</text>
+			</dragonborn_breath_weapon>

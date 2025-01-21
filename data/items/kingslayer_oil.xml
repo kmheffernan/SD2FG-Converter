@@ -1,0 +1,11 @@
+			<kingslayer_oil>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p>Rarity: Uncommon; Use: Eat; Effect: DC 18 CON or delayed onset (1 hour) go to 0 HP</p>
+				</description>
+				<name type="string">Kingslayer oil</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<type type="string">Equipment</type>
+				<weight type="number">1</weight>
+			</kingslayer_oil>

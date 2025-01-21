@@ -1,0 +1,32 @@
+			<drainblade>
+				<actions>
+				<drainblade_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Drainblade; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</drainblade_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>A melee weapon you touch becomes thirsty for blood. It now heals the wielder for an amount of HP equal to the damage it deals, encouraging the wielder to keep fighting.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Drainblade</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</drainblade>

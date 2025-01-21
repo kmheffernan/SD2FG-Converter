@@ -1,0 +1,23 @@
+			<resurrect_animal>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You bring a natural animal you touch back to life from the dead.</p>
+					<p>The animal must have been dead for no more than the number of days equal to half your level rounded up.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Resurrect Animal</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</resurrect_animal>

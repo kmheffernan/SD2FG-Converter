@@ -1,0 +1,22 @@
+			<world_serpent>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>The torturous venom of the World Serpent drips from the weapons of a creature you touch. The target deals x2 damage with each attack (x4 on a critical hit) for the spell's duration.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">World Serpent</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Touch</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</world_serpent>

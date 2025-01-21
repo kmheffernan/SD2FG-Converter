@@ -1,0 +1,7 @@
+			<black_lotus_improved_assassin>
+				<class type="string">Black Lotus</class>
+				<name type="string">Improved Assassin</name>
+				<text type="formattedtext">
+					<p>You deal triple damage with your Assassin talent.</p>
+				</text>
+			</black_lotus_improved_assassin>

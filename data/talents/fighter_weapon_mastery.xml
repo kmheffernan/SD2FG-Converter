@@ -1,0 +1,7 @@
+			<fighter_weapon_mastery>
+				<class type="string">Fighter</class>
+				<name type="string">Weapon Mastery</name>
+				<text type="formattedtext">
+					<p>Choose one type of weapon, such as longswords. You gain +1 to attack and damage with that weapon type. In addition, add half your level to these rolls (round down).</p>
+				</text>
+			</fighter_weapon_mastery>

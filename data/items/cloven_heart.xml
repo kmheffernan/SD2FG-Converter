@@ -1,0 +1,11 @@
+			<cloven_heart>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A heart-shaped, glittering ruby with crack down center. Grants owner immunity to fire, +2 STR, +2 CHA, and the enmity of the dralech, Tzakoru, who wants it back.</i></p>
+				</description>
+				<name type="string">Cloven Heart</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</cloven_heart>

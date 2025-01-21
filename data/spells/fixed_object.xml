@@ -1,0 +1,32 @@
+			<fixed_object>
+				<actions>
+				<fixed_object_1>
+					<apply type="string"></apply>
+					<durmod type="string">5</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">Fixed Object</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</fixed_object_1>
+				</actions>
+				<class type="string">Intelligence</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>An object you touch that weighs no more than 5 pounds becomes fixed in its current location. It can support up to 5,000 pounds of weight for the duration of the spell.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Fixed Object</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</fixed_object>

@@ -1,0 +1,12 @@
+			<bottle>
+				<cost type="string">3 sp</cost>
+				<description type="formattedtext">
+					<p>Glass containers that hold one draught of liquid.</p>
+				</description>
+				<name type="string">Bottle</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token"></picture>
+				<type type="string">Equipment</type>
+				<weight type="number">1</weight>
+			</bottle>

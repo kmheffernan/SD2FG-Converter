@@ -1,0 +1,25 @@
+			<read_the_runes>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>You ask the gods a question and cast the runestones, interpreting the meaning of the results. Ask the Game Master one yes or no question. The Game Master truthfully answers "yes" or "no."</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.ead_the_runesjpg">Image: ead the Runes.jpg</link>
+					</linklist>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Read the Runes</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</read_the_runes>

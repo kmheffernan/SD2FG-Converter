@@ -1,0 +1,7 @@
+			<shaman_additional_shamanic_chant>
+				<class type="string">Shaman</class>
+				<name type="string">Additional Shamanic Chant</name>
+				<text type="formattedtext">
+					<p>Learn one additional shamanic chant of any tier you know.</p>
+				</text>
+			</shaman_additional_shamanic_chant>

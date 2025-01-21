@@ -1,0 +1,14 @@
+			<spyglass_of_true_sight>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A brass, telescoping lens with magical runes carved on it.</i></p>
+				<p><b>Benefit.</b> When you look through the spyglass, you can see invisible creatures and objects.</p>
+				<p><b>Curse.</b> The wielder feels a compulsion to look at everything through the spyglass.</p>
+				</description>
+				<name type="string">Spyglass of True Sight</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Spyglass of True Sight.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</spyglass_of_true_sight>

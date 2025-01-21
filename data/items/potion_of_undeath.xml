@@ -1,0 +1,13 @@
+			<potion_of_undeath>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Burgundy beverage that tastes like blood.</i></p>
+				<p><b>Curse</b> Some of your skin melts off your body, you die, and you rise again as a zombie. You are now a risen. Your ancestry bonus is lost, but you gain the risen ancestry bonus.</p>
+				</description>
+				<name type="string">Potion of Undeath</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Potion of Undeath.webp</picture>
+				<type type="string">Potion</type>
+				<weight type="number">1</weight>
+			</potion_of_undeath>

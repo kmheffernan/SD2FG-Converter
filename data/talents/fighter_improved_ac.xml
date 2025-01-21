@@ -1,0 +1,10 @@
+			<fighter_improved_ac>
+				<class type="string">Fighter</class>
+				<name type="string">Improved AC</name>
+				<text type="formattedtext">
+					<p>Choose one kind of armor. You get +1 AC from that armor.</p>
+					<p>If this is an Ancestry Talent, then check  to see if the following effect was already added to your Character Effects section.</p>
+					<p>If this is a Class Talent, then add the following effect to the Character Effects section of the Note tab and edit as needed.</p>
+					<p>[AC: 1]</p>
+				</text>
+			</fighter_improved_ac>

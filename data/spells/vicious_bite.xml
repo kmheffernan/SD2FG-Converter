@@ -1,0 +1,37 @@
+			<vicious_bite>
+				<actions>
+				<vicious_bite_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Vicious Bite; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</vicious_bite_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>The teeth on an animal you touch elongates and sharpens.</p>
+					<p>The animal gains an extra die of damage on any bite attack.</p>
+					<p>This spell can be applied to Beastmasters.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.vicious_bite">Image: Vicious Bite</link>
+					</linklist>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Vicious Bite</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</vicious_bite>

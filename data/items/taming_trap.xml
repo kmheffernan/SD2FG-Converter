@@ -1,0 +1,13 @@
+			<taming_trap>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A small magical trap that appears as a pile of food.</i></p>
+				<p><b>Benefit</b> You can set it overnight in an area with LV 0 or LV 1 animals. In the morning, an animal of the GM's choosing will be trapped. It needs only 10 minutes for an ovate to train it for companionship.</p>
+				</description>
+				<name type="string">Taming Trap</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Taming Trap.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</taming_trap>

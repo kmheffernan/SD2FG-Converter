@@ -1,0 +1,35 @@
+			<giant_antapult>
+				<actions>
+				<giant_antapult_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Giant Antapult; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</giant_antapult_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string">8d6</damage>
+				<damagetype type="string">blunt</damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You wring your hands, conjuring a group of giant ants that form into a makeshift catapult capable of launching magical boulders at a single visible target within far. Make a ranged attack that deals 8d6 blunt damage on a successful hit.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.giant_antapult">Image: Giant Antapult</link>
+					</linklist>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Giant Antapult</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string">Damage</type>
+			</giant_antapult>

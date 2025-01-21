@@ -1,0 +1,32 @@
+			<scrying>
+				<actions>
+				<scrying_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Scrying; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</scrying_1>
+				</actions>
+				<class type="string">Charisma</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You look into a crystal ball or reflecting pool, calling up images of a distant place. For the spell's duration, you can see and hear a creature or location you choose that is on the same plane. This spell is DC 18 to cast if you try to scry on a creature or location that is unfamiliar to you. Each round, creatures you view may make a Wisdom check vs. your last spellcasting check. On a success, they become aware of your magical observation.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Scrying</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">wisdom</opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</scrying>

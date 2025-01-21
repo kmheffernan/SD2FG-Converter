@@ -1,0 +1,26 @@
+			<bonefire>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>You light a corpse into a magical campfire that cannot be moved, illuminating a near distance.</p>
+					<p>There is a 50% chance that the necromantic energy from the fire will deter random monsters.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.bonefire">Image: Bonefire</link>
+					</linklist>
+				</description>
+				<duration type="string">1 rest</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Bonefire</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</bonefire>

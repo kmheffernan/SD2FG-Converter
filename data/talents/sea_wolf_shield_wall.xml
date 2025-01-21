@@ -1,0 +1,7 @@
+			<sea_wolf_shield_wall>
+				<class type="string">Sea Wolf</class>
+				<name type="string">Shield Wall</name>
+				<text type="formattedtext">
+					<p>If you wield a shield, you can use your action to take a defensive stance. Your AC becomes 20 during this time.</p>
+				</text>
+			</sea_wolf_shield_wall>

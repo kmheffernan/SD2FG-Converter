@@ -1,0 +1,22 @@
+			<lokis_trickery>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You are filled with Loki's hypnotic guile. Creatures who hear you speak will alter their own beliefs and memories to match your suggestion. Target one creature who can hear and understand you within range. You make one plausible statement, true or not. The target must make a Wisdom check vs. your last spellcasting check. If it fails, it now believes what you stated as though it were fact, regardless of what it knows.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Loki's Trickery</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">wisdom</opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</lokis_trickery>

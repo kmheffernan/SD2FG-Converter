@@ -1,0 +1,10 @@
+			<kytheros_ac_bonus>
+				<class type="string">Kytheros</class>
+				<name type="string">AC Bonus</name>
+				<text type="formattedtext">
+					<p>Gain +1 to your AC through supernatural foresight</p>
+					<p>If this is an Ancestry Talent, then check  to see if the following effect was already added to your Character Effects section.</p>
+					<p>If this is a Class Talent, then add the following effect to the Character Effects section of the Note tab and edit as needed.</p>
+					<p>[AC: 1]</p>
+				</text>
+			</kytheros_ac_bonus>

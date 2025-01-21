@@ -1,0 +1,7 @@
+			<shaman_additional_use_of_healing_circle>
+				<class type="string">Shaman</class>
+				<name type="string">Additional Use of Healing Circle</name>
+				<text type="formattedtext">
+					<p>Gain an additional use of your Healing Circle talent each day.</p>
+				</text>
+			</shaman_additional_use_of_healing_circle>

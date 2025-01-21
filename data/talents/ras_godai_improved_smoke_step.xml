@@ -1,0 +1,7 @@
+			<ras_godai_improved_smoke_step>
+				<class type="string">Ras-Godai</class>
+				<name type="string">Improved Smoke Step</name>
+				<text type="formattedtext">
+					<p>Gain an additional use of your Smoke Step talent.</p>
+				</text>
+			</ras_godai_improved_smoke_step>

@@ -1,0 +1,14 @@
+			<pipes_of_the_sewers>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A set of tarnished, brass pan pipes with seven cylinders.</i></p>
+				<p><b>Benefit.</b> Once per day, you can play these pipes to summon 2d6 giant rats. The rats obey you for d6 rounds, and then they scatter and flee.</p>
+				<p><b>Curse.</b> If you stop playing while the rats are present, they turn on you and attack.</p>
+				</description>
+				<name type="string">Pipes of the Sewers</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Pipes of the Sewers.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</pipes_of_the_sewers>

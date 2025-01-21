@@ -1,0 +1,25 @@
+			<magic_missile>
+				<actions />
+				<class type="string">Intelligence</class>
+				<damage type="string">1d4</damage>
+				<damagetype type="string">force</damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You have advantage on your check to cast this spell. A glowing bolt of force streaks from your open hand, dealing 1d4 force damage to one target.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.magic_missile">Image: Magic Missile</link>
+					</linklist>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Magic Missile</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string">Damage</type>
+			</magic_missile>

@@ -1,0 +1,13 @@
+			<ossian_etcher>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A finely detailed silver chisel adorned with precious gemstones.</i></p>
+				<p><b>Benefit</b> You can heal the undead with a single touch, mending 1d6 HP. You can also craft magical +1 bone-tipped arrows if you have the bone material and 10 minutes to carve each one.</p>
+				</description>
+				<name type="string">Ossian Etcher</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Ossian Etcher.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</ossian_etcher>

@@ -1,0 +1,10 @@
+			<titania_learn_longbow_or_attack_bonus>
+				<class type="string">Titania</class>
+				<name type="string">Learn Longbow or Attack Bonus</name>
+				<text type="formattedtext">
+					<p>Learn to wield a longbow or gain +1 to ranged attacks</p>
+					<p>If this is an Ancestry Talent, then check  to see if the following effect was already added to your Character Effects section.</p>
+					<p>If this is a Class Talent, then add the following effect to the Character Effects section of the Note tab and edit as needed.</p>
+					<p>[ATK: 1, ranged]</p>
+				</text>
+			</titania_learn_longbow_or_attack_bonus>

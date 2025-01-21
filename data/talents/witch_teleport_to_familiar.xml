@@ -1,0 +1,7 @@
+			<witch_teleport_to_familiar>
+				<class type="string">Witch</class>
+				<name type="string">Teleport to Familiar</name>
+				<text type="formattedtext">
+					<p>1/day, teleport to your familiar's location as a move; if duplicate result, +1/day.</p>
+				</text>
+			</witch_teleport_to_familiar>

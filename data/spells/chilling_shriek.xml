@@ -1,0 +1,23 @@
+			<chilling_shriek>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>With a ghastly scream, you terrify living creatures.</p>
+					<p>Living creatures LV 9 or less within near of you must make a CON check vs. your spellcasting check or flee from you for 1d4 rounds.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Chilling Shriek</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">con</opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</chilling_shriek>

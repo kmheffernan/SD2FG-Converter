@@ -1,0 +1,32 @@
+			<mage_armor>
+				<actions>
+				<mage_armor_1>
+					<apply type="string"></apply>
+					<durmod type="string">10</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">Mage Armor; AC: X</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</mage_armor_1>
+				</actions>
+				<class type="string">Intelligence</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>An invisible layer of magical force protects your vitals. Your armor class becomes 14 (18 on a critical spellcasting check) for the spell’s duration. [Replace the X values in the effects with the correct amounts for success result and critical success result.]</p>
+				</description>
+				<duration type="string">10 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Mage Armor</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</mage_armor>
