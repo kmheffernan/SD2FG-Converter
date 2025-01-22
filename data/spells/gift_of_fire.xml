@@ -11,13 +11,14 @@
 				</gift_of_fire_1>
 				</actions>
 				<class type="string">Wisdom</class>
-				<damage type="string"></damage>
-				<damagetype type="string"></damagetype>
+				<damage type="string">1d4</damage>
+				<damagetype type="string">fire</damagetype>
 				<dc type="string">14</dc>
 				<description type="formattedtext">
+					<p>You cause the wielded weapons of your allies in a near area centered on you to leap into flame. These weapons do an additional 1d4 fire damage.</p>
 					<p>Any newly acquired or drawn weapons are set on fire for each round the chant continues.</p>
 				</description>
-				<duration type="string">Range: Near</duration>
+				<duration type="string">Focus</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
@@ -25,8 +26,8 @@
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">You cause the wielded weapons of your allies in a near area centered on you to leap into flame. These weapons do an additional 1d4 fire damage.</range>
+				<range type="string">Near</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">4</tier>
-				<type type="string"></type>
+				<type type="string">Damage</type>
 			</gift_of_fire>

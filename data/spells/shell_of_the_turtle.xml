@@ -15,8 +15,9 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">11</dc>
 				<description type="formattedtext">
+					<p>You invoke the tortoise’s protective energies, granting you and your allies within a near range a +1 bonus to AC.</p>
 				</description>
-				<duration type="string">Range: Near</duration>
+				<duration type="string">Focus</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
@@ -24,7 +25,7 @@
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">You invoke the tortoise’s protective energies, granting you and your allies within a near range a +1 bonus to AC.</range>
+				<range type="string">Near</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">1</tier>
 				<type type="string"></type>

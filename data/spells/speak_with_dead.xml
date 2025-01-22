@@ -1,23 +1,23 @@
-			<hiss_of_the_viper>
+			<speak_with_dead>
 				<actions />
-				<class type="string">Wisdom</class>
+				<class type="string">Constitution</class>
 				<damage type="string"></damage>
 				<damagetype type="string"></damagetype>
 				<dc type="string">11</dc>
 				<description type="formattedtext">
-					<p>You hiss loudly and rattle your shakers, calling on the spirit of the serpent.</p>
-					<p>Enemies within a near area centered on you must make a DC 9 morale check at the beginning of their turn.</p>
+					<p>A dead body you touch answers your questions. You can ask up to three yes or no questions (one at a time). The corpse truthfully answers “yes” or “no” to each.</p>
+					<p>If you cast this spell more than once in 24 hours, treat a failed spellcasting check for it as a critical failure, instead.</p>
 				</description>
-				<duration type="string">Focus</duration>
+				<duration type="string">Instant</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
-				<name type="string">Hiss of the Viper</name>
+				<name type="string">Speak with Dead</name>
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">Near</range>
+				<range type="string">Close</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">1</tier>
 				<type type="string"></type>
-			</hiss_of_the_viper>
+			</speak_with_dead>

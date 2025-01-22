@@ -5,9 +5,10 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">14</dc>
 				<description type="formattedtext">
+					<p>You invoke the fierce spirit of the mantis. Enemies a near distance from you who damage you or your allies inflict an additional half damage to themselves.</p>
 					<p>Targets know this damage is coming from you.</p>
 				</description>
-				<duration type="string">Range: Near</duration>
+				<duration type="string">Focus</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
@@ -15,7 +16,7 @@
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">You invoke the fierce spirit of the mantis. Enemies a near distance from you who damage you or your allies inflict an additional half damage to themselves.</range>
+				<range type="string">Near</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">4</tier>
 				<type type="string"></type>

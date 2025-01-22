@@ -5,9 +5,10 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">11</dc>
 				<description type="formattedtext">
+					<p>You open yourself to the abundance of the universe.</p>
 					<p>When you or your allies discover treasure worth at least 1 XP, you gain an additional +1 XP.</p>
 				</description>
-				<duration type="string">Range: Far</duration>
+				<duration type="string">Focus</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
@@ -15,7 +16,7 @@
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">You open yourself to the abundance of the universe.</range>
+				<range type="string">Far</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">1</tier>
 				<type type="string"></type>

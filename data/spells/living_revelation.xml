@@ -5,9 +5,10 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">15</dc>
 				<description type="formattedtext">
+					<p>Your rhythmic chant pierces through walls and doors, revealing the presence of living creatures beyond. You can determine their approximate size, shape, and location.</p>
 					<p>The chant reveals creatures behind walls up to a far distance, but the sound cannot penetrate through double walls.</p>
 				</description>
-				<duration type="string">Range: Far</duration>
+				<duration type="string">Focus</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
@@ -15,7 +16,7 @@
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">Your rhythmic chant pierces through walls and doors, revealing the presence of living creatures beyond. You can determine their approximate size, shape, and location.</range>
+				<range type="string">Far</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">5</tier>
 				<type type="string"></type>

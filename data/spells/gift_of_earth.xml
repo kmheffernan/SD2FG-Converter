@@ -15,9 +15,10 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">12</dc>
 				<description type="formattedtext">
+					<p>Your resonating chant causes yourself and your allies in a near area centered on you to become rooted in place and grow barklike skin, giving a +2 AC bonus.</p>
 					<p>You and your allies are rooted in place until the chant ends.</p>
 				</description>
-				<duration type="string">Range: Near</duration>
+				<duration type="string">Focus</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
@@ -25,7 +26,7 @@
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">Your resonating chant causes yourself and your allies in a near area centered on you to become rooted in place and grow barklike skin, giving a +2 AC bonus.</range>
+				<range type="string">Near</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">2</tier>
 				<type type="string"></type>

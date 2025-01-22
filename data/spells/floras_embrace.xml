@@ -5,8 +5,9 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">11</dc>
 				<description type="formattedtext">
+					<p>You awaken the spirits of the plants, entwining foes in a near area within range. Affected foes are reduced to moving a close distance on their turn. Targets can escape if they pass a STR check vs. your last chanting check.</p>
 				</description>
-				<duration type="string">Range: Far</duration>
+				<duration type="string">Focus</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
@@ -14,7 +15,7 @@
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">You awaken the spirits of the plants, entwining foes in a near area within range. Affected foes are reduced to moving a close distance on their turn. Targets can escape if they pass a STR check vs. your last chanting check.</range>
+				<range type="string">Far</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">1</tier>
 				<type type="string"></type>

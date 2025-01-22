@@ -5,9 +5,10 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">13</dc>
 				<description type="formattedtext">
+					<p>You call on the water spirits, who enchant all allies in a near area centered around you. As an action, they can unleash a forceful spray of water from an extended hand, dousing flames and pushing enemies straight back from close to near with a successful ranged attack roll.</p>
 					<p>Targets can withstand the water spray by making a STR check vs. the attack roll.</p>
 				</description>
-				<duration type="string">Range: Near</duration>
+				<duration type="string">Focus</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
@@ -15,7 +16,7 @@
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">You call on the water spirits, who enchant all allies in a near area centered around you. As an action, they can unleash a forceful spray of water from an extended hand, dousing flames and pushing enemies straight back from close to near with a successful ranged attack roll.</range>
+				<range type="string">Near</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">3</tier>
 				<type type="string"></type>

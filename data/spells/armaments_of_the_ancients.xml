@@ -15,8 +15,9 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">13</dc>
 				<description type="formattedtext">
+					<p>You invoke ancestral grace, imbuing your near allies’ weapons with magic. They all become +1 magical weapons.</p>
 				</description>
-				<duration type="string">Range: Near</duration>
+				<duration type="string">Focus</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
@@ -24,7 +25,7 @@
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">You invoke ancestral grace, imbuing your near allies’ weapons with magic. They all become +1 magical weapons.</range>
+				<range type="string">Near</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">3</tier>
 				<type type="string"></type>

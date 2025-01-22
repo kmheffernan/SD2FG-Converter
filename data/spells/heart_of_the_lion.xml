@@ -15,9 +15,10 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">11</dc>
 				<description type="formattedtext">
+					<p>You bang your drum with ferocity, causing yourself and your allies within near range to gain unwavering determination.</p>
 					<p>Those affected cannot be surprised and have advantage on initiative rolls.</p>
 				</description>
-				<duration type="string">Range: Near</duration>
+				<duration type="string">Focus</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
@@ -25,7 +26,7 @@
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">You bang your drum with ferocity, causing yourself and your allies within near range to gain unwavering determination.</range>
+				<range type="string">Near</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">1</tier>
 				<type type="string"></type>

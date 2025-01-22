@@ -5,8 +5,9 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">12</dc>
 				<description type="formattedtext">
+					<p>Anyone who hears your chant are compelled to reveal the unvarnished truth.</p>
 				</description>
-				<duration type="string">Range: Far</duration>
+				<duration type="string">Focus</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
@@ -14,7 +15,7 @@
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">Anyone who hears your chant are compelled to reveal the unvarnished truth.</range>
+				<range type="string">Far</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">2</tier>
 				<type type="string"></type>

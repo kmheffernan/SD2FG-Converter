@@ -15,8 +15,9 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">12</dc>
 				<description type="formattedtext">
+					<p>You channel the spry spirit of the gazelle, granting you and your allies within a near distance from you advantage on all DEX checks and ranged attacks.</p>
 				</description>
-				<duration type="string">Range: Near</duration>
+				<duration type="string">Focus</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
@@ -24,7 +25,7 @@
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">You channel the spry spirit of the gazelle, granting you and your allies within a near distance from you advantage on all DEX checks and ranged attacks.</range>
+				<range type="string">Near</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">2</tier>
 				<type type="string"></type>

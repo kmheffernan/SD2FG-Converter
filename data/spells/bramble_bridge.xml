@@ -5,9 +5,10 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">13</dc>
 				<description type="formattedtext">
+					<p>Your song stirs the dormant energy within the surrounding plants, prompting them to sprout and weave together into a bridge, stairway, or ramp, spanning a near-sized cube.</p>
 					<p>Attempts to maintain this chant are made with advantage.</p>
 				</description>
-				<duration type="string">Range: Far</duration>
+				<duration type="string">Focus</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
@@ -15,7 +16,7 @@
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">Your song stirs the dormant energy within the surrounding plants, prompting them to sprout and weave together into a bridge, stairway, or ramp, spanning a near-sized cube.</range>
+				<range type="string">Far</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">3</tier>
 				<type type="string"></type>

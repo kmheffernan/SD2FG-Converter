@@ -5,8 +5,9 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">15</dc>
 				<description type="formattedtext">
+					<p>You compel your allies within near range from you to expel any curses, enchantments, possessions, poisons, diseases, or parasites.</p>
 				</description>
-				<duration type="string">Range: Near</duration>
+				<duration type="string">Focus</duration>
 				<healing type="string"></healing>
 				<level type="string"></level>
 				<mult type="number"></mult>
@@ -14,7 +15,7 @@
 				<opposed type="number"></opposed>
 				<opposed_dc type="number"></opposed_dc>
 				<opposedAbility type="string"></opposedAbility>
-				<range type="string">You compel your allies within near range from you to expel any curses, enchantments, possessions, poisons, diseases, or parasites.</range>
+				<range type="string">Near</range>
 				<shortdescription type="string"></shortdescription>
 				<tier type="number">5</tier>
 				<type type="string"></type>
