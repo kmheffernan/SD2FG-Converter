@@ -1,0 +1,22 @@
+			<the_sky_is_falling>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string">2d6</damage>
+				<damagetype type="string">blunt</damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>All enemies must make a DEX check vs. your last chanting check or take 2d6 blunt damage.</p>
+				</description>
+				<duration type="string">Range: Near</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">The Sky Is Falling</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Your spirit guides deem your enemies unworthy, releasing falling debris from the sky to strike them in a near area centered on you.</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string">Damage</type>
+			</the_sky_is_falling>

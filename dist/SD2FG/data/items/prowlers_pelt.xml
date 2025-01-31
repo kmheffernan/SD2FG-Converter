@@ -1,0 +1,14 @@
+			<prowlers_pelt>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>An opulent fur cloak that shimmers in the moonlight.</i></p>
+				<p><b>Benefit</b> If positive, add your CON bonus to your AC.</p>
+				<p><b>Curse</b> Benefit only granted when worn without armor or over leather.</p>
+				</description>
+				<name type="string">Prowler's Pelt</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Prowler's Pelt.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</prowlers_pelt>

@@ -1,0 +1,32 @@
+			<nightmare>
+				<actions>
+				<nightmare_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Nightmare; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</nightmare_1>
+				</actions>
+				<class type="string">Charisma</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You visit the dreams of one sleeping creature, sending it heart-stopping nightmares. You can target a creature whose level is less than or equal to half your level rounded down (minimum 1). The target must be sleeping, and you must have seen it before in person. If you successfully focus on this spell for 3 rounds in a row, the creature dies of fright.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Nightmare</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">On the same plane</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</nightmare>

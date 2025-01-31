@@ -1,0 +1,32 @@
+			<touch_of_fatigue>
+				<actions>
+				<touch_of_fatigue_1>
+					<apply type="string"></apply>
+					<durmod type="string">1</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">DISATK; disadvantage on spell checks</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</touch_of_fatigue_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>A target you touch becomes exhausted during its next turn, giving it disadvantage on attacks and spellcasting checks.</p>
+				</description>
+				<duration type="string">1 round</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Touch of Fatigue</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</touch_of_fatigue>

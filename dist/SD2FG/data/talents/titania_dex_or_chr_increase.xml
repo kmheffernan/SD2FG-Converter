@@ -1,0 +1,7 @@
+			<titania_dex_or_chr_increase>
+				<class type="string">Titania</class>
+				<name type="string">DEX or CHR Increase</name>
+				<text type="formattedtext">
+					<p>+2 to Dexterity or Charisma stat.</p>
+				</text>
+			</titania_dex_or_chr_increase>

@@ -5,9 +5,11 @@
 keep_log=no
 #keep_log=yes
 #Level of reporting for the log file (development|production)
-report_level=development
-#report_level=production
+#report_level=development
+report_level=production
 #Use the GUI? (yes|no)
 use_gui=yes
-#Set save path? Comment out to use the GUI to chose the save path
+#use_gui=no
+#Set save path? Comment out to use the GUI to choose the save path
 #save_path=C:/Users/kevin/AppData/Roaming/SmiteWorks/Fantasy Grounds Unity/characters
+#save_path=C:/Users/kevin/OneDrive/Cloud/GitHub/SD2FG-Converter/out

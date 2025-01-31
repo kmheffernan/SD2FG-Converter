@@ -1,0 +1,14 @@
+			<moldy_scroll>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Scroll of Charm Person</i></p>
+				<linklist>
+					<link class="power" recordname="reference.power.charm_person@IPFGSDTALCOREPLAYER">Spell: Charm Person</link>
+				</linklist>
+				</description>
+				<name type="string">Moldy Scroll</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<type type="string">Scroll</type>
+				<weight type="number">1</weight>
+			</moldy_scroll>

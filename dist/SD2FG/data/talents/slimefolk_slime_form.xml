@@ -1,0 +1,7 @@
+			<slimefolk_slime_form>
+				<class type="string">Slimefolk</class>
+				<name type="string">Slime Form</name>
+				<text type="formattedtext">
+					<p>You can freely alter your shape to mimic other humanoids. 1/day, you can also morph into a puddle of goo for 3 rounds. Puddle speed is halved and equipment does not morph.</p>
+				</text>
+			</slimefolk_slime_form>

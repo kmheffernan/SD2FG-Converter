@@ -1,0 +1,13 @@
+			<scarab_of_protection>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A brooch made from a horned scarab beetle dipped in gold.</i></p>
+				<p><b>Benefit.</b> If you die, make a DC 18 Constitution check. If you succeed, you are unconscious instead of dead.</p>
+				</description>
+				<name type="string">Scarab of Protection</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Scarab of Protection.webp</picture>
+				<type type="string">Jewelry</type>
+				<weight type="number">1</weight>
+			</scarab_of_protection>

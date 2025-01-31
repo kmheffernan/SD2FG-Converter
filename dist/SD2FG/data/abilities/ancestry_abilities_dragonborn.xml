@@ -1,0 +1,8 @@
+			<breath_weapon>
+				<counter type="number">0</counter>
+				<countercheck type="number">0</countercheck>
+				<name type="string">Breath Weapon</name>
+				<text type="formattedtext">
+					<p>1/day, unleash a breath weapon based on your draconic heritage that deals 1d8 damage in a near-length line starting from you. You need to set this up as a weapon.</p>
+				</text>
+			</breath_weapon>

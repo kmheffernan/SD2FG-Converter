@@ -1,0 +1,10 @@
+			<beastmaster_beast_hide>
+				<class type="string">Beastmaster</class>
+				<name type="string">Beast Hide</name>
+				<text type="formattedtext">
+					<p>Your skin is covered with a protective hide. If your Con modifier is positive, add it to your AC.</p>
+					<p>If this is an Ancestry Talent, then check  to see if the following effect was already added to your Character Effects section.</p>
+					<p>If this is a Class Talent, then add the following effect to the Character Effects section of the Note tab and edit as needed.</p>
+					<p>[AC: CON]</p>
+				</text>
+			</beastmaster_beast_hide>

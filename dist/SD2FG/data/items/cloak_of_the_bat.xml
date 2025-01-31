@@ -1,0 +1,14 @@
+			<cloak_of_the_bat>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A leathery, black cloak that has a ragged hem and a hood with pointed ears.</i></p>
+				<p><b>Benefit.</b> You can fly a near distance as your movement while in a shadowy area.</p>
+				<p><b>Curse.</b> Each time you use the cloak to fly, roll a d20. On a result of 1, you and your gear turn into a small bat for 3 rounds.</p>
+				</description>
+				<name type="string">Cloak of the Bat</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Cloak of the Bat.webp</picture>
+				<type type="string">Clothing</type>
+				<weight type="number">1</weight>
+			</cloak_of_the_bat>

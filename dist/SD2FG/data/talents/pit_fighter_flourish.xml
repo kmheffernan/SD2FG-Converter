@@ -1,0 +1,7 @@
+			<pit_fighter_flourish>
+				<class type="string">Pit Fighter</class>
+				<name type="string">Flourish</name>
+				<text type="formattedtext">
+					<p>3/day, regain 1d6 hit points when you hit an enemy with a melee attack.</p>
+				</text>
+			</pit_fighter_flourish>

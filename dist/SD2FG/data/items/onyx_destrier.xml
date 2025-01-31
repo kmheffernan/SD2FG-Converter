@@ -1,0 +1,13 @@
+			<onyx_destrier>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A polished, ebony statuette of a running horse.</i></p>
+				<p><b>Benefit.</b> Once per day, the wielder can speak the command word to turn the statuette into a nightmare that accepts neutral or chaotic riders. The statuette remains in this form for 1 hour.</p>
+				</description>
+				<name type="string">Onyx Destrier</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Onyx Destrier.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</onyx_destrier>

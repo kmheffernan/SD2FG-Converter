@@ -1,0 +1,7 @@
+			<thief_stat_increase>
+				<class type="string">Thief</class>
+				<name type="string">Stat Increase</name>
+				<text type="formattedtext">
+					<p>+2 to Strength, Dexterity, or Charisma stat.</p>
+				</text>
+			</thief_stat_increase>

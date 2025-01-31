@@ -1,0 +1,35 @@
+			<gaseous_form>
+				<actions>
+				<gaseous_form_1>
+					<apply type="string"></apply>
+					<durmod type="string">10</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">Gaseous Form</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</gaseous_form_1>
+				</actions>
+				<class type="string">Intelligence</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You and your gear turn into a cloud of smoke for the spell's duration. You can fly and pass through any gap that smoke could. You can sense the terrain and any movement around you out to a near distance. You can't cast spells while in this form.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.gaseous_form">Image: Gaseous Form</link>
+					</linklist>
+				</description>
+				<duration type="string">10 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Gaseous Form</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</gaseous_form>

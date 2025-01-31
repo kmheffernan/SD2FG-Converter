@@ -1,0 +1,13 @@
+			<boots_of_the_cat>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Gray, doeskin boots as thin and soft as slippers.</i></p>
+				<p><b>Benefit.</b> You can jump up to a near distance from a standstill. Your checks to move silently are always easy (DC 9).</p>
+				</description>
+				<name type="string">Boots of the Cat</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Boots of the Cat.webp</picture>
+				<type type="string">Clothing</type>
+				<weight type="number">1</weight>
+			</boots_of_the_cat>

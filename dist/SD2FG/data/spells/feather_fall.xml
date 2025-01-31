@@ -1,0 +1,22 @@
+			<feather_fall>
+				<actions />
+				<class type="string">Intelligence</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You may make an attempt to cast this spell when you fall. Your rate of descent slows so that you land safely on your feet.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Feather Fall</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</feather_fall>

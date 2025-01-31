@@ -1,0 +1,33 @@
+			<grasp_from_the_grave>
+				<actions>
+				<grasp_from_the_grave_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Grasp from the Grave; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</grasp_from_the_grave_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string">1d4</damage>
+				<damagetype type="string">blunt</damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>You call forth spectral hands that erupt from the ground in a near-sized cube of effect. All creatures in the cube move at half speed and take 1d4 blunt damage per round.</p>
+					<p>Once cast, the spectral hands cannot be moved.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Grasp from the Grave</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string">Damage</type>
+			</grasp_from_the_grave>

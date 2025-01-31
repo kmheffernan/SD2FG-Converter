@@ -1,8 +1,0 @@
-Hug - DEBUG - Converting Hug.
-Hug - DEBUG - Setting 'use_gui' = 'yes' detected. GUI used.
-Hug - DEBUG - Converter class initialized.
-Hug - DEBUG - Current working directory: C:\Users\kevin\OneDrive\Cloud\Shadowdarklings
-Hug - DEBUG - Target .json file: C:\Users\kevin\Downloads\Hug.json.
-Hug - DEBUG - Log text passed to confirm_save_window: No warnings / errors..
-Hug - DEBUG - Setting 'save_path' not detected. Use GUI to confirm save path.
-Hug - DEBUG - Initial save path set to 'C:\Users\kevin\Downloads\Hug.json'

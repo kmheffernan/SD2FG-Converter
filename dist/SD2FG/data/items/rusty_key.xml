@@ -1,0 +1,11 @@
+			<rusty_key>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Once/day, fire immunity 1d4 rounds.</i></p>
+				</description>
+				<name type="string">Rusty Key</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</rusty_key>

@@ -1,0 +1,7 @@
+			<priest_turn_undead>
+				<class type="string">Priest</class>
+				<name type="string">Turn Undead</name>
+				<text type="formattedtext">
+					<p>You know the turn undead spell. It doesn’t count toward your number of known spells.</p>
+				</text>
+			</priest_turn_undead>

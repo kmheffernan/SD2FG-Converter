@@ -1,0 +1,10 @@
+			<fiend_improved_attacks>
+				<class type="string">Fiend</class>
+				<name type="string">Improved Attacks</name>
+				<text type="formattedtext">
+					<p>+1 to melee and ranged attacks.</p>
+					<p>If this is an Ancestry Talent, then check  to see if the following effect was already added to your Character Effects section.</p>
+					<p>If this is a Class Talent, then add the following effect to the Character Effects section of the Note tab and edit as needed.</p>
+					<p>[ATK: 1]</p>
+				</text>
+			</fiend_improved_attacks>

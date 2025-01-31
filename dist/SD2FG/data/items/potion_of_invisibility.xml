@@ -1,0 +1,13 @@
+			<potion_of_invisibility>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>This glass vial appears to be empty, but a liquid audibly splashes around inside it.</i></p>
+				<p><b>Benefit.</b> When you drink this potion, you become invisible for 10 rounds or until you attack or cast a spell.</p>
+				</description>
+				<name type="string">Potion of Invisibility</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Potion of Invisibility.webp</picture>
+				<type type="string">Potion</type>
+				<weight type="number">1</weight>
+			</potion_of_invisibility>

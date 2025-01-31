@@ -1,0 +1,32 @@
+			<charm_person>
+				<actions>
+				<charm_preson_1>
+					<apply type="string"></apply>
+					<durmod type="string">1d8</durmod>
+					<durunit type="string">day</durunit>
+					<label type="string">charmed</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</charm_preson_1>
+				</actions>
+				<class type="string">Charisma</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You magically beguile one humanoid of LV 2 or less within near range, who regards you as a friend for the duration. The spell ends if you or your allies do anything harmful to the target. The target knows it was magically charmed after the spell ends.</p>
+				</description>
+				<duration type="string">1d8 days</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Charm Person</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</charm_person>

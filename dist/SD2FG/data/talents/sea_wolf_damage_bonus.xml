@@ -1,0 +1,10 @@
+			<sea_wolf_damage_bonus>
+				<class type="string">Sea Wolf</class>
+				<name type="string">Damage Bonus</name>
+				<text type="formattedtext">
+					<p>Your attacks deal +1 damage.</p>
+					<p>If this is an Ancestry Talent, then check  to see if the following effect was already added to your Character Effects section.</p>
+					<p>If this is a Class Talent, then add the following effect to the Character Effects section of the Note tab and edit as needed.</p>
+					<p>[DMG: 1]</p>
+				</text>
+			</sea_wolf_damage_bonus>

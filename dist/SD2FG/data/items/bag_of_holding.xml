@@ -1,0 +1,14 @@
+			<bag_of_holding>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A worn, leather pouch with tight drawstrings.</i></p>
+				<p><b>Benefit.</b> This bag has an inter-dimensional space inside that can hold up to 10 gear slots.</p>
+				<p><b>Curse.</b> Placing this item inside another Bag of Holding or a Portable Hole destroys both items and all held inside them.</p>
+				</description>
+				<name type="string">Bag of Holding</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Bag of Holding.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</bag_of_holding>

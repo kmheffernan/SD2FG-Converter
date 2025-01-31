@@ -1,0 +1,32 @@
+			<shadowdance>
+				<actions>
+				<shadowdance_1>
+					<apply type="string"></apply>
+					<durmod type="string">3</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">Shadowdance</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</shadowdance_1>
+				</actions>
+				<class type="string">Charisma</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You spin shadowstuff into a convincing visible and audible illusion at a point within near. The illusion can be as big as a person and can move within a near range of where it appeared. The illusion can't affect physical objects. Touching the illusion reveals its false nature.</p>
+				</description>
+				<duration type="string">3 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Shadowdance</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</shadowdance>

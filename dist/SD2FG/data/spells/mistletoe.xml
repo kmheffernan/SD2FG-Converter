@@ -1,0 +1,22 @@
+			<mistletoe>
+				<actions />
+				<class type="string">Charisma</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>Two creatures you can see within near of you become enchanted with each other for 1d8 days. Each time one of the affected creatures takes damage, it may make a DC 15 Charisma check. On a success, the spell ends.</p>
+				</description>
+				<duration type="string">1d8 days</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Mistletoe</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">15</opposed_dc>
+				<opposedAbility type="string">charisma</opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</mistletoe>

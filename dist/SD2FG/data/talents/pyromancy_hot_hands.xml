@@ -1,0 +1,7 @@
+			<pyromancy_hot_hands>
+				<class type="string">Pyromancy</class>
+				<name type="string">Hot Hands</name>
+				<text type="formattedtext">
+					<p>When you hit an opponent with a Firebond weapon, They make DC 12 CON check or they drop their weapon. It takes 1 round to cool. Increase DC step on duplicate to max of DC 18.</p>
+				</text>
+			</pyromancy_hot_hands>

@@ -1,0 +1,13 @@
+			<snake_oil>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A thick green oil preserved in a snake skin canteen.</i></p>
+				<p><b>Benefit</b> With your soothing tone, you pacify hostile living creatures within near. Their total LV cannot exceed 2X your own. Creatures over 10 WIS attempt a DC 12 WIS check to resist. Calmed creatures see you as a friend but remain independent.</p>
+				</description>
+				<name type="string">Snake Oil</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Snake Oil.webp</picture>
+				<type type="string">Potion</type>
+				<weight type="number">1</weight>
+			</snake_oil>

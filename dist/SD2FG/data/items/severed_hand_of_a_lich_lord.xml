@@ -1,0 +1,14 @@
+			<severed_hand_of_a_lich_lord>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A preserved and animated lich's hand.</i></p>
+				<p><b>Benefit</b> When activated, partially transparent black tendrils erupt from the hand and engulf an undead creature, dealing 2d6 damage and healing you by the same amount.</p>
+				<p><b>Curse</b> Any undead within near will attack and fight you to the death.</p>
+				</description>
+				<name type="string">Severed Hand of a Lich Lord</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Severed Hand of a Lich Lord.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</severed_hand_of_a_lich_lord>

@@ -1,0 +1,13 @@
+			<gauntlets_of_might>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Heavy, bronze gauntlets with engravings of Herculean giants.</i></p>
+				<p><b>Benefit.</b> Your Strength stat becomes 18 (+4) while wearing these gauntlets.</p>
+				</description>
+				<name type="string">Gauntlets of Might</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Gauntlets of Might.webp</picture>
+				<type type="string">Armor</type>
+				<weight type="number">1</weight>
+			</gauntlets_of_might>

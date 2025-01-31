@@ -1,0 +1,10 @@
+			<almazzat_stat_increase_or_damage_bonus>
+				<class type="string">Almazzat</class>
+				<name type="string">Stat Increase or Damage Bonus</name>
+				<text type="formattedtext">
+					<p>+2 to Strength or Constitution stat or +1 to melee damage.</p>
+					<p>If this is an Ancestry Talent, then check  to see if the following effect was already added to your Character Effects section.</p>
+					<p>If this is a Class Talent, then add the following effect to the Character Effects section of the Note tab and edit as needed.</p>
+					<p>[DMG: 1, melee]</p>
+				</text>
+			</almazzat_stat_increase_or_damage_bonus>

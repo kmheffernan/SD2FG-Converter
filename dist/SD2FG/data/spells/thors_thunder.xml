@@ -1,0 +1,24 @@
+			<thors_thunder>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string">3d6</damage>
+				<damagetype type="string">lightning</damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<linklist>
+						<link class="race" recordname="{external_link}race.{record_ref_name}">Ancestry: 13 Thor's Thunder.jpg</link>
+					</linklist>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Thor's Thunder</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string">Damage</type>
+			</thors_thunder>

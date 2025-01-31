@@ -1,0 +1,7 @@
+			<shadow_elf_friend_of_the_shadows>
+				<class type="string">Shadow Elf</class>
+				<name type="string">Friend of the Shadows</name>
+				<text type="formattedtext">
+					<p>When shrouded in darkness, monsters attack your allies first.</p>
+				</text>
+			</shadow_elf_friend_of_the_shadows>

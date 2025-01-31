@@ -1,0 +1,13 @@
+			<hourglass_of_the_black_sands>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>An ancient hourglass running with obsidian sand.</i></p>
+				<p><b>Benefit.</b> Once per day, you can turn the hourglass when you cast a spell. The spell's effects last 1d4 rounds longer.</p>
+				</description>
+				<name type="string">Hourglass of the Black Sands</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Hourglass of the Black Sands.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</hourglass_of_the_black_sands>

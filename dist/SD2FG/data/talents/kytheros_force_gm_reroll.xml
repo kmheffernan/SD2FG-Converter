@@ -1,0 +1,7 @@
+			<kytheros_force_gm_reroll>
+				<class type="string">Kytheros</class>
+				<name type="string">Force GM Reroll</name>
+				<text type="formattedtext">
+					<p>1/day, force the GM to reroll a single roll; if duplicate result, +1/day.</p>
+				</text>
+			</kytheros_force_gm_reroll>

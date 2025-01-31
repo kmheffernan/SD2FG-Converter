@@ -1,0 +1,7 @@
+			<knight_of_st_ydris_str_dex_or_con_increase>
+				<class type="string">Knight of St. Ydris</class>
+				<name type="string">STR, DEX, or CON Increase</name>
+				<text type="formattedtext">
+					<p>+2 to Strength, Dexterity, or Constitution stat.</p>
+				</text>
+			</knight_of_st_ydris_str_dex_or_con_increase>

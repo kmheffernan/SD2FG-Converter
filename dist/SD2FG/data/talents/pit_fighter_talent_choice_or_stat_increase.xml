@@ -1,0 +1,7 @@
+			<pit_fighter_talent_choice_or_stat_increase>
+				<class type="string">Pit Fighter</class>
+				<name type="string">Talent Choice or Stat Increase</name>
+				<text type="formattedtext">
+					<p>Choose one option or +2 points to distribute to stats.</p>
+				</text>
+			</pit_fighter_talent_choice_or_stat_increase>

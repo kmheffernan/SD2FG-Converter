@@ -1,0 +1,7 @@
+			<priest_stat_increase>
+				<class type="string">Priest</class>
+				<name type="string">Stat Increase</name>
+				<text type="formattedtext">
+					<p>+2 to Strength or Wisdom stat.</p>
+				</text>
+			</priest_stat_increase>

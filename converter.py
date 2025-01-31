@@ -4,13 +4,14 @@ from pylib.myParserFunctions import makeReferenceName as refName
 from pylib.myParserFunctions import addSpaces as addSpace
 import logger as lg
 import sys
+import re
 
 class Converter:
     #an instance consists of a single conversion
     #attributes: in_file (.json), xml_data, error_report (.txt)
     #methods: convert2FG: creates the xml_data attribute from the in_file
 
-    #intialize class data <<<< reminder: class level attributes need the class name in front
+    #intialize class data <<<< reminder: class level attributes need the class name in front, e.g. Converter.source_dic
 
     #The following spells are in both the wizard list and the priest list
     duplicate_spells_list = ["speak_with_dead", "protection_from_evil", "plane_shift", "light", "control_water"]
@@ -85,6 +86,10 @@ class Converter:
         self.error_report = "" #txt file of errors that occured on conversion
         log.debug("Converter class initialized.")
         log.debug(f"Current working directory: {Path.cwd()}")
+        #weapons attack list
+        #keep track of the items in inventory that have "equip" capability
+        #add to the attacks section of the character sheet
+        self.weapons_attack_list = [] #a list of xml data
 
     def writeStat(self, name, number, base_score):
         stat = name
@@ -238,9 +243,19 @@ class Converter:
                 #add the item name to the xml
                 item_xml = item_xml.replace("QQQ", item_name)
                 item_xml = item_xml.replace("qqq", item_ref_name)
+            #add the carried status before item cost
+            #if it is a an item with an "attacktype" then it should be equipped and added to the attacks section on the main tab
+            if "attacktype" in item_xml:
+                item_carried_xml = f"\t\t\t\t<carried type=\"number\">2</carried>\n\t\t\t\t<cost "
+            else:
+                item_carried_xml = f"\t\t\t\t<carried type=\"number\">1</carried>\n\t\t\t\t<cost "
+            item_xml = item_xml.replace("\t\t\t\t<cost ", item_carried_xml)
             #add the count after item cost
             item_count_xml = f"</cost>\n\t\t\t\t<count type=\"number\">{item_count}</count>\n"
             item_xml = item_xml.replace("</cost>\n", item_count_xml)
+            #if the item has attack capability, then create the attack xml and store in attacks list
+            attack_xml = self.convertItem2Attack(item_xml) #returns False if no attack capability
+            if attack_xml: self.weapons_attack_list.append(attack_xml)
             self.xml_data = self.xml_data + item_xml
         #end for
         #end for item
@@ -376,9 +391,63 @@ class Converter:
                             talent_xml = fh_in.read()
                     self.xml_data = self.xml_data + talent_xml
         self.xml_data = self.xml_data + "\t\t</talentlist>\n"
+        #weapons list
+        if len(self.weapons_attack_list) == 0:
+            self.xml_data = self.xml_data + "\t\t<weaponlist />\n"
+        else:
+            self.xml_data = self.xml_data + "\t\t<weaponlist>\n"
+            for w in self.weapons_attack_list:
+                self.xml_data = self.xml_data + w
+        self.xml_data = self.xml_data + "\t\t</weaponlist>\n"
         self.xml_data = self.xml_data + "\t</character>\n"
         self.xml_data = self.xml_data + "</root>\n"
     #endfor
+
+    def convertItem2Attack(self, item_xml):
+        unneeded_attribute_list = [
+            "attacktype", "cost", "description", "p", "/description",
+            "loading", "range", "weight", "picture", "nonid_name",
+            "nonidentified", "weight"
+            ]
+        if "attacktype" not in item_xml: return False
+        attack_xml = item_xml
+        #remove the unneeded lines
+        for a in unneeded_attribute_list:
+            target_string = rf"\t+<{a}.*\n"
+            attack_xml = re.sub(target_string, "", attack_xml)
+        #add the needed lines
+        #add <hands> = 0 after <finesse>; single handed attack
+        new_xml = "</finesse>\n\t\t\t\t<hands type=\"number\">0</hands>\n"
+        attack_xml = attack_xml.replace("</finesse>\n", new_xml)
+        #add <maxammo> = 0 after <item_attack_bonus>
+        new_xml = "</item_attack_bonus>\n\t\t\t\t<maxammo type=\"number\">0</maxammo>\n"
+        attack_xml = attack_xml.replace("</item_attack_bonus>\n", new_xml)
+        #add <meleerange> before <name>; 0 = melee; 1 = ranged
+        if "Ranged" in item_xml:
+            melee_or_ranged = 1
+        elif "Melee" in item_xml:
+            melee_or_ranged = 0
+        else:
+            #unable to determine if the weapon is ranged or melee
+            #report error and default to melee
+            regex_result = re.search(r">(.*?)</name>", item_xml)
+            if regex_result:
+                item_name = regex_result.group(1)
+            else:
+                item_name = "MISSING NAME"
+            log.error(f"Unable to determine attack type for {item_name}; set to melee.")
+            melee_or_ranged = 0
+        new_xml = f"\t\t\t\t<meleerange type=\"number\">{melee_or_ranged}</meleerange>\n\t\t\t\t<name "
+        attack_xml = attack_xml.replace("\t\t\t\t<name ", new_xml)
+        #add <shortcut> after <name>
+        regex_result = re.match(r"\t\t\t<(.*)>", item_xml)
+        item_reference_name = regex_result.group(1)
+        new_xml = "</name>\n\t\t\t\t<shortcut type=\"windowreference\">\n"
+        new_xml = new_xml + "\t\t\t\t\t<class>item</class>\n"
+        new_xml = new_xml + f"\t\t\t\t\t<recordname>....inventorylist.{item_reference_name}</recordname>\n"
+        new_xml = new_xml + f"\t\t\t\t</shortcut>\n"
+        attack_xml = attack_xml.replace("</name>\n", new_xml)
+        return attack_xml
 
 ####################################
 

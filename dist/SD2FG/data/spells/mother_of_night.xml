@@ -1,0 +1,22 @@
+			<mother_of_night>
+				<actions />
+				<class type="string">Charisma</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You beseech the Mother of Night to lend you power.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Mother of Night</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</mother_of_night>

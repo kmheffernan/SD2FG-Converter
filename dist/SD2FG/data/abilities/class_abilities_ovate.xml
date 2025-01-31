@@ -1,0 +1,29 @@
+			<animal_companion>
+				<name type="string">Animal Companion</name>
+				<text type="formattedtext">
+					<p>To start, you verbally control one 0-level non-insect animal companion such as a fox, owl, or iguana. Pick or choose from the following table:</p>
+					<link_t>Companion Creature List</link_t>
+				</text>
+			</animal_companion>
+			<calm_animals>
+				<name type="string">Calm Animals</name>
+				<text type="formattedtext">
+					<p>1/day, your soothing aura pacifies natural animals within near. Their total Lv cannot exceed 2X your own. Giant animals attempt a DC 12 Wis check to resist. A calmed animal will regard you as a friend, but not a companion.</p>
+				</text>
+			</calm_animals>
+			<train_animal>
+				<name type="string">Train Animal</name>
+				<text type="formattedtext">
+					<p>You can train a calm or captive animal to become your new Animal Companion. You can only have one Animal Companion at a time, and its Lv cannot exceed yours. For every 2 Lv of the animal, training takes 1 day. You must know its language to understand it but not to train it.</p>
+				</text>
+			</train_animal>
+			<spellcasting>
+				<name type="string">Spellcasting</name>
+				<text type="formattedtext">
+					<p>You can cast ovate spells you know. You may choose two tier 1 spells from the ovate spell list.</p>
+					<p>Each time you gain a level, you choose new spells based on the Ovate Spells Known table.</p>
+					<p>Add your Wisdom modifier when casting ovate spells. The DC is 10 + the spell’s tier.</p>
+					<p>If you fail a spellcasting check, you can’t cast that spell again until you complete a rest.</p>
+					<p>If you roll a 1, you can’t cast that spell again until you attend a ritualistic purging or ceremony.</p>
+				</text>
+			</spellcasting>

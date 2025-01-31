@@ -1,0 +1,15 @@
+			<talisman_of_concentration>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Onyx disc etched with an intricate maze design.</i></p>
+				<p><b>Benefit</b> Any focus or chanting maintenance checks while wearing the talisman are performed at ADV.</p>
+				<p><b>Curse</b> Any non-spell checks are performed at DISADV.</p>
+				<p><b>Curse</b> Because it loves to be worn, it takes an action to remove the talisman.</p>
+				</description>
+				<name type="string">Talisman of Concentration</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Talisman of Concentration.webp</picture>
+				<type type="string">Jewelry</type>
+				<weight type="number">1</weight>
+			</talisman_of_concentration>

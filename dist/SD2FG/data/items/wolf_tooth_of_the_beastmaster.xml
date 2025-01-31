@@ -1,0 +1,14 @@
+			<wolf_tooth_of_the_beastmaster>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A glowing, primal wolf fang enchanted by a Beastmaster.</i></p>
+				<p><b>Benefit</b> You gain +1 to hit if affixed to a melee weapon.</p>
+				<p><b>Benefit</b> You receive +1 to all skill checks when worn as jewelry. You receive +1 to AC if attached to armor, shield or instrument.</p>
+				</description>
+				<name type="string">Wolf Tooth of the Beastmaster</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Wolf Tooth of the Beastmaster.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</wolf_tooth_of_the_beastmaster>

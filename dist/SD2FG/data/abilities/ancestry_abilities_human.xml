@@ -1,0 +1,8 @@
+			<stout>
+				<counter type="number">0</counter>
+				<countercheck type="number">0</countercheck>
+				<name type="string">Ambitious</name>
+				<text type="formattedtext">
+					<p>You gain one additional talent roll at 1st level.</p>
+				</text>
+			</stout>

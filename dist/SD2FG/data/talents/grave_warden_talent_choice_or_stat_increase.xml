@@ -1,0 +1,7 @@
+			<grave_warden_talent_choice_or_stat_increase>
+				<class type="string">Grave Warden</class>
+				<name type="string">Talent Choice or Stat Increase</name>
+				<text type="formattedtext">
+					<p>Choose a talent or +2 points to distribute to stats.</p>
+				</text>
+			</grave_warden_talent_choice_or_stat_increase>

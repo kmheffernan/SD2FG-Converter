@@ -1,0 +1,12 @@
+			<torch>
+				<cost type="string">5 sp</cost>
+				<description type="formattedtext">
+					<p>Sheds light to a near distance. Burns for one hour of real time.</p>
+				</description>
+				<name type="string">Torch</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token"></picture>
+				<type type="string">Equipment</type>
+				<weight type="number">1</weight>
+			</torch>
