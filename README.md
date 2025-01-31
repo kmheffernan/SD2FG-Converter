@@ -6,9 +6,9 @@ by Kevin Heffernan
 
 **DOWNLOADING:**
 There are two folders:
-**Distribution** -- Contains a working executable file for Windows
+**Distribution** -- Contains a zip file with an executable file and data for Windows OS
 **Development** -- Contains the Python script files
-Download the Distribution folder, save on your computer, and run the SD2FG.exe file.
+Download the zip file, unzip on your computer, and run the SD2FG.exe file.
 
 **LICENSE:**
 This software is an independent product published under the Shadowdark RPG Third-Party License and is not affiliated with
