@@ -1,7 +1,0 @@
-			<ovate_train_animal>
-				<class type="string">Ovate</class>
-				<name type="string">Train Animal</name>
-				<text type="formattedtext">
-					<p>You can train a calm or captive animal to become your new Animal Companion. You can only have one Animal Companion at a time, and its Lv cannot exceed yours. For every 2 Lv of the animal, training takes 1 day. You must know its language to understand it but not to train it.</p>
-				</text>
-			</ovate_train_animal>

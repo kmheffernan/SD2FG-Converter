@@ -1,8 +1,0 @@
-			<armored_shell>
-				<counter type="number">0</counter>
-				<countercheck type="number">0</countercheck>
-				<name type="string">Armored Shell</name>
-				<text type="formattedtext">
-					<p>Gain +1 to your AC.</p>
-				</text>
-			</armored_shell>

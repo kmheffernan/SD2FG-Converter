@@ -1,7 +1,0 @@
-			<kytheros_str_dex_or_wis_increase>
-				<class type="string">Kytheros</class>
-				<name type="string">STR, DEX, or WIS Increase</name>
-				<text type="formattedtext">
-					<p>+2 to Strength, Dexterity, or Wisdom stat.</p>
-				</text>
-			</kytheros_str_dex_or_wis_increase>

@@ -1,7 +1,0 @@
-			<ovate_spellcasting_advantage>
-				<class type="string">Ovate</class>
-				<name type="string">Spellcasting Advantage</name>
-				<text type="formattedtext">
-					<p>Gain advantage on casting one spell you know.</p>
-				</text>
-			</ovate_spellcasting_advantage>

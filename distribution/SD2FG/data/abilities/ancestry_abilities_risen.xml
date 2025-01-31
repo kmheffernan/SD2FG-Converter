@@ -1,8 +1,0 @@
-			<corpse_walking>
-				<counter type="number">0</counter>
-				<countercheck type="number">0</countercheck>
-				<name type="string">Corpse Walking</name>
-				<text type="formattedtext">
-					<p>At 0 HP, you remain active but are still dying. Someone else must stabilize you. You die early if you take your full HP of damage again.</p>
-				</text>
-			</corpse_walking>

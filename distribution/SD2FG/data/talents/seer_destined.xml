@@ -1,7 +1,0 @@
-			<seer_destined>
-				<class type="string">Seer</class>
-				<name type="string">Destined</name>
-				<text type="formattedtext">
-					<p>Whenever you use a luck token, add 1d6 to the roll.</p>
-				</text>
-			</seer_destined>

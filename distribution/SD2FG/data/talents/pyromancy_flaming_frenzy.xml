@@ -1,7 +1,0 @@
-			<pyromancy_flaming_frenzy>
-				<class type="string">Pyromancy</class>
-				<name type="string">Flaming Frenzy</name>
-				<text type="formattedtext">
-					<p>As an action, activate to gain 3 attacks on your next turn. Gain one more attack on duplicate.</p>
-				</text>
-			</pyromancy_flaming_frenzy>

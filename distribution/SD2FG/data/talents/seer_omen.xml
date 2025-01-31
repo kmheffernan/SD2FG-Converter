@@ -1,7 +1,0 @@
-			<seer_omen>
-				<class type="string">Seer</class>
-				<name type="string">Omen</name>
-				<text type="formattedtext">
-					<p>3/day, you can make a DC 9 WIS check. On a success, gain a luck token (you can't have more than one luck token at a time).</p>
-				</text>
-			</seer_omen>

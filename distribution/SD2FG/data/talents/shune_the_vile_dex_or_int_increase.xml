@@ -1,7 +1,0 @@
-			<shune_the_vile_dex_or_int_increase>
-				<class type="string">Shune the Vile</class>
-				<name type="string">DEX or INT Increase</name>
-				<text type="formattedtext">
-					<p>+2 to Dexterity or Intelligence stat.</p>
-				</text>
-			</shune_the_vile_dex_or_int_increase>

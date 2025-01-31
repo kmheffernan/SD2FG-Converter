@@ -1,7 +1,0 @@
-			<wizard_make_magic_item>
-				<class type="string">Wizard</class>
-				<name type="string">Make Magic Item</name>
-				<text type="formattedtext">
-					<p>Make 1 random magic item of a type you choose. See Magic Items.</p>
-				</text>
-			</wizard_make_magic_item>

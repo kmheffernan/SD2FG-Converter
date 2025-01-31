@@ -1,8 +1,0 @@
-			<vibrating_whiskers>
-				<counter type="number">0</counter>
-				<countercheck type="number">0</countercheck>
-				<name type="string">Vibrating Whiskers</name>
-				<text type="formattedtext">
-					<p>If you focus, you sense living beings within near of you, even through doors.</p>
-				</text>
-			</vibrating_whiskers>

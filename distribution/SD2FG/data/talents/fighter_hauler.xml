@@ -1,7 +1,0 @@
-			<fighter_hauler>
-				<class type="string">Fighter</class>
-				<name type="string">Hauler</name>
-				<text type="formattedtext">
-					<p>Add your Constitution modifier, if positive, to your gear slots.</p>
-				</text>
-			</fighter_hauler>

@@ -1,7 +1,0 @@
-			<knight_of_st_ydris_chr_increase_or_witch_spellcasting_bonus>
-				<class type="string">Knight of St. Ydris</class>
-				<name type="string">CHR Increase or Witch Spellcasting Bonus</name>
-				<text type="formattedtext">
-					<p>+2 to Charisma stat or +1 to witch spellcasting checks.</p>
-				</text>
-			</knight_of_st_ydris_chr_increase_or_witch_spellcasting_bonus>

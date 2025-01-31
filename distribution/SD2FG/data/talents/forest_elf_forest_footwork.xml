@@ -1,7 +1,0 @@
-			<forest_elf_forest_footwork>
-				<class type="string">Forest Elf</class>
-				<name type="string">Forest Footwork</name>
-				<text type="formattedtext">
-					<p>In a forest, you can move up to near again without skipping an action on your turn.</p>
-				</text>
-			</forest_elf_forest_footwork>

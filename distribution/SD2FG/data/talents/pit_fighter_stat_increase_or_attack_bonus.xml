@@ -1,7 +1,0 @@
-			<pit_fighter_stat_increase_or_attack_bonus>
-				<class type="string">Pit Fighter</class>
-				<name type="string">Stat Increase or Attack Bonus</name>
-				<text type="formattedtext">
-					<p>+2 to Strength or Constitution stat, or +1 to melee attacks.</p>
-				</text>
-			</pit_fighter_stat_increase_or_attack_bonus>

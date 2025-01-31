@@ -1,7 +1,0 @@
-			<pyromancy_increased_firebond_weapon_damage>
-				<class type="string">Pyromancy</class>
-				<name type="string">Increased Firebond Weapon Damage</name>
-				<text type="formattedtext">
-					<p>Increase die category of Firebond Weapon’s extra damage to maximum of d12.</p>
-				</text>
-			</pyromancy_increased_firebond_weapon_damage>

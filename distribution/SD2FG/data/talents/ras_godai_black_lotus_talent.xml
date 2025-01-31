@@ -1,7 +1,0 @@
-			<ras_godai_black_lotus_talent>
-				<class type="string">Ras-Godai</class>
-				<name type="string">Black Lotus Talent</name>
-				<text type="formattedtext">
-					<p>Roll an additional talent on the Black Lotus Talents table.</p>
-				</text>
-			</ras_godai_black_lotus_talent>

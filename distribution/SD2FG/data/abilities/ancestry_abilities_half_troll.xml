@@ -1,8 +1,0 @@
-			<regenerate>
-				<counter type="number">0</counter>
-				<countercheck type="number">0</countercheck>
-				<name type="string">Regenerate</name>
-				<text type="formattedtext">
-					<p>Regain 1 HP per hour unless damaged by fire or acid.</p>
-				</text>
-			</regenerate>

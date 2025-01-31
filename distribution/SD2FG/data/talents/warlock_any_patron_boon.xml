@@ -1,7 +1,0 @@
-			<warlock_any_patron_boon>
-				<class type="string">Warlock</class>
-				<name type="string">Any Patron Boon</name>
-				<text type="formattedtext">
-					<p>Roll a Patron Boon from any patron; an unexplained gift</p>
-				</text>
-			</warlock_any_patron_boon>

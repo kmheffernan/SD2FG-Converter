@@ -1,7 +1,0 @@
-			<pit_fighter_ignore_damage>
-				<class type="string">Pit Fighter</class>
-				<name type="string">Ignore Damage</name>
-				<text type="formattedtext">
-					<p>1/day, ignore all damage and effects from one attack (duplicate = additional use per day).</p>
-				</text>
-			</pit_fighter_ignore_damage>

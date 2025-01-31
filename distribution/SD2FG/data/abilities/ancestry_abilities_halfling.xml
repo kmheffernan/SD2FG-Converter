@@ -1,8 +1,0 @@
-			<stealthy>
-				<counter type="number">0</counter>
-				<countercheck type="number">0</countercheck>
-				<name type="string">Stealthy</name>
-				<text type="formattedtext">
-					<p>Once per day, you can become invisible for 3 rounds.</p>
-				</text>
-			</stealthy>

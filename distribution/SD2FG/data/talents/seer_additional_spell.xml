@@ -1,7 +1,0 @@
-			<seer_additional_spell>
-				<class type="string">Seer</class>
-				<name type="string">Additional Spell</name>
-				<text type="formattedtext">
-					<p>Learn an additional seer spell from any tier you can cast.</p>
-				</text>
-			</seer_additional_spell>

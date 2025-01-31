@@ -1,7 +1,0 @@
-			<witch_learn_witch_spell>
-				<class type="string">Witch</class>
-				<name type="string">Learn Witch Spell</name>
-				<text type="formattedtext">
-					<p>Learn an additional witch spell of any tier you can cast</p>
-				</text>
-			</witch_learn_witch_spell>
