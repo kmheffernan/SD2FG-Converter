@@ -1,0 +1,8 @@
+			<stout>
+				<counter type="number">0</counter>
+				<countercheck type="number">0</countercheck>
+				<name type="string">Stout</name>
+				<text type="formattedtext">
+					<p>Start with +2 HP. Roll hit points per level with advantage.</p>
+				</text>
+			</stout>

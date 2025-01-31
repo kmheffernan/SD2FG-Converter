@@ -1,0 +1,4 @@
+pyinstaller --onefile --icon=icon.ico main.py --name=SD2FG --add-data "READ ME.txt;." --add-data "splash.png;." --add-data "settings.txt;." --add-data "in;in" --add-data "out;out" --add-data "data;data" 
+
+pyinstaller --icon=icon.ico main.py --name=SD2FG
+

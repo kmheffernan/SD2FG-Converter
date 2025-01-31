@@ -1,0 +1,24 @@
+			<conjure_wraith>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You touch a fresh corpse to conjure a vengeful wraith to do your bidding. It acts on your turn. After 1 day it turns to dust.</p>
+					<p>Only one instance of this spell may be active at a time. A second casting while another instance exists immediately destroys the previous wraith, even if the spell fails. The wraith counts against the LV limit of other undead minions.</p>
+					<p>A critical fail on casting this spell still conjures the wraith, but it turns against you. Do not roll on the mishap table.</p>
+				</description>
+				<duration type="string">1 day</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Conjure Wraith</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</conjure_wraith>

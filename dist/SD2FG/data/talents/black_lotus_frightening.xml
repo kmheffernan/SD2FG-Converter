@@ -1,7 +1,0 @@
-			<black_lotus_frightening>
-				<class type="string">Black Lotus</class>
-				<name type="string">Frightening</name>
-				<text type="formattedtext">
-					<p>When enemies who can see you make a morale check, the DC is 18 instead of 15.</p>
-				</text>
-			</black_lotus_frightening>

@@ -1,0 +1,32 @@
+			<cloudkill>
+				<actions>
+				<cloudkill_1>
+					<apply type="string"></apply>
+					<durmod type="string">5</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">Cloudkill</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</cloudkill_1>
+				</actions>
+				<class type="string">Intelligence</class>
+				<damage type="string">2d6</damage>
+				<damagetype type="string">poison</damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>A putrid cloud of yellow poison fills a near-sized cube within range. It spreads around corners. Creatures inside the cloud are blinded and take 2d6 poison damage at the beginning of their turns. A creature of LV 9 or less that ends its turn fully inside the cloud dies.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Cloudkill</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string">Damage</type>
+			</cloudkill>

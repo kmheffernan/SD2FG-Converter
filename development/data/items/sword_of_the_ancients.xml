@@ -1,0 +1,26 @@
+			<sword_of_the_ancients>
+				<attacktype type="string">Melee</attacktype>
+				<cost type="string"></cost>
+				<damage type="string">1d8+2</damage>
+				<damagetype type="string">slashing, magic</damagetype>
+				<description type="formattedtext">
+					<p><i>A chipped and rusting blade with an oiled leather grip.</i></p>
+				<p><b>Bonus.</b> +2 longsword.</p>
+				<p><b>Benefit.</b> The sword is unbreakable and can carve through any material.</p>
+				<p><b>Benefit.</b> The owner can summon the sword to their hand if it's on the same plane.</p>
+				</description>
+				<finesse type="number">0</finesse>
+				<item_attack_bonus type="number">2</item_attack_bonus>
+				<loading type="number"></loading>
+				<name type="string">Sword of the Ancients</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Sword of the Ancients.webp</picture>
+				<range type="string">Close</range>
+				<thrown type="number">0</thrown>
+				<twohanded type="number">0</twohanded>
+				<type type="string">Weapon</type>
+				<versatile type="number">0</versatile>
+				<versatile_damage type="string"></versatile_damage>
+				<weight type="number">1</weight>
+			</sword_of_the_ancients>

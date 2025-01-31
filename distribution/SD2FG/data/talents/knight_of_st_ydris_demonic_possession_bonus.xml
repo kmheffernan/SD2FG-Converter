@@ -1,0 +1,7 @@
+			<knight_of_st_ydris_demonic_possession_bonus>
+				<class type="string">Knight of St. Ydris</class>
+				<name type="string">Demonic Possession Bonus</name>
+				<text type="formattedtext">
+					<p>Your Demonic Possession bonus increases by 1 point</p>
+				</text>
+			</knight_of_st_ydris_demonic_possession_bonus>

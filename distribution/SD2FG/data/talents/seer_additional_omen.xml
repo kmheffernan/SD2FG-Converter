@@ -1,0 +1,7 @@
+			<seer_additional_omen>
+				<class type="string">Seer</class>
+				<name type="string">Additional Omen</name>
+				<text type="formattedtext">
+					<p>Gain an additional use of your Omen talent each day.</p>
+				</text>
+			</seer_additional_omen>

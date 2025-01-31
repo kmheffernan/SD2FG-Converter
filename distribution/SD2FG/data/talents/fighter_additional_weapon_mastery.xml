@@ -1,0 +1,7 @@
+			<fighter_additional_weapon_mastery>
+				<class type="string">Fighter</class>
+				<name type="string">Additional Weapon Mastery</name>
+				<text type="formattedtext">
+					<p>Gain Weapon Mastery with one additional weapon.</p>
+				</text>
+			</fighter_additional_weapon_mastery>

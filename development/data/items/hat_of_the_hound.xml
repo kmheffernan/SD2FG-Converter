@@ -1,0 +1,13 @@
+			<hat_of_the_hound>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A rounded, jaunty bowler hat.</i></p>
+				<p><b>Benefit.</b> You can transform into a mastiff each day for up to 10 rounds total. Your clothing and possessions transform with you.</p>
+				</description>
+				<name type="string">Hat of the Hound</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Hat of the Hound.webp</picture>
+				<type type="string">Clothing</type>
+				<weight type="number">1</weight>
+			</hat_of_the_hound>

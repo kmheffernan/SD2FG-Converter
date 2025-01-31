@@ -1,0 +1,25 @@
+			<tree_sanctuary>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>After 2 rounds of concentration, a portal appears on a tree you touch. Stepping inside seals the portal, transporting you to a secure chamber within the tree.</p>
+					<p>While inside, you are aware of, but protected from, external influences. You are expelled from the chamber if the tree is destroyed.</p>
+					<p>You may complete a rest while safely in this chamber. Once your rest is complete, you reemerge from the tree.</p>
+					<p>No one else can pass through the tree portal.</p>
+				</description>
+				<duration type="string">1 rest</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Tree Sanctuary</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</tree_sanctuary>

@@ -1,0 +1,24 @@
+			<spear_of_channeling>
+				<attacktype type="string">Melee/Ranged</attacktype>
+				<cost type="string"></cost>
+				<damage type="string">1d6+0</damage>
+				<damagetype type="string">piercing, magic</damagetype>
+				<description type="formattedtext">
+					<p><i>Ornate spear with wizard runes carved into the shaft.</i></p>
+				<p><b>Benefit</b> Allied spellcasters can cast spells through the spear as a conduit. Throw it at a spot in the ground to cast area of effect spells, or strike an opponent for touch.</p>
+				</description>
+				<finesse type="number">0</finesse>
+				<item_attack_bonus type="number">0</item_attack_bonus>
+				<loading type="number"></loading>
+				<name type="string">Spear of Channeling</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Spear of Channeling.webp</picture>
+				<range type="string">Close/Near</range>
+				<thrown type="number">1</thrown>
+				<twohanded type="number">0</twohanded>
+				<type type="string">Weapon</type>
+				<versatile type="number">0</versatile>
+				<versatile_damage type="string"></versatile_damage>
+				<weight type="number">1</weight>
+			</spear_of_channeling>

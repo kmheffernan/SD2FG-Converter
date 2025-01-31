@@ -1,7 +1,0 @@
-			<the_willowman_teleport_to_far>
-				<class type="string">The Willowman</class>
-				<name type="string">Teleport to Far</name>
-				<text type="formattedtext">
-					<p>1/day, teleport to a far location you see as your move; if duplicate result, +1/day.</p>
-				</text>
-			</the_willowman_teleport_to_far>

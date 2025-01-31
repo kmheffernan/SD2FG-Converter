@@ -1,0 +1,8 @@
+			<mighty>
+				<counter type="number">0</counter>
+				<countercheck type="number">0</countercheck>
+				<name type="string">Mighty</name>
+				<text type="formattedtext">
+					<p>You have a +1 bonus to attack and damage rolls with melee weapons.</p>
+				</text>
+			</mighty>

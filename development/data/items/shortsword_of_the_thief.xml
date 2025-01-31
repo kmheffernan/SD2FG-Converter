@@ -1,0 +1,25 @@
+			<shortsword_of_the_thief>
+				<attacktype type="string">Melee</attacktype>
+				<cost type="string"></cost>
+				<damage type="string">1d6+1</damage>
+				<damagetype type="string">slashing, magic</damagetype>
+				<description type="formattedtext">
+					<p><i>A stubby, gray blade riddled with notches and scars.</i></p>
+				<p><b>Bonus.</b> +1 shortsword. +2 if wielded by a halfling or thief.</p>
+				<p><b>Benefit.</b> Once per day, regain a luck token you just spent.</p>
+				</description>
+				<finesse type="number">0</finesse>
+				<item_attack_bonus type="number">1</item_attack_bonus>
+				<loading type="number"></loading>
+				<name type="string">Shortsword of the Thief</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Shortsword of the Thief.webp</picture>
+				<range type="string">Close</range>
+				<thrown type="number">0</thrown>
+				<twohanded type="number">0</twohanded>
+				<type type="string">Weapon</type>
+				<versatile type="number">0</versatile>
+				<versatile_damage type="string"></versatile_damage>
+				<weight type="number">1</weight>
+			</shortsword_of_the_thief>

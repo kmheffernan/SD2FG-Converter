@@ -1,7 +1,0 @@
-			<shaman_chant_performance_advantage>
-				<class type="string">Shaman</class>
-				<name type="string">Chant Performance Advantage</name>
-				<text type="formattedtext">
-					<p>Gain advantage on performing one chant you know.</p>
-				</text>
-			</shaman_chant_performance_advantage>

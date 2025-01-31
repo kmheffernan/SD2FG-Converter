@@ -1,0 +1,25 @@
+			<speak_with_dead_wizard>
+				<actions />
+				<class type="string">Intelligence</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>A dead body you touch answers your questions in a distant, wheezing voice. You can ask the dead body up to three yes or no questions (one at a time). The GM truthfully answers "yes" or "no" to each. If you cast this spell more than once in 24 hours, treat a failed spellcasting check for it as a critical failure instead.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.speak_with_dead">Image: Speak with Dead</link>
+					</linklist>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Speak with Dead (Wizard)</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</speak_with_dead_wizard>

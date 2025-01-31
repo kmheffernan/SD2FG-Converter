@@ -1,0 +1,35 @@
+			<resilient_sphere>
+				<actions>
+				<resilient_sphere_1>
+					<apply type="string"></apply>
+					<durmod type="string">5</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">Resilient Sphere</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</resilient_sphere_1>
+				</actions>
+				<class type="string">Intelligence</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You conjure a weightless, glassy sphere around you that extends out to close range. For the spell's duration, nothing can pass through or crush the sphere. You can roll the sphere a near distance on your turn.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.resilient_sphere">Image: Resilient Sphere</link>
+					</linklist>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Resilient Sphere</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</resilient_sphere>

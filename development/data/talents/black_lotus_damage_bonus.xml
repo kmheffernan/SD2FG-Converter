@@ -1,0 +1,7 @@
+			<black_lotus_damage_bonus>
+				<class type="string">Black Lotus</class>
+				<name type="string">Damage Bonus</name>
+				<text type="formattedtext">
+					<p>You deal +1 damage with melee weapons.</p>
+				</text>
+			</black_lotus_damage_bonus>

@@ -1,0 +1,7 @@
+			<witch_spellcasting_advantage>
+				<class type="string">Witch</class>
+				<name type="string">Spellcasting Advantage</name>
+				<text type="formattedtext">
+					<p>Gain advantage on casting one spell you know</p>
+				</text>
+			</witch_spellcasting_advantage>

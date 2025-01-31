@@ -1,0 +1,7 @@
+			<beastmaster_additional_beast_shape>
+				<class type="string">Beastmaster</class>
+				<name type="string">Additional Beast Shape</name>
+				<text type="formattedtext">
+					<p>You may use Beast Shape 1 additional time per day.</p>
+				</text>
+			</beastmaster_additional_beast_shape>

@@ -1,0 +1,27 @@
+			<raise_dead>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You utter an incantation and all corpses within a near range rise as zombies or skeletons under your control, their condition dictating which form they take.</p>
+					<p>They maintain the shape, HP and LV they had in life, but lose all of their abilities. They gain the attacks, stats, and abilities of skeletons or zombies.</p>
+					<p>They act on your turn, then collapse to dust after 1 day.</p>
+					<p>The combined LV of controlled undead cannot exceed yours.</p>
+					<p>Recasting adds to or replaces previous undead minions with new ones until the LV limit is reached. (See pg. 41 for more information.)</p>
+					<p>A critical fail causes all undead minions under your control to collapse into grave dust including undead gained from other spells or the Claim Undead ability. Do not roll on the mishap table.</p>
+				</description>
+				<duration type="string">1 day</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Raise Dead</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</raise_dead>

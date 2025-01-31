@@ -1,0 +1,7 @@
+			<gnome_trickster>
+				<class type="string">Gnome</class>
+				<name type="string">Trickster</name>
+				<text type="formattedtext">
+					<p>1/day, target one creature to become the object of your nettlesome pranks, you can force a re-roll on one attack or check.</p>
+				</text>
+			</gnome_trickster>

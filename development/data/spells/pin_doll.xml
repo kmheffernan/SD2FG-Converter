@@ -1,0 +1,32 @@
+			<pin_doll>
+				<actions>
+				<pin_doll_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Pin doll; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</pin_doll_1>
+				</actions>
+				<class type="string">Charisma</class>
+				<damage type="string">2d6</damage>
+				<damagetype type="string">necrotic</damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You pin a piece of hair or flesh taken from one creature to a small, burlap doll the spell conjures. On your turn while focusing on this spell, you can push a pin into the doll. Each time you do this, the creature who the hair or flesh belonged to takes 2d6 necrotic damage. After this spell ends, the piece of hair or flesh burns to ash.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Pin Doll</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">On the same plane</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string">Damage</type>
+			</pin_doll>

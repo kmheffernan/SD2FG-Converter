@@ -1,0 +1,17 @@
+			<memnons_entropic_armor>
+				<ac type="number">16</ac>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+					<p>Cannot swim; Disadvantage on stealth checks.</p>
+				<p><i>Deep blue plate mail traced with gold lightning motifs and red gems arrayed into the shape of flames.</i></p>
+				<p><b>Bonus.</b> +1 plate mail. Can only be worn by a chaotic being. If you also wield Memnon's Discordant Blade and Memnon's Blazing Javelin, it becomes +3 plate mail.</p>
+				<p><b>Benefit.</b> Once per day, you can speak the armor's command word. Until your next turn, all non-magical weapons that strike you are instantly unmade, shattering into dust. You take no damage from them.</p>
+				</description>
+				<name type="string">Memnon's Entropic Armor</name>
+				<nodex type="number">1</nodex>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Memnon's Entropic Armor.webp</picture>
+				<type type="string">Armor</type>
+				<weight type="number">3</weight>
+			</memnons_entropic_armor>

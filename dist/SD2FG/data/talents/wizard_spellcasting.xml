@@ -1,7 +1,0 @@
-			<wizard_spellcasting>
-				<class type="string">Wizard</class>
-				<name type="string">Spellcasting</name>
-				<text type="formattedtext">
-					<p>You can cast wizard spells you know. You know three tier 1 spells of your choice from the wizard spell list. Each time you gain a level, you choose new wizard spells to learn according to the Wizard Spells Known table. For casting wizard spells, see Spellcasting.</p>
-				</text>
-			</wizard_spellcasting>

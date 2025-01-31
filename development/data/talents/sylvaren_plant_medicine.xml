@@ -1,0 +1,7 @@
+			<sylvaren_plant_medicine>
+				<class type="string">Sylvaren</class>
+				<name type="string">Plant Medicine</name>
+				<text type="formattedtext">
+					<p>Take 2 damage to sprout a healing berry on your body. Eating it will heal 1 HP.</p>
+				</text>
+			</sylvaren_plant_medicine>

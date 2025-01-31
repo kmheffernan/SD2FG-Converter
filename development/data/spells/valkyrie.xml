@@ -1,0 +1,27 @@
+			<valkyrie>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<linklist>
+						<link class="item" recordname="item.14_valkyriejpg">Item: 14 Valkyrie.jpg</link>
+					</linklist>
+					<linklist>
+						<link class="npc" recordname="npc.nalkyrie">NPC: Nalkyrie</link>
+					</linklist>
+				</description>
+				<duration type="string">10 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Valkyrie</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</valkyrie>

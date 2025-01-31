@@ -1,0 +1,26 @@
+			<veil_of_life>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>With your touch, one of your undead minions appears to be alive.</p>
+					<p>You choose the ancestry and style of clothes worn by the undead creature. It can appear only slightly larger or smaller than the original undead minion.</p>
+					<p>The spell will also make the target’s movements appear lifelike.</p>
+					<p>Even the stench will be fully disguised.</p>
+					<p>Anyone suspicious can make an INT check vs. your last spellcasting check to disbelieve the illusion.</p>
+				</description>
+				<duration type="string">1 Day</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Veil of Life</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</veil_of_life>

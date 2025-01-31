@@ -1,0 +1,7 @@
+			<grave_warden_improved_necrotic_reap>
+				<class type="string">Grave Warden</class>
+				<name type="string">Improved Necrotic Reap</name>
+				<text type="formattedtext">
+					<p>Increase the Necrotic Reap bonus by an additional +2.</p>
+				</text>
+			</grave_warden_improved_necrotic_reap>

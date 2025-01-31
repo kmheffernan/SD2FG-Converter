@@ -1,0 +1,7 @@
+			<shune_the_vile_learn_wizard_spell>
+				<class type="string">Shune the Vile</class>
+				<name type="string">Learn Wizard Spell</name>
+				<text type="formattedtext">
+					<p>Learn a wizard spell, tier = half your level. Cast it with INT</p>
+				</text>
+			</shune_the_vile_learn_wizard_spell>

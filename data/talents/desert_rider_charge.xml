@@ -1,7 +1,0 @@
-			<desert_rider_charge>
-				<class type="string">Desert Rider</class>
-				<name type="string">Charge</name>
-				<text type="formattedtext">
-					<p>3/day, you can charge into combat by moving at least near before attacking. Each time you do this, your melee attacks deal double damage that round.</p>
-				</text>
-			</desert_rider_charge>

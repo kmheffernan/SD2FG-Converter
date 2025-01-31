@@ -1,0 +1,24 @@
+			<scythe_of_corpse_call>
+				<attacktype type="string">Melee</attacktype>
+				<cost type="string"></cost>
+				<damage type="string">1d6+0</damage>
+				<damagetype type="string">slashing, magic</damagetype>
+				<description type="formattedtext">
+					<p><i>A black-bladed scythe with a bone hilt and skull motifs.</i></p>
+				<p><b>Benefit</b> You instantly summon a fresh humanoid corpse a close distance from you. Recharges in 3 rounds.</p>
+				</description>
+				<finesse type="number">0</finesse>
+				<item_attack_bonus type="number">0</item_attack_bonus>
+				<loading type="number"></loading>
+				<name type="string">Scythe of Corpse Call</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Scythe of Corpse Call.webp</picture>
+				<range type="string">Close</range>
+				<thrown type="number">0</thrown>
+				<twohanded type="number">1</twohanded>
+				<type type="string">Weapon</type>
+				<versatile type="number">0</versatile>
+				<versatile_damage type="string"></versatile_damage>
+				<weight type="number">1</weight>
+			</scythe_of_corpse_call>

@@ -1,0 +1,8 @@
+			<forest_footwork>
+				<counter type="number">0</counter>
+				<countercheck type="number">0</countercheck>
+				<name type="string">Forest Footwork</name>
+				<text type="formattedtext">
+					<p>In a forest, you can move up to near again without skipping an action on your turn.</p>
+				</text>
+			</forest_footwork>

@@ -1,0 +1,10 @@
+			<mugdulblub_immunity>
+				<class type="string">Mugdulblub</class>
+				<name type="string">Immunity</name>
+				<text type="formattedtext">
+					<p>Become immune to 1: acid, cold, poison (reroll if no options)</p>
+					<p>If this is an Ancestry Talent, then check  to see if the following effect was already added to your Character Effects section.</p>
+					<p>If this is a Class Talent, then add the following effect to the Character Effects section of the Note tab and edit as needed.</p>
+					<p>[IMMUNE: acid]</p>
+				</text>
+			</mugdulblub_immunity>

@@ -1,7 +1,0 @@
-			<pit_fighter_last_stand>
-				<class type="string">Pit Fighter</class>
-				<name type="string">Last Stand</name>
-				<text type="formattedtext">
-					<p>You get up from dying with 1 hit point on a natural d20 roll of 18-20.</p>
-				</text>
-			</pit_fighter_last_stand>

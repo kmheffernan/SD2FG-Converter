@@ -1,0 +1,16 @@
+			<demonic_possession>
+			<name type="string">Demonic Possession</name>
+			<text type="formattedtext">
+				<p>3/day, gain a +1 bonus to your damage rolls that lasts 3 rounds. In addition, add half your level to the damage bonus (round down).</p>
+			</text>
+			</demonic_possession>
+			<spellcasting>
+			<name type="string">Spellcasting</name>
+			<text type="formattedtext">
+				<p>You can cast witch spells you know.</p>
+				<p>Each time you gain a level, you choose new witch spells to learn according to the Witch Spells Known table.</p>
+				<p>You use your Charisma stat to cast witch spells. The DC is 10 + the spell's tier.</p>
+				<p>If you fail a spellcasting check, you can't cast that spell again until you complete a rest.</p>
+				<p>If you roll a natural 1 on a spellcasting check, you must also roll on the corresponding Diabolical Mishap table for the spell's tier.</p>
+			</text>
+			</spellcasting>

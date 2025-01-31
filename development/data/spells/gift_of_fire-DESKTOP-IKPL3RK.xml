@@ -1,0 +1,32 @@
+			<gift_of_fire>
+				<actions>
+				<gift_of_fire_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">DMG: 1d4 fire</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</gift_of_fire_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>Any newly acquired or drawn weapons are set on fire for each round the chant continues.</p>
+				</description>
+				<duration type="string">Range: Near</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Gift of Fire</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">You cause the wielded weapons of your allies in a near area centered on you to leap into flame. These weapons do an additional 1d4 fire damage.</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</gift_of_fire>

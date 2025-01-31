@@ -1,0 +1,11 @@
+			<ring_of_daisies>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Allows you to hold your breath for an hour.</i></p>
+				</description>
+				<name type="string">Ring of Daisies</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</ring_of_daisies>

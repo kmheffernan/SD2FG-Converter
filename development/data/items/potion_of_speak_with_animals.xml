@@ -1,0 +1,13 @@
+			<potion_of_speak_with_animals>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Thick, fur-brown elixir in a slender vial, emitting the scent of fresh rain.</i></p>
+				<p><b>Benefit</b> You can speak to and understand all animals within near range for 5 rounds.</p>
+				</description>
+				<name type="string">Potion of Speak with Animals</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Potion of Speak with Animals.webp</picture>
+				<type type="string">Potion</type>
+				<weight type="number">1</weight>
+			</potion_of_speak_with_animals>

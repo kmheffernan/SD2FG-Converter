@@ -1,0 +1,15 @@
+			<eagle_feather_of_the_beastmaster>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A pristine eagle feather.</i></p>
+				<p><b>Benefit</b> You get +1 to hit if affixed to a ranged weapon.</p>
+				<p><b>Benefit</b> You cannot be surprised if worn as jewelry.</p>
+				<p><b>Benefit</b> 1/Day, if affixed to armor, shield, or instrument, you gain the ability to instantly cast feather fall as the wizard spell.</p>
+				</description>
+				<name type="string">Eagle Feather of the Beastmaster</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Eagle Feather of the Beastmaster.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</eagle_feather_of_the_beastmaster>

@@ -1,8 +1,0 @@
-			<error_class>
-				<counter type="number">0</counter>
-				<countercheck type="number">0</countercheck>
-				<name type="string">ERROR</name>
-				<text type="formattedtext">
-					<p>ERROR: Unrecognized class.</p>
-				</text>
-			</error_class>

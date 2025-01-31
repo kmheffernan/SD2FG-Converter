@@ -1,7 +1,0 @@
-			<grave_warden_claim_undead>
-				<class type="string">Grave Warden</class>
-				<name type="string">Claim Undead</name>
-				<text type="formattedtext">
-					<p>1/day you can seize control of any number of undead. Their total Lv cannot exceed your own. Undead make a Dc 12 Cha check to resist.</p>
-				</text>
-			</grave_warden_claim_undead>

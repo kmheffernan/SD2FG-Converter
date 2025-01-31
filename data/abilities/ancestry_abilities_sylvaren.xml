@@ -1,8 +1,0 @@
-			<plant_medicine>
-				<counter type="number">0</counter>
-				<countercheck type="number">0</countercheck>
-				<name type="string">Plant Medicine</name>
-				<text type="formattedtext">
-					<p>Take 2 damage to sprout a healing berry on your body. Eating it will heal 1 HP.</p>
-				</text>
-			</plant_medicine>

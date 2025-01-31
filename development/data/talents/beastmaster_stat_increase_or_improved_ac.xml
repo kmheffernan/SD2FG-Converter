@@ -1,0 +1,10 @@
+			<beastmaster_stat_increase_or_improved_ac>
+				<class type="string">Beastmaster</class>
+				<name type="string">Stat Increase or Improved AC</name>
+				<text type="formattedtext">
+					<p>+2 to Strength or Constitution stat or +1 to unarmored AC.</p>
+					<p>If this is an Ancestry Talent, then check  to see if the following effect was already added to your Character Effects section.</p>
+					<p>If this is a Class Talent, then add the following effect to the Character Effects section of the Note tab and edit as needed.</p>
+					<p>[AC: 1]</p>
+				</text>
+			</beastmaster_stat_increase_or_improved_ac>

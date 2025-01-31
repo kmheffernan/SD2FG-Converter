@@ -1,0 +1,32 @@
+			<armaments_of_the_ancients>
+				<actions>
+				<armaments_of_the_ancients_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">ATK: 1; DMG: 1, magic</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</armaments_of_the_ancients_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You invoke ancestral grace, imbuing your near allies’ weapons with magic. They all become +1 magical weapons.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Armaments of the Ancients</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</armaments_of_the_ancients>

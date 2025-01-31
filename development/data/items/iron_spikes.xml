@@ -1,0 +1,12 @@
+			<iron_spike>
+				<cost type="string">1 gp</cost>
+				<description type="formattedtext">
+					<p>Strong spike. Each has a hole for threading rope. Can be hammered in with weapons or other iron spikes.</p>
+				</description>
+				<name type="string">Iron Spikes (10)</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token"></picture>
+				<type type="string">Equipment</type>
+				<weight type="number">1</weight>
+			</iron_spike>

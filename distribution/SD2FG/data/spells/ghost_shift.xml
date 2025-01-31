@@ -1,0 +1,33 @@
+			<ghost_shift>
+				<actions>
+				<ghost_shift_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Ghost Shift; IMMUNE: piercing, blunt, slashing; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</ghost_shift_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You and your equipment become incorporeal, allowing you to move in any direction, including up or down at half movement speed.</p>
+					<p>You can move through solid objects and cannot attack with or be struck by physical weapons. You may cast spells and spells can still affect you.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Ghost Shift</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</ghost_shift>

@@ -1,0 +1,11 @@
+			<bluewort_paste>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p>Rarity: Common; Use: Injure; Effect: DC 12 CON or paralyzed 1d4 rds</p>
+				</description>
+				<name type="string">Bluewort paste</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<type type="string">Equipment</type>
+				<weight type="number">1</weight>
+			</bluewort_paste>

@@ -1,0 +1,22 @@
+			<rot_ruin>
+				<attacktype type="string">Melee</attacktype>
+				<cost type="string"></cost>
+				<damage type="string">1d8+1</damage>
+				<damagetype type="string">slashing, magic</damagetype>
+				<description type="formattedtext">
+				<p><i>A +1 longsword named Rot Ruin that can rust one door-sized piece of metal it touches into powder once a day.</i></p>
+				</description>
+				<finesse type="number">0</finesse>
+				<item_attack_bonus type="number">1</item_attack_bonus>
+				<loading type="number"></loading>
+				<name type="string">Rot Ruin</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<range type="string">Close</range>
+				<thrown type="number">0</thrown>
+				<twohanded type="number">0</twohanded>
+				<type type="string">Weapon</type>
+				<versatile type="number">0</versatile>
+				<versatile_damage type="string"></versatile_damage>
+				<weight type="number">1</weight>
+			</rot_ruin>

@@ -1,7 +1,0 @@
-			<ovate_calm_animals>
-				<class type="string">Ovate</class>
-				<name type="string">Calm Animals</name>
-				<text type="formattedtext">
-					<p>1/day, your soothing aura pacifies natural animals within near. Their total Lv cannot exceed 2X your own. Giant animals attempt a Dc 12 Wis check to resist. A calmed animal will regard you as a friend, but not a companion.</p>
-				</text>
-			</ovate_calm_animals>

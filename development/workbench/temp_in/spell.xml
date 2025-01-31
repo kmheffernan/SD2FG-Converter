@@ -1,0 +1,3218 @@
+	<power>
+		<category name="Grave Warden">
+			<black_blood>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>With the touch of your hand, any living creature whose LV is half of yours or less must make a CON check vs. your spellcasting check or be turned into a zombie under your control.</p>
+					<p>The zombie retains the original shape, LV and HP, but loses its abilities, using zombie stats and abilities.</p>
+					<p>Total undead LV under your control cannot exceed your level. (See Raising the Dead for more information.)</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Black Blood</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">con</opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</black_blood>
+			<blood_pact>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You form a life-preserving contract among willing allies in near range.</p>
+					<p>If any ally is reduced to 0 HP, that ally automatically drains 1 HP from all other allies who have at least 2 HP in near range.</p>
+					<p>Blood Pact can only be cast once per day.</p>
+				</description>
+				<duration type="string">10 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Blood Pact</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</blood_pact>
+			<bone_ballista>
+				<actions>
+				<bone_ballista_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Bone Ballista; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</bone_ballista_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string">4d6</damage>
+				<damagetype type="string">piercing</damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You form a ballista made of bone from a corpse you touch.</p>
+					<p>It fires a bolt of bone shards during your turn, automatically hitting a target in near range, doing 4d6 piercing damage.</p>
+					<p>The bone ballista has 10 HP, 11 AC, and can be damaged by physical or magical attacks.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Bone Ballista</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string">Damage</type>
+			</bone_ballista>
+			<bonebound_sentry>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>Using spectral energy, you double the size of one undead minion that you control and root it in place.</p>
+					<p>The bonebound minion cannot move, but its maximum HP is doubled and it deals an extra die of damage.</p>
+					<p>You may dispel Bonebound Sentry at any time.</p>
+				</description>
+				<duration type="string">10 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Bonebound Sentry</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</bonebound_sentry>
+			<bonefire>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>You light a corpse into a magical campfire that cannot be moved, illuminating a near distance.</p>
+					<p>There is a 50% chance that the necromantic energy from the fire will deter random monsters.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.bonefire">Image: Bonefire</link>
+					</linklist>
+				</description>
+				<duration type="string">1 rest</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Bonefire</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</bonefire>
+			<boneskin>
+				<actions>
+				<boneskin_1>
+					<apply type="string"></apply>
+					<durmod type="string">10</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">Boneskin; AC: 1</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</boneskin_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>Your skin becomes covered in hardened bone armor. For the spell’s duration, your armor class becomes 17 (20 on a critical spellcasting check.) [Adjust the effect as needed.]</p>
+				</description>
+				<duration type="string">10 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Boneskin</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</boneskin>
+			<bone_storm>
+				<actions>
+				<bone_storm_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Bone Storm; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</bone_storm_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string">5d6</damage>
+				<damagetype type="string">blunt</damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You call upon deathly winds to create a tornado of whirling bones that cover a near cube.</p>
+					<p>Any creatures caught inside take 5d6 blunt damage per round.</p>
+					<p>You can forgo moving to move the storm a near distance.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.bone_storm">Image: Bone Storm</link>
+					</linklist>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Bone Storm</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string">Damage</type>
+			</bone_storm>
+			<carrion_stench>
+				<actions>
+				<carrion_stench_1>
+					<apply type="string"></apply>
+					<durmod type="string">1</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">DISATK</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</carrion_stench_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You exude the putrid essence of a ghast.</p>
+					<p>Other living creatures within a near area centered on you make a CON check vs. your spellcasting check or suffer DISADV on attack rolls and spellcasting checks on their next turn.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Carrion Stench</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">con</opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</carrion_stench>
+			<conjure_wraith>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You touch a fresh corpse to conjure a vengeful wraith to do your bidding. It acts on your turn. After 1 day it turns to dust.</p>
+					<p>Only one instance of this spell may be active at a time. A second casting while another instance exists immediately destroys the previous wraith, even if the spell fails. The wraith counts against the LV limit of other undead minions.</p>
+					<p>A critical fail on casting this spell still conjures the wraith, but it turns against you. Do not roll on the mishap table.</p>
+				</description>
+				<duration type="string">1 day</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Conjure Wraith</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</conjure_wraith>
+			<chilling_shriek>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>With a ghastly scream, you terrify living creatures.</p>
+					<p>Living creatures LV 9 or less within near of you must make a CON check vs. your spellcasting check or flee from you for 1d4 rounds.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Chilling Shriek</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">con</opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</chilling_shriek>
+			<create_corpse>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>With the snap of your fingers, a fresh human corpse materializes at your feet.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Create Corpse</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</create_corpse>
+			<corpse_companion>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>A mostly intact corpse you touch rises as an animated lesser skeleton. You control this undead minion and it acts on your turn.</p>
+					<p>Only one instance of this spell may be active at a time. A 2nd casting of this spell destroys the previous minion, even if the spell fails. This does not count against your minion LV limit.</p>
+				</description>
+				<duration type="string">10 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Corpse Companion</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</corpse_companion>
+			<corpse_explosion>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string">5d6</damage>
+				<damagetype type="string">piercing</damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>With a clench of your fist, you cause a non-animated corpse to explode. All creatures within close of the corpse take 5d6 piercing damage.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.corpse_explosion">Image: Corpse Explosion</link>
+					</linklist>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Corpse Explosion</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string">Damage</type>
+			</corpse_explosion>
+			<dark_step>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>Starting from darkness, you teleport to a far distance that is also shrouded in darkness.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Dark Step</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</dark_step>
+			<deadlight>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You use the soul of a fresh corpse to create a floating light that bobs in the air and casts illumination to a near distance around it. It can float up to a near distance on your turn.</p>
+				</description>
+				<duration type="string">1 hour real time</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Deadlight</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</deadlight>
+			<darkness>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>You magically create darkness in a near cube within the spell’s range. Creatures inside the area are blinded and they are obscured from view from the outside. Only magical light can penetrate this magical darkness.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Darkness</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</darkness>
+			<deathward_circle>
+				<actions>
+				<deathward_circle_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Deathward Circle; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</deathward_circle_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You conjure a circle of bones and necrotic energy out to near-sized cube centered on yourself. For the spell’s duration, undead creatures LV 9 or less cannot attack or cast a hostile spell on anyone inside the circle.</p>
+					<p>The undead also can’t possess, compel, or beguile anyone inside the circle.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.death_ward_circle">Image: Death Ward Circle</link>
+					</linklist>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Deathward Circle</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</deathward_circle>
+			<demonic_possession>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>Your soul willingly leaves your body and occupies a target in near range. An unwilling target can make a CHA check vs. your spellcasting check. If they fail, you control the target on your turn, but your body stands in a helpless daze.</p>
+					<p>When the target returns to its body, it becomes aware of the possession, but retains no memories of what transpired.</p>
+					<p>If the target dies, you return to your body as long as it is within near range, otherwise you return to your body and drop to 0 HP.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Demonic Possession</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">cha</opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</demonic_possession>
+			<domain_of_fatigue>
+				<actions>
+				<domain_of_fatigue_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Domain of Fatigue; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</domain_of_fatigue_1>
+				<domain_of_fatigue_2>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">DISATK</label>
+					<order type="number">2</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</domain_of_fatigue_2>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You cause a wilting of vitality for the living. All living creatures a near distance from you must make a CON check vs. your spellcasting check or have DISADV on all attacks and spellcasting checks.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Domain of Fatigue</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">con</opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</domain_of_fatigue>
+			<drainblade>
+				<actions>
+				<drainblade_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Drainblade; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</drainblade_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>A melee weapon you touch becomes thirsty for blood. It now heals the wielder for an amount of HP equal to the damage it deals, encouraging the wielder to keep fighting.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Drainblade</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</drainblade>
+			<fireskull_familiar>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>You animate a single skull as your familiar from a corpse or skull you touch. The skull is bathed in blue flames and gifted with levitation-based flight.</p>
+					<p>It projects light in a near distance, it can speak and understand, retrieve small items, perform a minor bite attack, and deliver messages.</p>
+					<p>On your turn you can move it a near distance. See NPC entry for stats. Only one instance of this spell may be active at a time.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.fire_skull_familiar">Image: Fire Skull Familiar</link>
+					</linklist>
+				</description>
+				<duration type="string">1 hour real time</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Fireskull Familiar</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</fireskull_familiar>
+			<fossilize>
+				<actions>
+				<fossilize_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">AC: 2; RESIST: all</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</fossilize_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>Your touch hardens the bones of an undead minion, granting it +2 AC and imposing half damage on all damage dealt to it.</p>
+					<p>Fossilized undead cannot be healed.</p>
+					<p>This spell has no effect on already fossilized undead.</p>
+				</description>
+				<duration type="string">Permanent</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Fossilize</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</fossilize>
+			<ghost_shift>
+				<actions>
+				<ghost_shift_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Ghost Shift; IMMUNE: piercing, blunt, slashing; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</ghost_shift_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You and your equipment become incorporeal, allowing you to move in any direction, including up or down at half movement speed.</p>
+					<p>You can move through solid objects and cannot attack with or be struck by physical weapons. You may cast spells and spells can still affect you.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Ghost Shift</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</ghost_shift>
+			<ghoulish_claws>
+				<actions>
+				<ghoulish_claws_1>
+					<apply type="string"></apply>
+					<durmod type="string">1d4</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">paralyzed</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</ghoulish_claws_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string">1d8</damage>
+				<damagetype type="string">slashing</damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>By your touch, a willing target’s hands transform into ghastly claws. Your target may make a claw attack that deals 1d8 slashing damage plus paralyze.</p>
+					<p>Victims hit by this attack must make a DC 12 CON check or be paralyzed for 1d4 rounds.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Ghoulish Claws</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">12</opposed_dc>
+				<opposedAbility type="string">con</opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string">Damage</type>
+			</ghoulish_claws>
+			<grasp_from_the_grave>
+				<actions>
+				<grasp_from_the_grave_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Grasp from the Grave; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</grasp_from_the_grave_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string">1d4</damage>
+				<damagetype type="string">blunt</damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>You call forth spectral hands that erupt from the ground in a near-sized cube of effect. All creatures in the cube move at half speed and take 1d4 blunt damage per round.</p>
+					<p>Once cast, the spectral hands cannot be moved.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Grasp from the Grave</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string">Damage</type>
+			</grasp_from_the_grave>
+			<grub_geyser>
+				<actions>
+				<grub_geyser_1>
+					<apply type="string"></apply>
+					<durmod type="string">5</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">DISADK; DMGO: 1d6 piercing; disadvantage to spell checks</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</grub_geyser_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string">1d6</damage>
+				<damagetype type="string">piercing</damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You breathe a stream of flesheating maggots at a close target. Target must make a CON vs. your spellcasting check check or take 1d6 piercing damage and suffer DISADV on attacks and spellcasting checks as long as they are covered in maggots.</p>
+					<p>Target continues to take 1d6 piercing damage each round until the effect ends or until they take an action to brush them off.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Grub Geyser</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string">Damage</type>
+			</grub_geyser>
+			<killing_shriek>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You let out a mind-shattering scream that instantly slays any living beings who hear it. Living beings within near range of you must make a CON check vs. your spellcasting check or die. Creatures above LV 9 are immune.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.killing_shriek">Image: Killing Shriek</link>
+					</linklist>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Killing Shriek</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">con</opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</killing_shriek>
+			<lay_to_rest>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>An undead creature you touch, whose level is equal to or less than yours, is instantly sent to its final afterlife, reducing it to grave dust.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Lay to Rest</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</lay_to_rest>
+			<locate_corpse>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You know the direction and range of the closest nonanimated corpse.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Locate Corpse</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</locate_corpse>
+			<lifeward_circle>
+				<actions>
+				<lifeward_circle_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Lifeward Circle; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</lifeward_circle_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You conjure a circle of bones and necrotic energy out to nearsized cube centered on yourself.</p>
+					<p>For the spell’s duration, enemy living creatures LV 9 or below cannot attack or cast a hostile spell on anyone inside the circle.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Lifeward Circle</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</lifeward_circle>
+			<mortal_rejuvenation>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>By reaping the last death energy from any fresh corpses within near, you and allies within near each regain 1d6 HP per corpse.</p>
+					<p>These corpses turn to grave dust.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Mortal Rejuvenation</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</mortal_rejuvenation>
+			<mummify>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>After a day of preparation and ceremony, you embalm a corpse as a mummy who acts on your turn. Mummies deteriorate when walking long distances, but can be carried in a casket or left to guard a location. This minion does not count against the LV limit of other raised undead minions.</p>
+				</description>
+				<duration type="string">Permanent</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Mummify</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</mummify>
+			<prevent_decay>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>Any corpse you touch is perfectly preserved for 1 day.</p>
+				</description>
+				<duration type="string">1 day</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Prevent Decay</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</prevent_decay>
+			<protection_from_undead>
+				<actions>
+				<protection_from_undead_1>
+					<apply type="string"></apply>
+					<durmod type="string">5</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">IFT: TYPE (undead); GRANTDISATK</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</protection_from_undead_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>The undead have DISADV on attack rolls against a target you touch. These beings also can’t possess, compel, or beguile it.</p>
+					<p>When cast on an already-possessed target, the possessing entity makes a CHA check vs. the last spellcasting check. On a failure, the entity is expelled.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.protection_from_undead">Image: Protection from Undead</link>
+					</linklist>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Protection from Undead</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">cha</opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</protection_from_undead>
+			<raise_dead>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You utter an incantation and all corpses within a near range rise as zombies or skeletons under your control, their condition dictating which form they take.</p>
+					<p>They maintain the shape, HP and LV they had in life, but lose all of their abilities. They gain the attacks, stats, and abilities of skeletons or zombies.</p>
+					<p>They act on your turn, then collapse to dust after 1 day.</p>
+					<p>The combined LV of controlled undead cannot exceed yours.</p>
+					<p>Recasting adds to or replaces previous undead minions with new ones until the LV limit is reached. (See pg. 41 for more information.)</p>
+					<p>A critical fail causes all undead minions under your control to collapse into grave dust including undead gained from other spells or the Claim Undead ability. Do not roll on the mishap table.</p>
+				</description>
+				<duration type="string">1 day</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Raise Dead</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</raise_dead>
+			<remove_curse>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>With the touch of your hands, you expunge one curse of your choice affecting the target.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Remove Curse</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</remove_curse>
+			<soul_reap>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>Your hand goes incorporeal as you reach into the body of a LV 9 or lower target and pull out its soul, causing the target to die.</p>
+					<p>Treat a failed spellcasting check as a critical failure.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Soul Reap</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</soul_reap>
+			<speak_with_dead>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>A dead body you touch answers your questions. You can ask up to three yes or no questions (one at a time). The corpse truthfully answers “yes” or “no” to each.</p>
+					<p>If you cast this spell more than once in 24 hours, treat a failed spellcasting check for it as a critical failure, instead.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Speak with Dead</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</speak_with_dead>
+			<spectral_drain>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string">3d6</damage>
+				<damagetype type="string">radiant</damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>Partially transparent black tendrils erupt from your hands and engulf an undead creature, dealing 3d6 radiant damage and healing you by the same amount.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.spectral_drain">Image: Spectral Drain</link>
+					</linklist>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Spectral Drain</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string">Damage</type>
+			</spectral_drain>
+			<spectral_scythe>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You manifest a ghostly image of a scythe floating within near.</p>
+					<p>On your turn you can move it up to near distance away and cast touch spells through it. Apply your Necrotic Reap bonus to spells cast in this way.</p>
+					<p>Only one instance of this spell may be active at a time.</p>
+					<p>A second casting of this spell while another instance exists immediately de-activates the previous one, even if the spell fails.</p>
+				</description>
+				<duration type="string">10 turns</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Spectral Scythe</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</spectral_scythe>
+			<summon_mummy>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You summon forth a mummy from its hidden crypt who will act on your turn and do your bidding. After 5 rounds, it melts away into smoke.</p>
+					<p>A critical fail on casting this spell still summons the mummy, but it turns against you during its 5 round lifespan. Do not roll on the mishap table.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Summon Mummy</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</summon_mummy>
+			<summon_wraith>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You summon forth a wraith from the incorporeal plane who will act on your turn and do your bidding. After 5 rounds, it melts away into smoke.</p>
+					<p>A critical fail on casting this spell still summons the wraith, but it turns against you during its 5 round lifespan.</p>
+					<p>Do not roll on the mishap table.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Summon Wraith</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</summon_wraith>
+			<thrall_offering>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You magically beguile one humanoid of LV 2 or less within near range who is compelled to approach one of your undead minions and allow itself to be attacked with advantage.</p>
+					<p>If there are no undead minions, the affected humanoid follows you to the best of its ability until the spell ends or an undead minion appears.</p>
+					<p>If a minion kills it, that undead is healed to full HP. The spell ends if you or your allies hurt it, but stays beguiled if a minion attacks it. The target remembers you magically enchanted it.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Thrall Offering</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</thrall_offering>
+			<touch_of_fatigue>
+				<actions>
+				<touch_of_fatigue_1>
+					<apply type="string"></apply>
+					<durmod type="string">1</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">DISATK; disadvantage on spell checks</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</touch_of_fatigue_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>A target you touch becomes exhausted during its next turn, giving it disadvantage on attacks and spellcasting checks.</p>
+				</description>
+				<duration type="string">1 round</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Touch of Fatigue</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</touch_of_fatigue>
+			<undeath_blessing>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string">1d6</damage>
+				<damagetype type="string">necrotic</damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>Your touch infuses necrotic vitality to an undead or withers the living.</p>
+					<p>The undead target you touch regains 1d6 hit points, while a living target you touch takes 1d6 necrotic damage instead.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string">1d6</healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Undeath Blessing</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string">Healing</type>
+			</undeath_blessing>
+			<undeath_to_dust>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string">4d6</damage>
+				<damagetype type="string">radiant</damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You wave your arm and all undead less than LV 9 in a near area around you instantly turn to dust. Undead LV 9 or above take 4d6 radiant damage.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.undeath_to_dust">Image: Undeath to Dust</link>
+					</linklist>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Undeath to Dust</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string">Damage</type>
+			</undeath_to_dust>
+			<unhallowed_ground>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You imbue a landmark with profane magic, permanently turning it into a necromantic beacon of undeath.</p>
+					<p>All the land within 6 miles of the beacon is cursed. Any burial grounds in the area are immediately overrun with the rising of the dead in the form of zombies or skeletons.</p>
+					<p>These undead are not under your control, but will savagely attack anyone they find.</p>
+					<p>Anyone who dies in this cursed area immediately rises again as a zombie.</p>
+				</description>
+				<duration type="string">Permanent</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Unhallowed Ground</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</unhallowed_ground>
+			<veil_of_life>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>With your touch, one of your undead minions appears to be alive.</p>
+					<p>You choose the ancestry and style of clothes worn by the undead creature. It can appear only slightly larger or smaller than the original undead minion.</p>
+					<p>The spell will also make the target’s movements appear lifelike.</p>
+					<p>Even the stench will be fully disguised.</p>
+					<p>Anyone suspicious can make an INT check vs. your last spellcasting check to disbelieve the illusion.</p>
+				</description>
+				<duration type="string">1 Day</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Veil of Life</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</veil_of_life>
+			<wall_of_bones>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string">2d4</damage>
+				<damagetype type="string">slashing</damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You summon a wall of writhing bones to rise from the ground.</p>
+					<p>The 1-foot thick wall must be contiguous and can cover a near-sized area in length and 10 feet tall or less.</p>
+					<p>Foes close to the wall automatically take 2d4 slashing damage per round from the grasping and clawing bony hands and claws. Each close-sized section of the wall has 12 AC and 15 HP.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.wall_of_bones">Image: Wall of Bones</link>
+					</linklist>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Wall of Bones</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string">Damage</type>
+			</wall_of_bones>
+			<wither>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You lift your hands, and all plants within near range quickly wither and die. This also dispels any spells that enhance or conjure plants.</p>
+					<p>Plant creatures like Assassin Vines, Venus Flytraps, or Treants take 3d6 damage.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Wither</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</wither>
+		</category>
+		<category name="Ovate">
+			<animal_totem>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>A willing animal you touch is transformed into a small wooden statue in your inventory.</p>
+					<p>You can return it to natural form at any time before the duration expires.</p>
+				</description>
+				<duration type="string">1 Day</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Animal Totem</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</animal_totem>
+			<arbor_vantage>
+				<actions>
+				<arbor_vantage_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Arbor Vantage; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</arbor_vantage_1>
+				<arbor_vantage_2>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">ATKADV</label>
+					<order type="number">2</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</arbor_vantage_2>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>Any ally within near of a tree you enchant makes attacks with ADV.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Arbor Vantage</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</arbor_vantage>
+			<arrow_of_hornets>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string">1d6</damage>
+				<damagetype type="string">piercing</damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>A mass of hornets you summon coalesce into an arrow that hits a target, dealing 1d6 piercing damage.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Arrow of Hornets</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string">Damage</type>
+			</arrow_of_hornets>
+			<barkhide>
+				<actions>
+				<barkhide_1>
+					<apply type="string"></apply>
+					<durmod type="string">5</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">AC: 2</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</barkhide_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>An animal or giant animal’s skin you touch hardens like tree bark. For the spell’s duration, the animal’s armor class is increased by 2. Can also be cast on Beastmasters.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Barkhide</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</barkhide>
+			<bloomquake>
+				<actions>
+				<bloomquake_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">prone</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</bloomquake_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string">2d6</damage>
+				<damagetype type="string">blunt</damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You cause thousands of flowers to burst from the ground, creating an earthquake centered on a target within range.</p>
+					<p>All creatures in a near area from target location must make a DEX check vs. your spellcasting check or fall and take 2d6 blunt damage.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Bloomquake</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">dex</opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string">Damage</type>
+			</bloomquake>
+			<charm_animals>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>You magically beguile a number of natural animals whose combined LV equals your level.</p>
+					<p>Two LV 0 animals count as 1 LV.</p>
+					<p>They regard you as their master, but if they cannot understand you, they will take the most obvious, instinctual action to assist you.</p>
+					<p>The spell ends if you or your allies cause harm to any of them.</p>
+					<p>The animals return to their wild form when the spell ends.</p>
+				</description>
+				<duration type="string">1 day</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Charm Animals</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</charm_animals>
+			<companion_sight>
+				<actions>
+				<companion_sight_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Companion Sight; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</companion_sight_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You close your eyes and match your breath to that of your companion. You can see through the eyes of your animal companion.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Companion Sight</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</companion_sight>
+			<create_tree>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You lift your hands and a climbable tree grows from any flat, horizontal surface, up to 50’ high. It lasts for one day before dematerializing and returning to the forest.</p>
+				</description>
+				<duration type="string">1 day</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Create Tree</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</create_tree>
+			<enlarge_animal>
+				<actions>
+				<enlarge_animal_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Enlarge Animal; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</enlarge_animal_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>An animal you touch grows into the giant version of itself.</p>
+					<p>Replace its stat block with its giant version.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Enlarge Animal</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</enlarge_animal>
+			<foresee_good>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>You call on nature spirits to give you insights into a being’s future. One humanoid you touch gains a luck token.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Foresee Good</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</foresee_good>
+			<forest_altar>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You prepare a natural altar and commune with a nature spirit for 5 rounds. You gain answers to any question regarding an entire region, be they historical, navigational, or political.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Forest Altar</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</forest_altar>
+			<forest_blend>
+				<actions>
+				<forest_blend_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Forest Blend; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</forest_blend_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>In a forest environment, you and your allies turn invisible as long as they remain a near distance from you. The spell ends if you or your hidden allies attack or cast a spell.</p>
+					<p>You have advantage on focus checks for this spell.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Forest Blend</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</forest_blend>
+			<forest_of_treants>
+				<actions>
+				<forest_of_treants_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Forest of Treants; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</forest_of_treants_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You call on the very essence of nature to bestow sentient life to up to 4 trees in a forest.</p>
+					<p>These trees become fully realized oak treants (see NPC entry) who will act friendly toward you and assist you with any task that does not involve the destruction of nature.</p>
+					<p>They return to their tree form when the spell ends.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Forest of Treants</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</forest_of_treants>
+			<fungal_cloud>
+				<actions>
+				<fungal_cloud_1>
+					<apply type="string"></apply>
+					<durmod type="string">1</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">DISATK</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</fungal_cloud_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You lift your hands and a shrubsized mushroom grows from any surface and explodes, causing a cloud of spores to fill a nearsized cube.</p>
+					<p>All living creatures must make a CON check vs. your spellcasting check or have DISADV on attacks and checks for the next round.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Fungal Cloud</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">con</opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</fungal_cloud>
+			<giant_antapult>
+				<actions>
+				<giant_antapult_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Giant Antapult; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</giant_antapult_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string">8d6</damage>
+				<damagetype type="string">blunt</damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You wring your hands, conjuring a group of giant ants that form into a makeshift catapult capable of launching magical boulders at a single visible target within far. Make a ranged attack that deals 8d6 blunt damage on a successful hit.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.giant_antapult">Image: Giant Antapult</link>
+					</linklist>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Giant Antapult</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string">Damage</type>
+			</giant_antapult>
+			<healing_feast>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You conjure a meal for all allies in near, healing 4d12 HP and curing poisoning and fatigue. It takes 5 rounds to eat and must be fully consumed.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Healing Feast</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</healing_feast>
+			<healing_sprout>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>You lift one palm and a restoring plant springs from any surface within a near distance from you.</p>
+					<p>Consuming the plant restores hit points equal to d6s determined by half of your level (rounded down), minimum 1d6.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Healing Sprout</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</healing_sprout>
+			<know_intention>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You instantly know the intention of a creature within range.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Know Intention</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</know_intention>
+			<life_wolf>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You summon a celestial life wolf (see NPC record) that acts on your turn. It spends its movement and actions to save your dying and unconscious allies, using one action to magically heal them to 1 HP.</p>
+					<p>Once no more allies are dying, the wolf vanishes.</p>
+					<p>If you drop to 0 HP while the life wolf is active, it will turn its attention to you, and vanish after saving you, even if others still require aid.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.life_wolf">Image: Life Wolf</link>
+					</linklist>
+				</description>
+				<duration type="string">Until allies are stable</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Life Wolf</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</life_wolf>
+			<mass_breathe_water>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You and your allies a near distance from you gain magical gills, allowing you to breathe underwater for the spell’s duration.</p>
+				</description>
+				<duration type="string">1 hour</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Mass Breathe Water</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</mass_breathe_water>
+			<obscuring_spores>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>You create and cause a mushroom to explode, causing a dense cloud of obscuring spores to fill a near cube centered on a point within near. Creatures cannot see in or out of the cloud.</p>
+					<p>It lasts for the full duration or until a wind disperses it.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Obscuring Spores</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</obscuring_spores>
+			<pass_tree>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You teleport from a tree you touch to any tree that you have seen before.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Pass Tree</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</pass_tree>
+			<plantidote>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string">1d4</damage>
+				<damagetype type="string">stat</damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You cause a curative plant to spring from any surface within a near distance from you.</p>
+					<p>Consuming the plant neutralizes poison, disease, or heals 1d4 stat damage.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Plantidote</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string">Damage</type>
+			</plantidote>
+			<reduce_animal>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>An animal you touch is reduced to a quarter of its normal size and any giant animal is reduced to normal size. If animal is engaged in combat, it makes a morale check.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.reduce_animal">Image: Reduce Animal</link>
+					</linklist>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Reduce Animal</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</reduce_animal>
+			<resurrect_animal>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You bring a natural animal you touch back to life from the dead.</p>
+					<p>The animal must have been dead for no more than the number of days equal to half your level rounded up.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Resurrect Animal</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</resurrect_animal>
+			<rock_to_mud>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>With your touch, you transmute up to a near-cube area of contiguous rock into mud.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Rock to Mud</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</rock_to_mud>
+			<speak_with_animals>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You are able to speak to and understand all types of animals for the duration of the spell.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Speak with Animals</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</speak_with_animals>
+			<summon_animal>
+				<actions>
+				<summon_animal_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Summon Animal; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</summon_animal_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You invoke your nature spirit, summoning a natural animal of LV 5 or less, arriving in one round. During that round, you do not have to make a focus check. The animal is under your control and acts on your turn. If you lose focus on this spell, you lose control of the animal and it acts instinctually based on the situation.</p>
+					<p>It cannot communicate with you unless you know its language.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Summon Animal</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</summon_animal>
+			<summon_giant_animal>
+				<actions>
+				<summon_giant_animal_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Summon Giant Animal; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</summon_giant_animal_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>By invoking the earth spirits, you summon a giant animal of LV 9 or less, arriving in one round. During that round, you don’t have to make a focus check. The animal is under your control and acts on your turn.</p>
+					<p>If you lose focus on this spell, you lose control of the animal and it acts instinctually based on the situation. It cannot communicate with you unless you know its language.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.summon_giant_animal">Image: Summon Giant Animal</link>
+					</linklist>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Summon Giant Animal</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</summon_giant_animal>
+			<sword_of_scorpions>
+				<actions>
+				<sword_of_scorpions_1>
+					<apply type="string"></apply>
+					<durmod type="string">1d4</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">paralyzed</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</sword_of_scorpions_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string">1d12</damage>
+				<damagetype type="string">slashing</damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You clap your hands, conjuring a swarm of scorpions that form into a living scimitar that hits a close opponent, dealing 1d12 slashing damage. Damaged target must make a CON check vs. your spellcasting check or be paralyzed for 1d4 rounds.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.sword_of_scorpions">Image: Sword of Scorpions</link>
+					</linklist>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Sword of Scorpions</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">con</opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string">Damage</type>
+			</sword_of_scorpions>
+			<timber>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string">4d8</damage>
+				<damagetype type="string">blunt</damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>With a simple hand motion, you topple a tree, dealing 4d8 blunt damage to any creatures along a near-length line where base of the tree falls.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Timber</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string">Damage</type>
+			</timber>
+			<tomorrows_vision>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>After one round of communing with your nature spirit, you can ask three yes/no questions to gain insight into an important event or events that are expected to happen in the next week.</p>
+					<p>Your role in the event cannot be predicted, only what is likely to occur in the world or region.</p>
+					<p>The questions cannot directly pertain to you or your allies.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Tomorrow’s Vision</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</tomorrows_vision>
+			<torch_of_fireflies>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You summon a cloud of fireflies that illuminate out to a near distance for 1 hour of real time.</p>
+					<p>The fireflies follow the ovate around. Treat them as a LV 0 animal with 1 HP.</p>
+					<p>They are attracted to any invisible creatures, revealing their position if encountered.</p>
+				</description>
+				<duration type="string">1 hour real time</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Torch of Fireflies</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</torch_of_fireflies>
+			<train_animal>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>After 10 rounds of concentration, you train any calmed or captive animal to become your companion. This companionship mirrors the class talent of the same name.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Train Animal</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</train_animal>
+			<tree_assault>
+				<actions>
+				<tree_assault_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Tree Assault; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</tree_assault_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string">2d6</damage>
+				<damagetype type="string">blunt</damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>You cause a tree within near to use its limbs to lash at close opponents. Use your own STR or DEX to make one melee slam attack per round, dealing 2d6 blunt damage.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Tree Assault</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string">Damage</type>
+			</tree_assault>
+			<tree_guardian>
+				<actions>
+				<tree_guardian_1>
+					<apply type="string"></apply>
+					<durmod type="string">5</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">AC: 2</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</tree_guardian_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You turn a tree within near into a guardian for you and your allies. Allies within close will be protected by the tree’s branches, gaining +2 to their AC.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Tree Guardian</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</tree_guardian>
+			<tree_sanctuary>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>After 2 rounds of concentration, a portal appears on a tree you touch. Stepping inside seals the portal, transporting you to a secure chamber within the tree.</p>
+					<p>While inside, you are aware of, but protected from, external influences. You are expelled from the chamber if the tree is destroyed.</p>
+					<p>You may complete a rest while safely in this chamber. Once your rest is complete, you reemerge from the tree.</p>
+					<p>No one else can pass through the tree portal.</p>
+				</description>
+				<duration type="string">1 rest</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Tree Sanctuary</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</tree_sanctuary>
+			<vicious_bite>
+				<actions>
+				<vicious_bite_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Vicious Bite; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</vicious_bite_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>The teeth on an animal you touch elongates and sharpens.</p>
+					<p>The animal gains an extra die of damage on any bite attack.</p>
+					<p>This spell can be applied to Beastmasters.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.vicious_bite">Image: Vicious Bite</link>
+					</linklist>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Vicious Bite</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</vicious_bite>
+			<whip_of_fire_ants>
+				<actions>
+				<whip_of_fire_ants_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">DMGO: 1d4 piercing</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</whip_of_fire_ants_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string">1d6</damage>
+				<damagetype type="string">slashing</damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>With the snap of your fingers, a colony of fire ants form into a living needle whip that hits a creature within near, causing 1d6 slashing damage.</p>
+					<p>The hit causes fire ants to remain on the target, biting for an additional 1d4 piercing damage per round until they are actively removed.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Whip of Fire Ants</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string">Damage</type>
+			</whip_of_fire_ants>
+			<yesterdays_vision>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>After one round of communing with your nature spirit, you can ask a single yes/no question to gain insight into an event that occurred within the last week.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Yesterday’s Vision</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</yesterdays_vision>
+		</category>
+		<category name="Shaman">
+			<ancestral_guidance>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>Your voice carries the insight of ancient mystics, granting your allies in near distance advantage on all spellcasting, herbal, and elixir checks.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Ancestral Guidance</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</ancestral_guidance>
+			<armaments_of_the_ancients>
+				<actions>
+				<armaments_of_the_ancients_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">ATK: 1; DMG: 1, magic</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</armaments_of_the_ancients_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You invoke ancestral grace, imbuing your near allies’ weapons with magic. They all become +1 magical weapons.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Armaments of the Ancients</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</armaments_of_the_ancients>
+			<bite_of_the_mantis>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You invoke the fierce spirit of the mantis. Enemies a near distance from you who damage you or your allies inflict an additional half damage to themselves.</p>
+					<p>Targets know this damage is coming from you.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Bite of the Mantis</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</bite_of_the_mantis>
+			<bramble_bridge>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>Your song stirs the dormant energy within the surrounding plants, prompting them to sprout and weave together into a bridge, stairway, or ramp, spanning a near-sized cube.</p>
+					<p>Attempts to maintain this chant are made with advantage.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Bramble Bridge</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</bramble_bridge>
+			<call_to_the_wild>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>Your voice carries the ancient melody that invites animals within far to come to your aid.</p>
+					<p>The GM decides which and how many arrive; the animals’ combined LV being twice yours.</p>
+					<p>They begin arriving in one round and will take the most obvious, instinctual action that can assist you and your allies.</p>
+					<p>This chant does not grant you the ability to speak to them or control them.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Call to the Wild</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</call_to_the_wild>
+			<dance_of_the_drum>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>Your captivating drumming compels enemies within a near distance from you to dance in revelry unless they pass a WIS check vs. your last chanting check. The effect on one target ends if you or your allies do anything the target notices to injure it.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Dance of the Drum</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</dance_of_the_drum>
+			<divine_intervention>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>Your revered ancestors intercede on your behalf. All allies within a near distance from you may reroll 1s, keeping the second result.</p>
+					<p>This applies to all rolls, including damage dice.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Divine Intervention</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</divine_intervention>
+			<floras_embrace>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You awaken the spirits of the plants, entwining foes in a near area within range. Affected foes are reduced to moving a close distance on their turn. Targets can escape if they pass a STR check vs. your last chanting check.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Flora’s Embrace</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</floras_embrace>
+			<fury_of_the_spirits>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>The spirits favor your cause.</p>
+					<p>Your allies roll double damage dice when successfully hitting enemies a near distance from you with physical attacks.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Fury of the Spirits</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</fury_of_the_spirits>
+			<gift_of_air>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>Allies in a near area sprout majestic eagle wings, gifting them with flight. Allies can fly a near distance on their turn.</p>
+					<p>You have ADV on maintenance checks for this chant.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.gift_of_air">Image: Gift of Air</link>
+					</linklist>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Gift of Air</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</gift_of_air>
+			<gift_of_fire>
+				<actions>
+				<gift_of_fire_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">DMG: 1d4 fire</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</gift_of_fire_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string">1d4</damage>
+				<damagetype type="string">fire</damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You cause the wielded weapons of your allies in a near area centered on you to leap into flame. These weapons do an additional 1d4 fire damage.</p>
+					<p>Any newly acquired or drawn weapons are set on fire for each round the chant continues.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Gift of Fire</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string">Damage</type>
+			</gift_of_fire>
+			<gift_of_water>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You call on the water spirits, who enchant all allies in a near area centered around you. As an action, they can unleash a forceful spray of water from an extended hand, dousing flames and pushing enemies straight back from close to near with a successful ranged attack roll.</p>
+					<p>Targets can withstand the water spray by making a STR check vs. the attack roll.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Gift of Water</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</gift_of_water>
+			<gift_of_earth>
+				<actions>
+				<gift_of_earth_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">AC: 2; no movement</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</gift_of_earth_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>Your resonating chant causes yourself and your allies in a near area centered on you to become rooted in place and grow barklike skin, giving a +2 AC bonus.</p>
+					<p>You and your allies are rooted in place until the chant ends.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Gift of Earth</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</gift_of_earth>
+			<grace_of_the_gazelle>
+				<actions>
+				<grace_of_the_gazelle_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">ADVATK, ranged; ADVCHK: dexterity</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</grace_of_the_gazelle_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>You channel the spry spirit of the gazelle, granting you and your allies within a near distance from you advantage on all DEX checks and ranged attacks.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Grace of the Gazelle</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</grace_of_the_gazelle>
+			<heart_of_the_lion>
+				<actions>
+				<heart_of_the_lion_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">ADVINIT</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</heart_of_the_lion_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You bang your drum with ferocity, causing yourself and your allies within near range to gain unwavering determination.</p>
+					<p>Those affected cannot be surprised and have advantage on initiative rolls.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Heart of the Lion</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</heart_of_the_lion>
+			<leaves_in_the_breeze>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>Your chant invokes a gentle breeze that slows the descent of you and your falling allies a near distance from you, allowing you to float safely to the ground.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Leaves in the Breeze</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</leaves_in_the_breeze>
+			<hiss_of_the_viper>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You hiss loudly and rattle your shakers, calling on the spirit of the serpent.</p>
+					<p>Enemies within a near area centered on you must make a DC 9 morale check at the beginning of their turn.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Hiss of the Viper</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</hiss_of_the_viper>
+			<living_revelation>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>Your rhythmic chant pierces through walls and doors, revealing the presence of living creatures beyond. You can determine their approximate size, shape, and location.</p>
+					<p>The chant reveals creatures behind walls up to a far distance, but the sound cannot penetrate through double walls.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Living Revelation</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</living_revelation>
+			<lure_of_the_piper>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>Your enchanting performance compels enemies in a near distance from you to abandon their actions and follow you obediently wherever you lead.</p>
+					<p>Beguiled creatures make a WIS check vs. your last chanting check on their turn to resist.</p>
+					<p>If you stop moving, or if you or your allies actively harm a beguiled creature, the beguilement ends.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.lure_of_the_piper">Image: Lure of the Piper</link>
+					</linklist>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Lure of the Piper</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</lure_of_the_piper>
+			<poseidons_passage>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You call on the water spirits to part the sea. You create passages or hold back the tide in a double near cube within the chant’s range.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.poseidons_passage">Image: Poseidon's Passage</link>
+					</linklist>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Poseidon’s Passage</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</poseidons_passage>
+			<primal_purge>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You compel your allies within near range from you to expel any curses, enchantments, possessions, poisons, diseases, or parasites.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Primal Purge</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</primal_purge>
+			<sacred_bounty>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You open yourself to the abundance of the universe.</p>
+					<p>When you or your allies discover treasure worth at least 1 XP, you gain an additional +1 XP.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Sacred Bounty</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</sacred_bounty>
+			<shamanic_purge>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You compel your allies within a near range from you to undergo a violent upheaval, expelling possessing spirits, compulsions, or beguilements.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Shamanic Purge</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</shamanic_purge>
+			<shamans_shield>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>Harnessing the power of ancestral shamans, you conjure a shield of protection against hostile magic out to a near-sized cube centered on yourself. Such magic cannot affect or harm you or your allies inside the shield.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Shaman’s Shield</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</shamans_shield>
+			<shell_of_the_turtle>
+				<actions>
+				<shell_of_the_turtle_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">AC: 1</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</shell_of_the_turtle_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You invoke the tortoise’s protective energies, granting you and your allies within a near range a +1 bonus to AC.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Shell of the Turtle</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</shell_of_the_turtle>
+			<song_of_immunity>
+				<actions>
+				<song_of_immunity_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">IMMUNE: fire</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</song_of_immunity_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You name a damage type, and you and your allies within a near area from you become immune to that type of damage.</p>
+					<p>Possible damage types are: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, blunt, piercing, and slashing. You may grant immunity to disease instead of a damage type. This spell does not grant general magic immunity or physical damage immunity. [Adjust the effect as needed.]</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Song of Immunity</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</song_of_immunity>
+			<song_of_resistance>
+				<actions>
+				<song_of_resistance_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">IMMUNE: fire</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</song_of_resistance_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You name a damage type, and you and your allies within a near area from you receive half damage from that type of damage.</p>
+					<p>Possible damage types are: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, blunt, piercing, and slashing. [Adjust the effect as needed.]</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Song of Resistance</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</song_of_resistance>
+			<the_sky_is_falling>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string">2d6</damage>
+				<damagetype type="string">blunt</damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>Your spirit guides deem your enemies unworthy, releasing falling debris from the sky to strike them in a near area centered on you.</p>
+					<p>All enemies must make a DEX check vs. your last chanting check or take 2d6 blunt damage.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">The Sky Is Falling</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string">Damage</type>
+			</the_sky_is_falling>
+			<vault_of_the_flea>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You bestow upon yourself and your allies within near range from you the agility of the flea, enabling them to effortlessly bound to any location within near as their movement action.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Vault of the Flea</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</vault_of_the_flea>
+			<voice_of_verity>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>Anyone who hears your chant are compelled to reveal the unvarnished truth.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Voice of Verity</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</voice_of_verity>
+		</category>
+	</power>

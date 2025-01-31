@@ -1,7 +1,0 @@
-			<warlock_increase_two_stats>
-				<class type="string">Warlock</class>
-				<name type="string">Increase Two Stats</name>
-				<text type="formattedtext">
-					<p>Add +1 point to two stats (they must be different)</p>
-				</text>
-			</warlock_increase_two_stats>

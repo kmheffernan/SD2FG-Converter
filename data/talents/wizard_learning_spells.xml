@@ -1,7 +1,0 @@
-			<wizard_learning_spells>
-				<class type="string">Wizard</class>
-				<name type="string">Learning Spells</name>
-				<text type="formattedtext">
-					<p>You can permanently learn a wizard spell from a spell scroll by studying it for a day and succeeding on a Dc 15 Intelligence check. Whether you succeed or fail, you expend the spell scroll. Spells you learn in this way don't count toward your known spells.</p>
-				</text>
-			</wizard_learning_spells>

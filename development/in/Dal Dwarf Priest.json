@@ -1,0 +1,304 @@
+{
+  "name": "Dal",
+  "stats": {
+    "STR": 14,
+    "DEX": 10,
+    "CON": 10,
+    "INT": 9,
+    "WIS": 14,
+    "CHA": 11
+  },
+  "rolledStats": {
+    "STR": 14,
+    "DEX": 10,
+    "CON": 10,
+    "INT": 9,
+    "WIS": 14,
+    "CHA": 11
+  },
+  "ancestry": "Dwarf",
+  "class": "Priest",
+  "level": 1,
+  "levels": [
+    {
+      "level": 1,
+      "talentRolledDesc": "+1 to melee or ranged attacks",
+      "talentRolledName": "Plus1ToHit",
+      "Rolled12TalentOrTwoStatPoints": "",
+      "Rolled12ChosenTalentDesc": "",
+      "Rolled12ChosenTalentName": "",
+      "HitPointRoll": 3,
+      "stoutHitPointRoll": 5
+    }
+  ],
+  "XP": 0,
+  "ambitionTalentLevel": {
+    "level": 1,
+    "talentRolledDesc": "",
+    "talentRolledName": "",
+    "Rolled12TalentOrTwoStatPoints": "",
+    "Rolled12ChosenTalentDesc": "",
+    "Rolled12ChosenTalentName": "",
+    "HitPointRoll": 0,
+    "stoutHitPointRoll": 0
+  },
+  "title": "Initiate",
+  "alignment": "Chaotic",
+  "background": "Drawn",
+  "deity": "Loki",
+  "maxHitPoints": 7,
+  "armorClass": 13,
+  "gearSlotsTotal": 14,
+  "gearSlotsUsed": 11,
+  "bonuses": [
+    {
+      "sourceType": "Class",
+      "sourceName": "Priest",
+      "sourceCategory": "Ability",
+      "gainedAtLevel": 1,
+      "name": "ExtraLanguage: Priest 1",
+      "bonusTo": "Languages",
+      "bonusName": "Diabolic"
+    },
+    {
+      "sourceType": "Class",
+      "sourceName": "Priest",
+      "sourceCategory": "Ability",
+      "gainedAtLevel": 1,
+      "name": "Spell: Priest, Tier 1, Spell 1",
+      "bonusTo": "Tier:1, Spell:1",
+      "bonusName": "Cure Wounds"
+    },
+    {
+      "sourceType": "Class",
+      "sourceName": "Priest",
+      "sourceCategory": "Ability",
+      "gainedAtLevel": 1,
+      "name": "Spell: Priest, Tier 1, Spell 2",
+      "bonusTo": "Tier:1, Spell:2",
+      "bonusName": "Holy Weapon"
+    },
+    {
+      "sourceType": "Class",
+      "sourceName": "Priest",
+      "sourceCategory": "Talent",
+      "gainedAtLevel": 1,
+      "name": "Plus1ToHit",
+      "bonusTo": "Melee attacks",
+      "bonusName": "Plus1ToHit"
+    }
+  ],
+  "goldRolled": 50,
+  "gold": 14,
+  "silver": 9,
+  "copper": 4,
+  "gear": [
+    {
+      "instanceId": "m5i8i1mv",
+      "gearId": "w9",
+      "name": "Longsword",
+      "type": "weapon",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 9,
+      "currency": "gp"
+    },
+    {
+      "instanceId": "m5i8i1mw",
+      "gearId": "a4",
+      "name": "Shield",
+      "type": "armor",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 10,
+      "currency": "gp"
+    },
+    {
+      "instanceId": "m5i8i1mx",
+      "gearId": "a1",
+      "name": "Leather armor",
+      "type": "armor",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 10,
+      "currency": "gp"
+    },
+    {
+      "instanceId": "m5i8i1my",
+      "gearId": "w2",
+      "name": "Club",
+      "type": "weapon",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 5,
+      "currency": "cp"
+    },
+    {
+      "instanceId": "m5i8i1mz",
+      "gearId": "s2",
+      "name": "Backpack",
+      "type": "sundry",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 0,
+      "cost": 2,
+      "currency": "gp"
+    },
+    {
+      "instanceId": "m5i8i1n0",
+      "gearId": "s8",
+      "name": "Flint and steel",
+      "type": "sundry",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 5,
+      "currency": "sp"
+    },
+    {
+      "instanceId": "m5i8i1n1",
+      "gearId": "s17",
+      "name": "Torch",
+      "type": "sundry",
+      "quantity": 3,
+      "totalUnits": 3,
+      "slots": 3,
+      "cost": 15,
+      "currency": "sp"
+    },
+    {
+      "instanceId": "m5i8i1n4",
+      "gearId": "s15",
+      "name": "Rations",
+      "type": "sundry",
+      "quantity": 2,
+      "totalUnits": 2,
+      "slots": 2,
+      "cost": 10,
+      "currency": "sp"
+    },
+    {
+      "instanceId": "m5i8i1n6",
+      "gearId": "s10",
+      "name": "Iron spikes",
+      "type": "sundry",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 1,
+      "currency": "gp"
+    }
+  ],
+  "treasures": [],
+  "magicItems": [],
+  "ledger": [
+    {
+      "goldChange": 50,
+      "silverChange": 0,
+      "copperChange": 0,
+      "desc": "Starting gold",
+      "notes": ""
+    },
+    {
+      "goldChange": -9,
+      "silverChange": 0,
+      "copperChange": 0,
+      "desc": "Buy Longsword",
+      "notes": ""
+    },
+    {
+      "goldChange": -10,
+      "silverChange": 0,
+      "copperChange": 0,
+      "desc": "Buy Shield",
+      "notes": ""
+    },
+    {
+      "goldChange": -10,
+      "silverChange": 0,
+      "copperChange": 0,
+      "desc": "Buy Leather armor",
+      "notes": ""
+    },
+    {
+      "goldChange": 0,
+      "silverChange": 0,
+      "copperChange": -5,
+      "desc": "Buy Club",
+      "notes": ""
+    },
+    {
+      "goldChange": -2,
+      "silverChange": 0,
+      "copperChange": 0,
+      "desc": "Buy Backpack",
+      "notes": ""
+    },
+    {
+      "goldChange": 0,
+      "silverChange": -5,
+      "copperChange": 0,
+      "desc": "Buy Flint and steel",
+      "notes": ""
+    },
+    {
+      "goldChange": 0,
+      "silverChange": -5,
+      "copperChange": 0,
+      "desc": "Buy Torch",
+      "notes": ""
+    },
+    {
+      "goldChange": 0,
+      "silverChange": -5,
+      "copperChange": 0,
+      "desc": "Buy Torch",
+      "notes": ""
+    },
+    {
+      "goldChange": 0,
+      "silverChange": -5,
+      "copperChange": 0,
+      "desc": "Buy Torch",
+      "notes": ""
+    },
+    {
+      "goldChange": 0,
+      "silverChange": -5,
+      "copperChange": 0,
+      "desc": "Buy Rations",
+      "notes": ""
+    },
+    {
+      "goldChange": 0,
+      "silverChange": -5,
+      "copperChange": 0,
+      "desc": "Buy Rations",
+      "notes": ""
+    },
+    {
+      "goldChange": -1,
+      "silverChange": 0,
+      "copperChange": 0,
+      "desc": "Buy Iron spikes",
+      "notes": ""
+    }
+  ],
+  "spellsKnown": "Cure Wounds, Holy Weapon, Turn Undead",
+  "languages": "Common, Diabolic, Dwarvish",
+  "creationMethod": "Random 1",
+  "coreRulesOnly": true,
+  "activeSources": [
+    "SD",
+    "SG",
+    "CS1",
+    "CS2",
+    "CS3",
+    "CS4"
+  ],
+  "edits": []
+}

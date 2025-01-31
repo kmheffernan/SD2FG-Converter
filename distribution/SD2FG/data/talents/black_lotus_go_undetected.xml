@@ -1,0 +1,7 @@
+			<black_lotus_go_undetected>
+				<class type="string">Black Lotus</class>
+				<name type="string">Go Undetected</name>
+				<text type="formattedtext">
+					<p>1/day, choose a creature of LV 9 or less you can see; it must pass a DC 15 WIS check or it can't see or hear you for 1d4 rounds.</p>
+				</text>
+			</black_lotus_go_undetected>

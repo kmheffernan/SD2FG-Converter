@@ -1,0 +1,25 @@
+			<reduce_animal>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">12</dc>
+				<description type="formattedtext">
+					<p>An animal you touch is reduced to a quarter of its normal size and any giant animal is reduced to normal size. If animal is engaged in combat, it makes a morale check.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.reduce_animal">Image: Reduce Animal</link>
+					</linklist>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Reduce Animal</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">2</tier>
+				<type type="string"></type>
+			</reduce_animal>

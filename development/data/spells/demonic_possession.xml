@@ -1,0 +1,24 @@
+			<demonic_possession>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>Your soul willingly leaves your body and occupies a target in near range. An unwilling target can make a CHA check vs. your spellcasting check. If they fail, you control the target on your turn, but your body stands in a helpless daze.</p>
+					<p>When the target returns to its body, it becomes aware of the possession, but retains no memories of what transpired.</p>
+					<p>If the target dies, you return to your body as long as it is within near range, otherwise you return to your body and drop to 0 HP.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Demonic Possession</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">cha</opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</demonic_possession>

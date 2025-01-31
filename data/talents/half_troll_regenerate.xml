@@ -1,7 +1,0 @@
-			<half_troll_regenerate>
-				<class type="string">Half Troll</class>
-				<name type="string">Regenerate</name>
-				<text type="formattedtext">
-					<p>Regain 1 HP per hour unless damaged by fire or acid.</p>
-				</text>
-			</half_troll_regenerate>

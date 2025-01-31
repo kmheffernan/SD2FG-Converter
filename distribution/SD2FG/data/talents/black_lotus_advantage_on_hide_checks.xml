@@ -1,0 +1,7 @@
+			<black_lotus_advantage_on_hide_checks>
+				<class type="string">Black Lotus</class>
+				<name type="string">Advantage on Hide Checks</name>
+				<text type="formattedtext">
+					<p>You have advantage on Dexterity checks to hide.</p>
+				</text>
+			</black_lotus_advantage_on_hide_checks>

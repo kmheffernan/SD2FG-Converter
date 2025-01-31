@@ -1,7 +1,0 @@
-			<goblin_keen_senses>
-				<class type="string">Goblin</class>
-				<name type="string">Keen Senses</name>
-				<text type="formattedtext">
-					<p>You can't be surprised.</p>
-				</text>
-			</goblin_keen_senses>

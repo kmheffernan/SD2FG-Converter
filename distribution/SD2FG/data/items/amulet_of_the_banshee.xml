@@ -1,0 +1,14 @@
+			<amulet_of_the_banshee>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Carved amber amulet inscribed with a mysterious black rune.</i></p>
+				<p><b>Benefit</b> When activated, you scream, all living creatures LV  or less within near make DC 9 CON or be stunned for 2 rounds.</p>
+				<p><b>Curse</b> Each use of the amulet triggers a DC 9 CON check or your voice is lost until next rest.</p>
+				</description>
+				<name type="string">Amulet of the Banshee</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Amulet of the Banshee.webp</picture>
+				<type type="string">Jewelry</type>
+				<weight type="number">1</weight>
+			</amulet_of_the_banshee>

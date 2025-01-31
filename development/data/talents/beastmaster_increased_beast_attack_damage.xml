@@ -1,0 +1,7 @@
+			<beastmaster_increased_beast_attack_damage>
+				<class type="string">Beastmaster</class>
+				<name type="string">Increased Beast Attack Damage</name>
+				<text type="formattedtext">
+					<p>Increase die category of chosen Beast Attack damage. If already at the maximum of d12, then reroll.</p>
+				</text>
+			</beastmaster_increased_beast_attack_damage>

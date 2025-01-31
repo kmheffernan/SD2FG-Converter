@@ -1,0 +1,14 @@
+			<sphere_of_annihilation>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A three-foot, spherical void of pure darkness that hovers above the ground.</i></p>
+				<p><b>Benefit.</b> This sphere utterly destroys all matter it touches.</p>
+				<p><b>Benefit.</b> Intelligent beings can move the flying sphere a near distance by passing a DC 18 Intelligence check. If multiple creatures vie for control of the sphere, it is a contested Intelligence check instead. Wizards have advantage on this check. The winner moves the sphere a near distance. If the sphere moves into a space occupied by a creature, the being controlling the sphere makes an attack roll against that creature with a +7 bonus. On a hit, the creature is obliterated.</p>
+				</description>
+				<name type="string">Sphere of Annihilation</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Sphere of Annihilation.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</sphere_of_annihilation>

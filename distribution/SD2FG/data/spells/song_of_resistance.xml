@@ -1,0 +1,33 @@
+			<song_of_resistance>
+				<actions>
+				<song_of_resistance_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">IMMUNE: fire</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</song_of_resistance_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You name a damage type, and you and your allies within a near area from you receive half damage from that type of damage.</p>
+					<p>Possible damage types are: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, blunt, piercing, and slashing. [Adjust the effect as needed.]</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Song of Resistance</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</song_of_resistance>

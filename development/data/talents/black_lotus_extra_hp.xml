@@ -1,0 +1,7 @@
+			<black_lotus_extra_hp>
+				<class type="string">Black Lotus</class>
+				<name type="string">Extra HP</name>
+				<text type="formattedtext">
+					<p>You gain an additional hit points die.</p>
+				</text>
+			</black_lotus_extra_hp>

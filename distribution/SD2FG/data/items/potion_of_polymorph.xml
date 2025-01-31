@@ -1,0 +1,16 @@
+			<potion_of_polymorph>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A pickled newt floats in this lavender flask of clear liquid.</i></p>
+				<p><b>Benefit.</b> When you drink this potion, it casts the polymorph spell on you with a duration of 1 hour instead of 10 rounds.</p>
+				<linklist>
+					<link class="power" recordname="reference.power.polymorph@IPFGSDTALCOREPLAYER">Spell: Polymorph</link>
+				</linklist>
+				</description>
+				<name type="string">Potion of Polymorph</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Potion of Polymorph.webp</picture>
+				<type type="string">Potion</type>
+				<weight type="number">1</weight>
+			</potion_of_polymorph>

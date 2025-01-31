@@ -1,0 +1,7 @@
+			<error_qqq>
+				<class type="string"></class>
+				<name type="string">Error: Unknown talent QQQ</name>
+				<text type="formattedtext">
+					<p>Please report errors so that they can be fixed.</p>
+				</text>
+			</error_qqq>

@@ -1,7 +1,0 @@
-			<almazzat_initiative_advantage>
-				<class type="string">Almazzat</class>
-				<name type="string">Initiative Advantage</name>
-				<text type="formattedtext">
-					<p>Gain advantage on initiative rolls (reroll if duplicate)</p>
-				</text>
-			</almazzat_initiative_advantage>

@@ -1,7 +1,0 @@
-			<grave_warden_necrotic_reap>
-				<class type="string">Grave Warden</class>
-				<name type="string">Necrotic Reap</name>
-				<text type="formattedtext">
-					<p>You can cast touch spells through a scythe. Add +1 spellcasting bonus to touch spells when doing so.</p>
-				</text>
-			</grave_warden_necrotic_reap>

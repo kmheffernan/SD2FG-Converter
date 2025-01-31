@@ -1,0 +1,7 @@
+			<pyromancy_wall_of_fire>
+				<class type="string">Pyromancy</class>
+				<name type="string">Wall of Fire</name>
+				<text type="formattedtext">
+					<p>1/day as an action, create a near-length wall of fire in a straight line from any point a near distance from you for 5 rounds. The wall deals 1d4 fire damage on touch. Increase damage die category on duplicate.</p>
+				</text>
+			</pyromancy_wall_of_fire>

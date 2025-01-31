@@ -1,7 +1,0 @@
-			<ovate_spellcasting>
-				<class type="string">Ovate</class>
-				<name type="string">Spellcasting</name>
-				<text type="formattedtext">
-					<p>You can cast ovate spells you know. You may choose two tier 1 spells from the ovate spell list. Each time you gain a level, you choose new spells based on the Ovate Spells Known table. Add your Wisdom modifier when casting ovate spells. The Dc is 10 + the spell’s tier. If you fail a spellcasting check, you can’t cast that spell again until you complete a rest. If you roll a 1, you can’t cast that spell again until you attend a ritualistic purging or ceremony.</p>
-				</text>
-			</ovate_spellcasting>

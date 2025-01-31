@@ -1,0 +1,7 @@
+			<desert_rider_mount>
+				<class type="string">Desert Rider</class>
+				<name type="string">Mount</name>
+				<text type="formattedtext">
+					<p>You have a common camel or horse with a reliable or lovely demeanor (see Mounts). It comes when you call and never spooks. You can only have one such mount at a time. While riding your mount, you both get a bonus to AC equal to half your level (round down). Your mount has additional levels equal to half your level (round down). You can freely leap on or off your mount once per round. If you lose your mount, you can use your downtime to acquire and train another. Pass a DC 15 CHA check for the new creature to become your mount. Lower the DC one step each attempt.</p>
+				</text>
+			</desert_rider_mount>

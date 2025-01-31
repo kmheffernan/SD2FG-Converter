@@ -1,7 +1,0 @@
-			<titania_spell_defense>
-				<class type="string">Titania</class>
-				<name type="string">Spell Defense</name>
-				<text type="formattedtext">
-					<p>Hostile spells that target you are always hard (DC 15) to cast; if duplicate result, reroll</p>
-				</text>
-			</titania_spell_defense>

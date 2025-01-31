@@ -1,7 +1,0 @@
-			<plague_doctor_elixir_check_advantage>
-				<class type="string">Plague Doctor</class>
-				<name type="string">Elixir Check Advantage</name>
-				<text type="formattedtext">
-					<p>You gain ADV on elixir checks for an elixir you choose.</p>
-				</text>
-			</plague_doctor_elixir_check_advantage>

@@ -1,0 +1,7 @@
+			<fiend_pyromancy_talent>
+				<class type="string">Fiend</class>
+				<name type="string">Pyromancy Talent</name>
+				<text type="formattedtext">
+					<p>Roll an additional talent on the Pyromancy Talents table.</p>
+				</text>
+			</fiend_pyromancy_talent>

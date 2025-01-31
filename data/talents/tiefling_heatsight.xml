@@ -1,7 +1,0 @@
-			<tiefling_heatsight>
-				<class type="string">Tiefling</class>
-				<name type="string">Heatsight</name>
-				<text type="formattedtext">
-					<p>1/day, you can see the heat signatures of living creatures for 3 rounds.</p>
-				</text>
-			</tiefling_heatsight>

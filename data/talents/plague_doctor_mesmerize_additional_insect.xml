@@ -1,7 +1,0 @@
-			<plague_doctor_mesmerize_additional_insect>
-				<class type="string">Plague Doctor</class>
-				<name type="string">Mesmerize Additional Insect</name>
-				<text type="formattedtext">
-					<p>Mesmerize one additional insect per day.</p>
-				</text>
-			</plague_doctor_mesmerize_additional_insect>

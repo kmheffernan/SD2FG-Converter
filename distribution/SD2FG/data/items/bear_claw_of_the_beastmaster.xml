@@ -1,0 +1,13 @@
+			<bear_claw_of_the_beastmaster>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A large, pearly bear claw enchanted by a Beastmaster.</i></p>
+				<p><b>Benefit</b> You gain +1 to damage if affixed to a melee weapon. You gain ADV on strength checks if worn as jewelry. Gain +1 to AC when attached to armor, shield, or musical instrument.</p>
+				</description>
+				<name type="string">Bear Claw of the Beastmaster</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Bear Claw of the Beastmaster.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</bear_claw_of_the_beastmaster>

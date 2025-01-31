@@ -1,0 +1,7 @@
+			<shune_the_vile_mind_reading>
+				<class type="string">Shune the Vile</class>
+				<name type="string">Mind Reading</name>
+				<text type="formattedtext">
+					<p>1/day, read the mind of a creature you touch for 3 rounds; if duplicate result, +1/day.</p>
+				</text>
+			</shune_the_vile_mind_reading>

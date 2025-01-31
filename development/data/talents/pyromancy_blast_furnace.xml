@@ -1,0 +1,7 @@
+			<pyromancy_blast_furnace>
+				<class type="string">Pyromancy</class>
+				<name type="string">Blast Furnace</name>
+				<text type="formattedtext">
+					<p>As an action, release your body’s heat. Any creatures in close range take 1d4 fire damage. Increase damage die category on duplicate.</p>
+				</text>
+			</pyromancy_blast_furnace>

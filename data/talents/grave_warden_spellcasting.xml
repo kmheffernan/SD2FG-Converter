@@ -1,7 +1,0 @@
-			<grave_warden_spellcasting>
-				<class type="string">Grave Warden</class>
-				<name type="string">Spellcasting</name>
-				<text type="formattedtext">
-					<p>You can cast grave warden spells you know. You may choose three tier 1 spells from the grave warden spell list. Each time you gain a level, you choose new grave warden spells to learn based on the Grave Warden Spells Known table. Add your Constitution modifier when casting grave warden spells. The Dc is 10 + the spell’s tier. If you fail a spellcasting check, you can’t cast that spell again until you complete a rest. If you roll a natural 1 on a spellcasting check, you must also roll on the corresponding Necrotic Mishap table for the spell’s tier.</p>
-				</text>
-			</grave_warden_spellcasting>

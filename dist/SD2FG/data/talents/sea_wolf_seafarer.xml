@@ -1,7 +1,0 @@
-			<sea_wolf_seafarer>
-				<class type="string">Sea Wolf</class>
-				<name type="string">Seafarer</name>
-				<text type="formattedtext">
-					<p>You have advantage on checks related to navigating and crewing boats.</p>
-				</text>
-			</sea_wolf_seafarer>

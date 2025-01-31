@@ -1,0 +1,7 @@
+			<ovate_animal_companion>
+				<class type="string">Ovate</class>
+				<name type="string">Animal Companion</name>
+				<text type="formattedtext">
+					<p>To start, you verbally control one 0-level non-insect animal companion such as a fox, owl, or iguana.</p>
+				</text>
+			</ovate_animal_companion>

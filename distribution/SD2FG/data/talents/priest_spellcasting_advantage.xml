@@ -1,0 +1,7 @@
+			<priest_spellcasting_advantage>
+				<class type="string">Priest</class>
+				<name type="string">Spellcasting Advantage</name>
+				<text type="formattedtext">
+					<p>Gain advantage on casting one spell you know.</p>
+				</text>
+			</priest_spellcasting_advantage>

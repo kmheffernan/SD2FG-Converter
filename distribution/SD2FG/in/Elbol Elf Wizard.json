@@ -1,0 +1,307 @@
+{
+  "name": "Elbol",
+  "stats": {
+    "STR": 5,
+    "DEX": 14,
+    "CON": 9,
+    "INT": 18,
+    "WIS": 8,
+    "CHA": 10
+  },
+  "rolledStats": {
+    "STR": 5,
+    "DEX": 14,
+    "CON": 9,
+    "INT": 16,
+    "WIS": 8,
+    "CHA": 10
+  },
+  "ancestry": "Elf",
+  "class": "Wizard",
+  "level": 1,
+  "levels": [
+    {
+      "talentRolledDesc": "+2 to Intelligence stat or +1 to wizard spellcasting checks",
+      "Rolled12TalentOrTwoStatPoints": "",
+      "stoutHitPointRoll": 0,
+      "talentRolledName": "Plus2INTOrPlus1Casting",
+      "level": 1,
+      "Rolled12ChosenTalentDesc": "",
+      "HitPointRoll": 4,
+      "Rolled12ChosenTalentName": ""
+    }
+  ],
+  "XP": 0,
+  "ambitionTalentLevel": {
+    "stoutHitPointRoll": 0,
+    "Rolled12TalentOrTwoStatPoints": "",
+    "HitPointRoll": 0,
+    "talentRolledDesc": "",
+    "Rolled12ChosenTalentName": "",
+    "Rolled12ChosenTalentDesc": "",
+    "talentRolledName": "",
+    "level": 1
+  },
+  "title": "Adept",
+  "alignment": "Chaotic",
+  "background": "Marked",
+  "deity": "Ramlaat",
+  "maxHitPoints": 3,
+  "armorClass": 12,
+  "gearSlotsTotal": 10,
+  "gearSlotsUsed": 7,
+  "bonuses": [
+    {
+      "bonusName": "Plus1ToCastingSpells",
+      "sourceName": "Elf",
+      "name": "FarSight",
+      "sourceType": "Ancestry",
+      "sourceCategory": "Ability",
+      "bonusTo": "Spellcasting",
+      "bonusAmount": 1,
+      "gainedAtLevel": 1
+    },
+    {
+      "sourceName": "Wizard",
+      "name": "ExtraLanguage: Wizard 1",
+      "bonusName": "Reptilian",
+      "sourceType": "Class",
+      "gainedAtLevel": 1,
+      "sourceCategory": "Ability",
+      "bonusTo": "Languages"
+    },
+    {
+      "sourceCategory": "Ability",
+      "gainedAtLevel": 1,
+      "name": "ExtraLanguage: Wizard 2",
+      "sourceName": "Wizard",
+      "bonusTo": "Languages",
+      "sourceType": "Class",
+      "bonusName": "Merran"
+    },
+    {
+      "sourceType": "Class",
+      "name": "ExtraLanguage: Wizard 3",
+      "bonusName": "Diabolic",
+      "sourceName": "Wizard",
+      "sourceCategory": "Ability",
+      "bonusTo": "Languages",
+      "gainedAtLevel": 1
+    },
+    {
+      "gainedAtLevel": 1,
+      "sourceType": "Class",
+      "sourceCategory": "Ability",
+      "name": "ExtraLanguage: Wizard 4",
+      "bonusTo": "Languages",
+      "bonusName": "Primordial",
+      "sourceName": "Wizard"
+    },
+    {
+      "sourceCategory": "Ability",
+      "sourceType": "Class",
+      "bonusName": "Sleep",
+      "bonusTo": "Tier:1, Spell:1",
+      "name": "Spell: Wizard, Tier 1, Spell 1",
+      "sourceName": "Wizard",
+      "gainedAtLevel": 1
+    },
+    {
+      "bonusTo": "Tier:1, Spell:2",
+      "sourceCategory": "Ability",
+      "bonusName": "Magic Missile",
+      "sourceType": "Class",
+      "name": "Spell: Wizard, Tier 1, Spell 2",
+      "sourceName": "Wizard",
+      "gainedAtLevel": 1
+    },
+    {
+      "bonusName": "Mage Armor",
+      "gainedAtLevel": 1,
+      "bonusTo": "Tier:1, Spell:3",
+      "sourceCategory": "Ability",
+      "name": "Spell: Wizard, Tier 1, Spell 3",
+      "sourceName": "Wizard",
+      "sourceType": "Class"
+    },
+    {
+      "bonusName": "Plus2INTOrPlus1Casting",
+      "sourceType": "Class",
+      "name": "Plus2INTOrPlus1Casting",
+      "sourceName": "Wizard",
+      "bonusTo": "",
+      "sourceCategory": "Talent",
+      "gainedAtLevel": 1
+    },
+    {
+      "bonusTo": "INT:+2",
+      "gainedAtLevel": 1,
+      "bonusName": "StatBonus",
+      "sourceType": "Class",
+      "name": "PlusTwoIntOrPlusOneWizCasting",
+      "sourceName": "Wizard",
+      "sourceCategory": "Talent"
+    }
+  ],
+  "goldRolled": 55,
+  "gold": 44,
+  "silver": 0,
+  "copper": 0,
+  "gear": [
+    {
+      "instanceId": "m5i90hi4",
+      "gearId": "w4",
+      "name": "Dagger",
+      "type": "weapon",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 1,
+      "currency": "gp"
+    },
+    {
+      "instanceId": "m5i90hi5",
+      "gearId": "s2",
+      "name": "Backpack",
+      "type": "sundry",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 0,
+      "cost": 2,
+      "currency": "gp"
+    },
+    {
+      "instanceId": "m5i90hi6",
+      "gearId": "s8",
+      "name": "Flint and steel",
+      "type": "sundry",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 5,
+      "currency": "sp"
+    },
+    {
+      "instanceId": "m5i90hi7",
+      "gearId": "s11",
+      "name": "Lantern",
+      "type": "sundry",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 5,
+      "currency": "gp"
+    },
+    {
+      "instanceId": "m5i90hi8",
+      "gearId": "s13",
+      "name": "Oil, flask",
+      "type": "sundry",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 5,
+      "currency": "sp"
+    },
+    {
+      "instanceId": "m5i90hi9",
+      "gearId": "s15",
+      "name": "Rations",
+      "type": "sundry",
+      "quantity": 2,
+      "totalUnits": 6,
+      "slots": 2,
+      "cost": 10,
+      "currency": "sp"
+    },
+    {
+      "instanceId": "m5i90hib",
+      "gearId": "s9",
+      "name": "Grappling hook",
+      "type": "sundry",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 1,
+      "currency": "gp"
+    }
+  ],
+  "treasures": [],
+  "magicItems": [],
+  "ledger": [
+    {
+      "silverChange": 0,
+      "notes": "",
+      "desc": "Starting gold",
+      "goldChange": 55,
+      "copperChange": 0
+    },
+    {
+      "copperChange": 0,
+      "notes": "",
+      "goldChange": -1,
+      "desc": "Buy Dagger",
+      "silverChange": 0
+    },
+    {
+      "notes": "",
+      "copperChange": 0,
+      "silverChange": 0,
+      "goldChange": -2,
+      "desc": "Buy Backpack"
+    },
+    {
+      "silverChange": -5,
+      "goldChange": 0,
+      "copperChange": 0,
+      "notes": "",
+      "desc": "Buy Flint and steel"
+    },
+    {
+      "notes": "",
+      "copperChange": 0,
+      "silverChange": 0,
+      "goldChange": -5,
+      "desc": "Buy Lantern"
+    },
+    {
+      "notes": "",
+      "goldChange": 0,
+      "silverChange": -5,
+      "copperChange": 0,
+      "desc": "Buy Oil, flask"
+    },
+    {
+      "notes": "",
+      "goldChange": 0,
+      "silverChange": -5,
+      "copperChange": 0,
+      "desc": "Buy Rations"
+    },
+    {
+      "copperChange": 0,
+      "notes": "",
+      "silverChange": -5,
+      "goldChange": 0,
+      "desc": "Buy Rations"
+    },
+    {
+      "silverChange": 0,
+      "notes": "",
+      "copperChange": 0,
+      "desc": "Buy Grappling hook",
+      "goldChange": -1
+    }
+  ],
+  "spellsKnown": "Mage Armor, Magic Missile, Sleep",
+  "languages": "Common, Diabolic, Elvish, Merran, Primordial, Reptilian, Sylvan",
+  "creationMethod": "Random 1",
+  "coreRulesOnly": true,
+  "activeSources": [
+    "CS1",
+    "CS2",
+    "CS4",
+    "SD"
+  ],
+  "edits": []
+}

@@ -1,7 +1,0 @@
-			<black_lotus_put_to_sleep>
-				<class type="string">Black Lotus</class>
-				<name type="string">Put to Sleep</name>
-				<text type="formattedtext">
-					<p>1/day, choose a living creature of LV 5 or less you can see within near; it must pass a DC 15 CON check or fall asleep.</p>
-				</text>
-			</black_lotus_put_to_sleep>

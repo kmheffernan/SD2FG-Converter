@@ -1,7 +1,0 @@
-			<pyromancy_super_nova>
-				<class type="string">Pyromancy</class>
-				<name type="string">Super Nova</name>
-				<text type="formattedtext">
-					<p>Detonate yourself in a superheated explosion, dealing 5d12 fire damage to all creatures within near. All objects and all of your possessions are destroyed. You go to 0 HP and permanently lose 1 CON.</p>
-				</text>
-			</pyromancy_super_nova>

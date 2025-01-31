@@ -1,7 +1,0 @@
-			<shune_the_vile_xp_bonus>
-				<class type="string">Shune the Vile</class>
-				<name type="string">XP Bonus</name>
-				<text type="formattedtext">
-					<p>+1 XP whenever you learn a valuable or significant secret.</p>
-				</text>
-			</shune_the_vile_xp_bonus>

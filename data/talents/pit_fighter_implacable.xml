@@ -1,7 +1,0 @@
-			<pit_fighter_implacable>
-				<class type="string">Pit Fighter</class>
-				<name type="string">Implacable</name>
-				<text type="formattedtext">
-					<p>You have advantage on Constitution checks to resist injury, poison, or endure extreme environments.</p>
-				</text>
-			</pit_fighter_implacable>

@@ -1,0 +1,7 @@
+			<priest_spellcasting>
+				<class type="string">Priest</class>
+				<name type="string">Spellcasting</name>
+				<text type="formattedtext">
+					<p>You can cast priest spells you know. You know two tier 1 spells of your choice from the priest spell list. Each time you gain a level, you choose new priest spells to learn according to the Priest Spells Known table.</p>
+				</text>
+			</priest_spellcasting>

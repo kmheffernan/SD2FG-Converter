@@ -1,0 +1,8 @@
+			<heatsight>
+				<counter type="number">0</counter>
+				<countercheck type="number">0</countercheck>
+				<name type="string">Heatsight</name>
+				<text type="formattedtext">
+					<p>1/day, you can see the heat signatures of living creatures for 3 rounds.</p>
+				</text>
+			</heatsight>

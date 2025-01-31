@@ -1,0 +1,7 @@
+			<mugdulblub_maximize_hd_rolls>
+				<class type="string">Mugdulblub</class>
+				<name type="string">Maximize HD Rolls</name>
+				<text type="formattedtext">
+					<p>Maximize 2 hit point die rolls (prior or future)</p>
+				</text>
+			</mugdulblub_maximize_hd_rolls>

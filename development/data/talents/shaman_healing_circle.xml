@@ -1,0 +1,7 @@
+			<shaman_healing_circle>
+				<class type="string">Shaman</class>
+				<name type="string">Healing Circle</name>
+				<text type="formattedtext">
+					<p>1/day, you can perform a 10-minute drumming and chanting meditation. All participants are healed for 1d6 HP if the performance is not interrupted. A spellcaster or herbalist can recover a lost spell or elixir instead. Random encounter chance is increased.</p>
+				</text>
+			</shaman_healing_circle>

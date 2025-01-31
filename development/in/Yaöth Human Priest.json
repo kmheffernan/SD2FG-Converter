@@ -1,0 +1,241 @@
+{
+  "name": "Yaöth",
+  "stats": {
+    "STR": 16,
+    "DEX": 6,
+    "CON": 10,
+    "INT": 11,
+    "WIS": 15,
+    "CHA": 10
+  },
+  "rolledStats": {
+    "STR": 16,
+    "DEX": 6,
+    "CON": 10,
+    "INT": 11,
+    "WIS": 15,
+    "CHA": 10
+  },
+  "ancestry": "Human",
+  "class": "Priest",
+  "level": 1,
+  "levels": [
+    {
+      "level": 1,
+      "talentRolledDesc": "+1 to melee or ranged attacks",
+      "Rolled12ChosenTalentDesc": "",
+      "stoutHitPointRoll": 0,
+      "Rolled12TalentOrTwoStatPoints": "",
+      "Rolled12ChosenTalentName": "",
+      "HitPointRoll": 3,
+      "talentRolledName": "Plus1ToHit"
+    }
+  ],
+  "XP": 0,
+  "ambitionTalentLevel": {
+    "Rolled12ChosenTalentName": "",
+    "Rolled12TalentOrTwoStatPoints": "",
+    "talentRolledDesc": "+1 to melee or ranged attacks",
+    "stoutHitPointRoll": 0,
+    "HitPointRoll": 0,
+    "talentRolledName": "Plus1ToHit",
+    "level": 1,
+    "Rolled12ChosenTalentDesc": ""
+  },
+  "title": "Acolyte",
+  "alignment": "Lawful",
+  "background": "Chosen",
+  "deity": "Madeera the Covenant",
+  "maxHitPoints": 3,
+  "armorClass": 9,
+  "gearSlotsTotal": 16,
+  "gearSlotsUsed": 6,
+  "bonuses": [
+    {
+      "bonusTo": "Languages",
+      "sourceCategory": "Ability",
+      "name": "ExtraLanguage: Human undefined",
+      "gainedAtLevel": 1,
+      "sourceName": "Human",
+      "sourceType": "Ancestry",
+      "bonusName": "Merran"
+    },
+    {
+      "bonusName": "Diabolic",
+      "sourceType": "Class",
+      "name": "ExtraLanguage: Priest 1",
+      "sourceName": "Priest",
+      "sourceCategory": "Ability",
+      "bonusTo": "Languages",
+      "gainedAtLevel": 1
+    },
+    {
+      "bonusTo": "Tier:1, Spell:1",
+      "sourceType": "Class",
+      "bonusName": "Light",
+      "sourceName": "Priest",
+      "sourceCategory": "Ability",
+      "name": "Spell: Priest, Tier 1, Spell 1",
+      "gainedAtLevel": 1
+    },
+    {
+      "sourceCategory": "Ability",
+      "sourceName": "Priest",
+      "sourceType": "Class",
+      "gainedAtLevel": 1,
+      "bonusTo": "Tier:1, Spell:2",
+      "bonusName": "Cure Wounds",
+      "name": "Spell: Priest, Tier 1, Spell 2"
+    },
+    {
+      "name": "Plus1ToHit",
+      "bonusName": "Plus1ToHit",
+      "bonusTo": "Melee attacks",
+      "sourceName": "Priest",
+      "gainedAtLevel": 1,
+      "sourceType": "Class",
+      "sourceCategory": "Talent"
+    },
+    {
+      "sourceType": "Ancestry",
+      "name": "Plus1ToHit",
+      "sourceCategory": "Talent",
+      "sourceName": "Human Ambition",
+      "bonusName": "Plus1ToHit",
+      "gainedAtLevel": 1,
+      "bonusTo": "Melee attacks"
+    }
+  ],
+  "goldRolled": 35,
+  "gold": 11,
+  "silver": 0,
+  "copper": 0,
+  "gear": [
+    {
+      "instanceId": "m5i8fcmm",
+      "gearId": "w15",
+      "name": "Warhammer",
+      "type": "weapon",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 10,
+      "currency": "gp"
+    },
+    {
+      "instanceId": "m5i8fcmn",
+      "gearId": "a1",
+      "name": "Leather armor",
+      "type": "armor",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 10,
+      "currency": "gp"
+    },
+    {
+      "instanceId": "m5i8fcmo",
+      "gearId": "s2",
+      "name": "Backpack",
+      "type": "sundry",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 0,
+      "cost": 2,
+      "currency": "gp"
+    },
+    {
+      "instanceId": "m5i8fcmp",
+      "gearId": "s8",
+      "name": "Flint and steel",
+      "type": "sundry",
+      "quantity": 1,
+      "totalUnits": 1,
+      "slots": 1,
+      "cost": 5,
+      "currency": "sp"
+    },
+    {
+      "instanceId": "m5i8fcmq",
+      "gearId": "s17",
+      "name": "Torch",
+      "type": "sundry",
+      "quantity": 3,
+      "totalUnits": 3,
+      "slots": 3,
+      "cost": 15,
+      "currency": "sp"
+    }
+  ],
+  "treasures": [],
+  "magicItems": [],
+  "ledger": [
+    {
+      "goldChange": 35,
+      "copperChange": 0,
+      "desc": "Starting gold",
+      "notes": "",
+      "silverChange": 0
+    },
+    {
+      "goldChange": -10,
+      "desc": "Buy Warhammer",
+      "notes": "",
+      "copperChange": 0,
+      "silverChange": 0
+    },
+    {
+      "desc": "Buy Leather armor",
+      "notes": "",
+      "goldChange": -10,
+      "silverChange": 0,
+      "copperChange": 0
+    },
+    {
+      "goldChange": -2,
+      "silverChange": 0,
+      "desc": "Buy Backpack",
+      "copperChange": 0,
+      "notes": ""
+    },
+    {
+      "desc": "Buy Flint and steel",
+      "copperChange": 0,
+      "notes": "",
+      "goldChange": 0,
+      "silverChange": -5
+    },
+    {
+      "silverChange": -5,
+      "copperChange": 0,
+      "goldChange": 0,
+      "desc": "Buy Torch",
+      "notes": ""
+    },
+    {
+      "copperChange": 0,
+      "goldChange": 0,
+      "silverChange": -5,
+      "notes": "",
+      "desc": "Buy Torch"
+    },
+    {
+      "goldChange": 0,
+      "silverChange": -5,
+      "desc": "Buy Torch",
+      "notes": "",
+      "copperChange": 0
+    }
+  ],
+  "spellsKnown": "Cure Wounds, Light, Turn Undead",
+  "languages": "Common, Diabolic, Merran",
+  "creationMethod": "Design",
+  "coreRulesOnly": true,
+  "activeSources": [
+    "CS1",
+    "CS2",
+    "CS4",
+    "SD"
+  ],
+  "edits": []
+}

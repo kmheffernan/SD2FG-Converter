@@ -1,7 +1,0 @@
-			<thief_backstab_bonus>
-				<class type="string">Thief</class>
-				<name type="string">Backstab Bonus</name>
-				<text type="formattedtext">
-					<p>Your Backstab deals +1 dice of damage.</p>
-				</text>
-			</thief_backstab_bonus>

@@ -1,0 +1,25 @@
+			<unhallowed_ground>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You imbue a landmark with profane magic, permanently turning it into a necromantic beacon of undeath.</p>
+					<p>All the land within 6 miles of the beacon is cursed. Any burial grounds in the area are immediately overrun with the rising of the dead in the form of zombies or skeletons.</p>
+					<p>These undead are not under your control, but will savagely attack anyone they find.</p>
+					<p>Anyone who dies in this cursed area immediately rises again as a zombie.</p>
+				</description>
+				<duration type="string">Permanent</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Unhallowed Ground</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string"></type>
+			</unhallowed_ground>

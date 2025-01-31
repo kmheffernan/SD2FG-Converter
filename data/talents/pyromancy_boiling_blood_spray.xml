@@ -1,7 +1,0 @@
-			<pyromancy_boiling_blood_spray>
-				<class type="string">Pyromancy</class>
-				<name type="string">Boiling Blood Spray</name>
-				<text type="formattedtext">
-					<p>When a Firebond Weapon strikes a creature, scorched blood deals 1 damage to creatures in close range. Add +1 damage on duplicate.</p>
-				</text>
-			</pyromancy_boiling_blood_spray>

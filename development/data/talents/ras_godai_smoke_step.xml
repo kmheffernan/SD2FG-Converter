@@ -1,0 +1,7 @@
+			<ras_godai_smoke_step>
+				<class type="string">Ras-Godai</class>
+				<name type="string">Smoke Step</name>
+				<text type="formattedtext">
+					<p>3/day, teleport to a location you can see within near. This does not use your action.</p>
+				</text>
+			</ras_godai_smoke_step>

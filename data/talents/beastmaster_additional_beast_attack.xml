@@ -1,7 +1,0 @@
-			<beastmaster_additional_beast_attack>
-				<class type="string">Beastmaster</class>
-				<name type="string">Additional Beast Attack</name>
-				<text type="formattedtext">
-					<p>Select and add a new beast attack to your arsenal. If you have all 4 reroll.</p>
-				</text>
-			</beastmaster_additional_beast_attack>

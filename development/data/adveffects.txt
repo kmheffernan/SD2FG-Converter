@@ -1,0 +1,2 @@
+Elf	[ATK: 1, ranged]\n[SPELLCAST: 1]
+Half-Orc	[ATK: 1, melee; DMG: 1, melee]

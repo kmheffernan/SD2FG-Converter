@@ -1,7 +1,0 @@
-			<the_willowman_str_or_dex_increase>
-				<class type="string">The Willowman</class>
-				<name type="string">STR or DEX Increase</name>
-				<text type="formattedtext">
-					<p>+2 to Strength or Dexterity stat.</p>
-				</text>
-			</the_willowman_str_or_dex_increase>

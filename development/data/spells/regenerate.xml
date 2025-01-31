@@ -1,0 +1,41 @@
+			<regenerate>
+				<actions>
+				<regenerate_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Regenerate; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</regenerate_1>
+				<regenerate_2>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">REGEN: 1d4</label>
+					<order type="number">2</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</regenerate_2>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>A creature you touch regains 1d4 hit points on your turn for the duration. This spell also regrows lost body parts.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string">1d4</healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Regenerate</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string">Healing</type>
+			</regenerate>

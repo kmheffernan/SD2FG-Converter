@@ -1,0 +1,11 @@
+			<wolf_idol>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Floats in the air wherever it's placed.</i></p>
+				</description>
+				<name type="string">Wolf Idol</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</wolf_idol>

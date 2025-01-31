@@ -1,0 +1,23 @@
+			<mace>
+				<attacktype type="string">Melee</attacktype>
+				<cost type="string">5 gp</cost>
+				<damage type="string">1d6</damage>
+				<damagetype type="string">blunt</damagetype>
+				<description type="formattedtext">
+					<p>--</p>
+				</description>
+				<finesse type="number">0</finesse>
+				<item_attack_bonus type="number"></item_attack_bonus>
+				<loading type="number"></loading>
+				<name type="string">Mace</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token"></picture>
+				<range type="string">Close</range>
+				<thrown type="number">0</thrown>
+				<twohanded type="number">0</twohanded>
+				<type type="string">Weapon</type>
+				<versatile type="number">0</versatile>
+				<versatile_damage type="string"></versatile_damage>
+				<weight type="number">1</weight>
+			</mace>

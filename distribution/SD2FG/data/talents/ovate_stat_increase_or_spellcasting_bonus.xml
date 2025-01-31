@@ -1,0 +1,7 @@
+			<ovate_stat_increase_or_spellcasting_bonus>
+				<class type="string">Ovate</class>
+				<name type="string">Stat Increase or Spellcasting Bonus</name>
+				<text type="formattedtext">
+					<p>+2 to Wisdom stat or +1 to ovate spellcasting checks.</p>
+				</text>
+			</ovate_stat_increase_or_spellcasting_bonus>

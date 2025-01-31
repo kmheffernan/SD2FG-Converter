@@ -1,0 +1,7 @@
+			<pyromancy_flarephobia>
+				<class type="string">Pyromancy</class>
+				<name type="string">Flarephobia</name>
+				<text type="formattedtext">
+					<p>Creatures hit by a Firebond weapon must make a morale check at DC 9. Do not check again for the same creature. Increase DC by one step on duplicate to maximum of DC 18.</p>
+				</text>
+			</pyromancy_flarephobia>

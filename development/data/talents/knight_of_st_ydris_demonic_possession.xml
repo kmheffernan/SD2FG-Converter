@@ -1,0 +1,10 @@
+			<knight_of_st_ydris_demonic_possession>
+				<class type="string">Knight of St. Ydris</class>
+				<name type="string">Demonic Possession</name>
+				<text type="formattedtext">
+					<p>3/day, gain a +1 bonus to your damage rolls that lasts 3 rounds. In addition, add half your level to the damage bonus (round down).</p>
+					<p>If this is an Ancestry Talent, then check  to see if the following effect was already added to your Character Effects section.</p>
+					<p>If this is a Class Talent, then add the following effect to the Character Effects section of the Note tab and edit as needed.</p>
+					<p>[DMG: 1]</p>
+				</text>
+			</knight_of_st_ydris_demonic_possession>

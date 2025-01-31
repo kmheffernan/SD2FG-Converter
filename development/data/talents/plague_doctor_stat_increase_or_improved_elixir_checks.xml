@@ -1,0 +1,7 @@
+			<plague_doctor_stat_increase_or_improved_elixir_checks>
+				<class type="string">Plague Doctor</class>
+				<name type="string">Stat Increase or Improved Elixir Checks</name>
+				<text type="formattedtext">
+					<p>+2 to Intelligence or Dexterity stat, or +1 to elixir checks.</p>
+				</text>
+			</plague_doctor_stat_increase_or_improved_elixir_checks>

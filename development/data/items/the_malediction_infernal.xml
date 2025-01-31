@@ -1,0 +1,13 @@
+			<the_malediction_infernal>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A black, leather-bound tome with a grinning demon face embossed on the cover.</i></p>
+				<p><b>Benefit.</b> A chaotic being who reads this tome gains a level and learns the Diabolic language. A non-chaotic being who reads this book must pass a DC 18 Wisdom check or lose one level. After being read, the tome teleports to a far-flung location.</p>
+				</description>
+				<name type="string">The Malediction Infernal</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/The Malediction Infernal.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</the_malediction_infernal>

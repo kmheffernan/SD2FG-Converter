@@ -1,7 +1,0 @@
-			<dwarf_stout>
-				<class type="string">Dwarf</class>
-				<name type="string">Stout</name>
-				<text type="formattedtext">
-					<p>Start with +2 HP. Roll hit points per level with advantage.</p>
-				</text>
-			</dwarf_stout>

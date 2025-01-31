@@ -1,0 +1,14 @@
+			<plate_mail>
+				<ac type="number">15</ac>
+				<cost type="string">130 gp</cost>
+				<description type="formattedtext">
+					<p>Cannot swim; Disadvantage on stealth checks.</p>
+				</description>
+				<name type="string">Plate Mail</name>
+				<nodex type="number">1</nodex>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token"></picture>
+				<type type="string">Armor</type>
+				<weight type="number">3</weight>
+			</plate_mail>

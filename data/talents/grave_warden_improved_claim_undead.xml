@@ -1,7 +1,0 @@
-			<grave_warden_improved_claim_undead>
-				<class type="string">Grave Warden</class>
-				<name type="string">Improved Claim Undead</name>
-				<text type="formattedtext">
-					<p>Increase the DC to resist Claim Undead by one step. Reroll if at DC 18.</p>
-				</text>
-			</grave_warden_improved_claim_undead>

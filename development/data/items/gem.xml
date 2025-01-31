@@ -1,0 +1,12 @@
+			<gem>
+				<cost type="string">Varies</cost>
+				<description type="formattedtext">
+					<p>Gems come in numerous varieties and are very valuable.</p>
+				</description>
+				<name type="string">Gem</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token"></picture>
+				<type type="string">Treasure</type>
+				<weight type="number">0.1</weight>
+			</gem>

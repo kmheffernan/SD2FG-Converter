@@ -1,0 +1,7 @@
+			<desert_rider_any_mount>
+				<class type="string">Desert Rider</class>
+				<name type="string">Any Mount</name>
+				<text type="formattedtext">
+					<p>You can use any rider-bearing creature as your mount (reroll if duplicate).</p>
+				</text>
+			</desert_rider_any_mount>

@@ -1,0 +1,22 @@
+			<flame_strike>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string">2d6</damage>
+				<damagetype type="string">fire</damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>You call down a holy pillar of fire, immolating one creature you can see within range. The target takes 2d6 fire damage.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Flame Strike</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string">Damage</type>
+			</flame_strike>

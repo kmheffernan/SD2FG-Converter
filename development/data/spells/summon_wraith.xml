@@ -1,0 +1,24 @@
+			<summon_wraith>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You summon forth a wraith from the incorporeal plane who will act on your turn and do your bidding. After 5 rounds, it melts away into smoke.</p>
+					<p>A critical fail on casting this spell still summons the wraith, but it turns against you during its 5 round lifespan.</p>
+					<p>Do not roll on the mishap table.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Summon Wraith</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</summon_wraith>

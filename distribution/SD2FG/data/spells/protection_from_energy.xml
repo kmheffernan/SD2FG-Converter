@@ -1,0 +1,59 @@
+			<protection_from_energy>
+				<actions>
+				<protection_from_energy_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">Protection from Energy; focus</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</protection_from_energy_1>
+				<protection_from_energy_2>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">IMMUNE: fire</label>
+					<order type="number">2</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</protection_from_energy_2>
+				<protection_from_energy_3>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">IMMUNE: cold</label>
+					<order type="number">3</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</protection_from_energy_3>
+				<protection_from_energy_4>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">IMMUNE: lightning</label>
+					<order type="number">4</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</protection_from_energy_4>
+				</actions>
+				<class type="string">Intelligence</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>One creature you touch becomes impervious to the wild fury of the elements. Choose fire, cold, or electricity. For the spell's duration, the target is immune to harm from energy of the chosen type.</p>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Protection from Energy</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</protection_from_energy>

@@ -1,0 +1,20 @@
+			<wand_of_unlife>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>The knobby finger-bone of a swamp troll steeped in acrid embalming fluid.</i></p>
+				<p><b>Benefit.</b> This wand contains the spells animate dead and create undead.</p>
+				<p><b>Curse.</b> Each time you use the wand to cast a spell, you take 1d4 points of Constitution damage. If you reach 0 Constitution from this effect, you die and turn into a zombie.</p>
+				<linklist>
+					<link class="power" recordname="reference.power.animate_dead@IPFGSDTALCOREPLAYER">Spell: Animate Dead</link>
+				</linklist>
+				<linklist>
+					<link class="power" recordname="reference.power.create_undead@IPFGSDTALCOREPLAYER">Spell: Create Undead</link>
+				</linklist>
+				</description>
+				<name type="string">Wand of Unlife</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Wand of Unlife.webp</picture>
+				<type type="string">Wand</type>
+				<weight type="number">1</weight>
+			</wand_of_unlife>

@@ -1,0 +1,32 @@
+			<song_of_immunity>
+				<actions>
+				<song_of_immunity_1>
+					<apply type="string"></apply>
+					<durmod type="string"></durmod>
+					<durunit type="string"></durunit>
+					<label type="string">IMMUNE: fire</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</song_of_immunity_1>
+				</actions>
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>Possible damage types are: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, blunt, piercing, and slashing. You may grant immunity to disease instead of a damage type. This spell does not grant general magic immunity or physical damage immunity. [Adjust the effect as needed.]</p>
+				</description>
+				<duration type="string">Range: Near</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Song of Immunity</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">You name a damage type, and you and your allies within a near area from you become immune to that type of damage.</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</song_of_immunity>

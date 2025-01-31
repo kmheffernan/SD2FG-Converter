@@ -1,8 +1,0 @@
-			<stout>
-				<counter type="number">0</counter>
-				<countercheck type="number">0</countercheck>
-				<name type="string">Farsight</name>
-				<text type="formattedtext">
-					<p>You get a +1 bonus to attack rolls with ranged weapons or a +1 bonus to spellcasting checks. [Edit the effects in the Character Effects section of the Notes tab based on your choice.]</p>
-				</text>
-			</stout>

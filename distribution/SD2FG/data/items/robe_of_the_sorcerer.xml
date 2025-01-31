@@ -1,0 +1,15 @@
+			<robe_of_the_sorcerer>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A black leather robe with a shadowed cowl and clawed clasps on thin, mithral chains.</i></p>
+				<p><b>Benefit.</b> Only a wizard with the Sorcerer title can wear this robe. Your unarmored AC becomes 15 plus your Dexterity modifier.</p>
+				<p><b>Benefit.</b> When you cast a spell that deals damage, add your Intelligence modifier to the total.</p>
+				<p><b>Benefit.</b> You have advantage on casting the power word kill spell.</p>
+				</description>
+				<name type="string">Robe of the Sorcerer</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Robe of the Sorcerer.webp</picture>
+				<type type="string">Clothing</type>
+				<weight type="number">1</weight>
+			</robe_of_the_sorcerer>

@@ -1,0 +1,13 @@
+			<hat_of_intellect>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A floppy, pointed hat with a wide brim.</i></p>
+				<p><b>Benefit.</b> Your Intelligence stat becomes 18 (+4) while wearing this hat.</p>
+				</description>
+				<name type="string">Hat of Intellect</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Hat of Intellect.webp</picture>
+				<type type="string">Clothing</type>
+				<weight type="number">1</weight>
+			</hat_of_intellect>

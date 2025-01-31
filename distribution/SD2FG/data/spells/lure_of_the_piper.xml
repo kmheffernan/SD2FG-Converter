@@ -1,0 +1,27 @@
+			<lure_of_the_piper>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>Your enchanting performance compels enemies in a near distance from you to abandon their actions and follow you obediently wherever you lead.</p>
+					<p>Beguiled creatures make a WIS check vs. your last chanting check on their turn to resist.</p>
+					<p>If you stop moving, or if you or your allies actively harm a beguiled creature, the beguilement ends.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.lure_of_the_piper">Image: Lure of the Piper</link>
+					</linklist>
+				</description>
+				<duration type="string">Focus</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Lure of the Piper</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</lure_of_the_piper>

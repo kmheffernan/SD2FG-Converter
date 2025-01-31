@@ -1,0 +1,32 @@
+			<stoneskin>
+				<actions>
+				<stoneskin_1>
+					<apply type="string"></apply>
+					<durmod type="string">10</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">Stoneskin; AC: X</label>
+					<order type="number">1</order>
+					<targeting type="string">self</targeting>
+					<type type="string">effect</type>
+				</stoneskin_1>
+				</actions>
+				<class type="string">Intelligence</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>Your skin becomes like granite. For the spell's duration, your armor class becomes 17 (20 on a critical spellcasting check). [Replace the X values in the effects with the correct amounts for success result and critical success result.]</p>
+				</description>
+				<duration type="string">10 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Stoneskin</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</stoneskin>

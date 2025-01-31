@@ -1,8 +1,0 @@
-			<keen_senses>
-				<counter type="number">0</counter>
-				<countercheck type="number">0</countercheck>
-				<name type="string">Keen Senses</name>
-				<text type="formattedtext">
-					<p>You can't be surprised.</p>
-				</text>
-			</keen_senses>

@@ -1,0 +1,11 @@
+			<faded_locket>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Once/day, briefly read one creature's mind.</i></p>
+				</description>
+				<name type="string">Faded Locket</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</faded_locket>

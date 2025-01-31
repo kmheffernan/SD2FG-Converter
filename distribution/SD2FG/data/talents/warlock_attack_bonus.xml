@@ -1,0 +1,11 @@
+			<warlock_attack_bonus>
+				<class type="string">Warlock</class>
+				<name type="string">Attack Bonus</name>
+				<text type="formattedtext">
+					<p>+1 to melee or ranged attacks.</p>
+					<p>If this is an Ancestry Talent, then check to see if the following effects were already added to your Character Effects section.</p>
+					<p>If this is a Class Talent, then add the following effects to the Character Effects section of the Note tab, and edit as needed.</p>
+					<p>[ATK: 1, melee]</p>
+					<p>[ATK: 1, ranged]</p>
+				</text>
+			</warlock_attack_bonus>

@@ -1,0 +1,7 @@
+			<titania_talent_choice_or_stat_increase>
+				<class type="string">Titania</class>
+				<name type="string">Talent Choice or Stat Increase</name>
+				<text type="formattedtext">
+					<p>Choose one option or 2 points to distribute to stats</p>
+				</text>
+			</titania_talent_choice_or_stat_increase>

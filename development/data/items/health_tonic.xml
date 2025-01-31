@@ -1,0 +1,13 @@
+			<health_tonic>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Brown herbal elixir with floating chunks of pure bitterness that tastes even worse than it smells.</i></p>
+				<p><b>Benefit</b> You heal 1 HP through non-magical means. Can be used to stabilize and revive a downed ally.</p>
+				</description>
+				<name type="string">Health Tonic</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Health Tonic.webp</picture>
+				<type type="string">Potion</type>
+				<weight type="number">1</weight>
+			</health_tonic>

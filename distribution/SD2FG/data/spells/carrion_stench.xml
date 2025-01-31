@@ -1,0 +1,33 @@
+			<carrion_stench>
+				<actions>
+				<carrion_stench_1>
+					<apply type="string"></apply>
+					<durmod type="string">1</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">DISATK</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</carrion_stench_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You exude the putrid essence of a ghast.</p>
+					<p>Other living creatures within a near area centered on you make a CON check vs. your spellcasting check or suffer DISADV on attack rolls and spellcasting checks on their next turn.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Carrion Stench</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">con</opposedAbility>
+				<range type="string">Self</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</carrion_stench>

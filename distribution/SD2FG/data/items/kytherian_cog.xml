@@ -1,0 +1,13 @@
+			<kytherian_cog>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A coin-sized, toothed wheel buffed to a silvery shine.</i></p>
+				<p><b>Benefit.</b> You start every session with a luck token.</p>
+				</description>
+				<name type="string">Kytherian Cog</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Kytherian Cog.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</kytherian_cog>

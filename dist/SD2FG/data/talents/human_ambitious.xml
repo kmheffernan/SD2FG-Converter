@@ -1,7 +1,0 @@
-			<human_ambitious>
-				<class type="string">Human</class>
-				<name type="string">Ambitious</name>
-				<text type="formattedtext">
-					<p>You gain one additional talent roll at 1st level.</p>
-				</text>
-			</human_ambitious>

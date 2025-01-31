@@ -1,0 +1,23 @@
+			<corpse_companion>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>A mostly intact corpse you touch rises as an animated lesser skeleton. You control this undead minion and it acts on your turn.</p>
+					<p>Only one instance of this spell may be active at a time. A 2nd casting of this spell destroys the previous minion, even if the spell fails. This does not count against your minion LV limit.</p>
+				</description>
+				<duration type="string">10 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Corpse Companion</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</corpse_companion>

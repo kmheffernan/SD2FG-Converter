@@ -1,0 +1,11 @@
+			<severed_finger>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Belongs to a witch who wants it back.</i></p>
+				</description>
+				<name type="string">Severed Finger</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</severed_finger>

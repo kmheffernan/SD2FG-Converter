@@ -1,0 +1,24 @@
+			<blood_pact>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">13</dc>
+				<description type="formattedtext">
+					<p>You form a life-preserving contract among willing allies in near range.</p>
+					<p>If any ally is reduced to 0 HP, that ally automatically drains 1 HP from all other allies who have at least 2 HP in near range.</p>
+					<p>Blood Pact can only be cast once per day.</p>
+				</description>
+				<duration type="string">10 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Blood Pact</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">3</tier>
+				<type type="string"></type>
+			</blood_pact>

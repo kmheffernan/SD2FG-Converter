@@ -1,0 +1,22 @@
+			<necrotic_reap>
+				<name type="string">Necrotic Reap</name>
+				<text type="formattedtext">
+					<p>You can cast touch spells through a scythe. Add +1 spellcasting bonus to touch spells when doing so.</p>
+				</text>
+			</necrotic_reap>
+			<claim_undead>
+				<name type="string">Claim Undead</name>
+				<text type="formattedtext">
+					<p>1/day you can seize control of any number of undead. Their total Lv cannot exceed your own. Undead make a DC 12 Cha check to resist.</p>
+				</text>
+			</claim_undead>
+			<spellcasting>
+				<name type="string">Spellcasting</name>
+				<text type="formattedtext">
+					<p>You can cast grave warden spells you know. You may choose three tier 1 spells from the grave warden spell list.</p>
+					<p>Each time you gain a level, you choose new grave warden spells to learn based on the Grave Warden Spells Known table.</p>
+					<p>Add your Constitution modifier when casting grave warden spells. The DC is 10 + the spell’s tier.</p>
+					<p>If you fail a spellcasting check, you can’t cast that spell again until you complete a rest.</p>
+					<p>If you roll a natural 1 on a spellcasting check, you must also roll on the corresponding Necrotic Mishap table for the spell’s tier.</p>
+				</text>
+			</spellcasting>

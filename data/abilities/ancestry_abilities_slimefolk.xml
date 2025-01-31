@@ -1,8 +1,0 @@
-			<slime_form>
-				<counter type="number">0</counter>
-				<countercheck type="number">0</countercheck>
-				<name type="string">Slime Form</name>
-				<text type="formattedtext">
-					<p>You can freely alter your shape to mimic other humanoids. 1/day, you can also morph into a puddle of goo for 3 rounds. Puddle speed is halved and equipment does not morph.</p>
-				</text>
-			</slime_form>

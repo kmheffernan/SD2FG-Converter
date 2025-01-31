@@ -1,7 +1,0 @@
-			<pit_fighter_relentless>
-				<class type="string">Pit Fighter</class>
-				<name type="string">Relentless</name>
-				<text type="formattedtext">
-					<p>3/day, when you are reduced to 0 HP, make a DC 18 Constitution check (the Implacable talent applies to this roll). On a success, you instead go to 1 HP.</p>
-				</text>
-			</pit_fighter_relentless>

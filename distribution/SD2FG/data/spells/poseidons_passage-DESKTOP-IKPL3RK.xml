@@ -1,0 +1,24 @@
+			<poseidons_passage>
+				<actions />
+				<class type="string">Wisdom</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<linklist>
+						<link class="imagewindow" recordname="image.poseidons_passage">Image: Poseidon's Passage</link>
+					</linklist>
+				</description>
+				<duration type="string">Range: Far</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Poseidon’s Passage</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">You call on the water spirits to part the sea. You create passages or hold back the tide in a double near cube within the chant’s range.</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string"></type>
+			</poseidons_passage>

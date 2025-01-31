@@ -1,0 +1,36 @@
+			<protection_from_undead>
+				<actions>
+				<protection_from_undead_1>
+					<apply type="string"></apply>
+					<durmod type="string">5</durmod>
+					<durunit type="string">rnd</durunit>
+					<label type="string">IFT: TYPE (undead); GRANTDISATK</label>
+					<order type="number">1</order>
+					<targeting type="string">target</targeting>
+					<type type="string">effect</type>
+				</protection_from_undead_1>
+				</actions>
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>The undead have DISADV on attack rolls against a target you touch. These beings also can’t possess, compel, or beguile it.</p>
+					<p>When cast on an already-possessed target, the possessing entity makes a CHA check vs. the last spellcasting check. On a failure, the entity is expelled.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.protection_from_undead">Image: Protection from Undead</link>
+					</linklist>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Protection from Undead</name>
+				<opposed type="number">1</opposed>
+				<opposed_dc type="number">0</opposed_dc>
+				<opposedAbility type="string">cha</opposedAbility>
+				<range type="string">Close</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</protection_from_undead>

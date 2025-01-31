@@ -1,0 +1,24 @@
+			<thrall_offering>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string"></damage>
+				<damagetype type="string"></damagetype>
+				<dc type="string">11</dc>
+				<description type="formattedtext">
+					<p>You magically beguile one humanoid of LV 2 or less within near range who is compelled to approach one of your undead minions and allow itself to be attacked with advantage.</p>
+					<p>If there are no undead minions, the affected humanoid follows you to the best of its ability until the spell ends or an undead minion appears.</p>
+					<p>If a minion kills it, that undead is healed to full HP. The spell ends if you or your allies hurt it, but stays beguiled if a minion attacks it. The target remembers you magically enchanted it.</p>
+				</description>
+				<duration type="string">5 rounds</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Thrall Offering</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Near</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">1</tier>
+				<type type="string"></type>
+			</thrall_offering>

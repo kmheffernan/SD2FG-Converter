@@ -1,0 +1,7 @@
+			<beastmaster_animal_magic_item>
+				<class type="string">Beastmaster</class>
+				<name type="string">Animal Magic Item</name>
+				<text type="formattedtext">
+					<p>Make an animal magic item (see Magic Items).</p>
+				</text>
+			</beastmaster_animal_magic_item>

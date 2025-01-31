@@ -1,0 +1,8 @@
+			<friend_of_the_shadows>
+				<counter type="number">0</counter>
+				<countercheck type="number">0</countercheck>
+				<name type="string">Friend of the Shadows</name>
+				<text type="formattedtext">
+					<p>When shrouded in darkness, monsters attack your allies first.</p>
+				</text>
+			</friend_of_the_shadows>

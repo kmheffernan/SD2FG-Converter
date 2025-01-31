@@ -1,0 +1,11 @@
+			<shrunken_head>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Can open a one-way gate to hell once.</i></p>
+				</description>
+				<name type="string">Shrunken Head</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</shrunken_head>

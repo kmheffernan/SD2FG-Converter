@@ -1,0 +1,25 @@
+			<spectral_drain>
+				<actions />
+				<class type="string">Constitution</class>
+				<damage type="string">3d6</damage>
+				<damagetype type="string">radiant</damagetype>
+				<dc type="string">14</dc>
+				<description type="formattedtext">
+					<p>Partially transparent black tendrils erupt from your hands and engulf an undead creature, dealing 3d6 radiant damage and healing you by the same amount.</p>
+					<linklist>
+						<link class="imagewindow" recordname="image.spectral_drain">Image: Spectral Drain</link>
+					</linklist>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Spectral Drain</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">4</tier>
+				<type type="string">Damage</type>
+			</spectral_drain>

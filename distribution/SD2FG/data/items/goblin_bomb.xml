@@ -1,0 +1,13 @@
+			<goblin_bomb>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A preserved rat stuffed with an explosive charge and a fuse.</i></p>
+				<p><b>Benefit.</b> You can light the bomb's fuse and throw it a near distance. It explodes in 1d4 rounds, dealing 2d8 damage to everything in near range.</p>
+				</description>
+				<name type="string">Goblin Bomb</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Goblin Bomb.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</goblin_bomb>

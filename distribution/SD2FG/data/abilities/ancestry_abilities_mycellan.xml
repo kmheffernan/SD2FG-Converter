@@ -1,0 +1,8 @@
+			<telepathic>
+				<counter type="number">0</counter>
+				<countercheck type="number">0</countercheck>
+				<name type="string">Telepathic</name>
+				<text type="formattedtext">
+			</telepathic>
+				</text>
+			</telepathic>

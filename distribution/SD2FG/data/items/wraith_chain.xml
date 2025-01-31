@@ -1,0 +1,16 @@
+			<wraith_chain>
+				<ac type="number">14</ac>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+					<p><i>A chainmail shirt of black, mithral links that trails a long cloak of writhing shadows.</i></p>
+				<p><b>Bonus.</b> +1 mithral chainmail.</p>
+				<p><b>Benefit.</b> Once per day, you may cause an attack that hits you to miss instead.</p>
+				</description>
+				<name type="string">Wraith Chain</name>
+				<nodex type="number"></nodex>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Wraith Chain.webp</picture>
+				<type type="string">Armor</type>
+				<weight type="number">1</weight>
+			</wraith_chain>

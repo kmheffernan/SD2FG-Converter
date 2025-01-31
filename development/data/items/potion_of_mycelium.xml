@@ -1,0 +1,13 @@
+			<potion_of_mycelium>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Clear liquid with multi-colored particles constantly moving.</i></p>
+				<p><b>Benefit</b> You can speak to and understand all plants within close range for 5 rounds. You can also telepathically communicate with myconids.</p>
+				</description>
+				<name type="string">Potion of Mycelium</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Potion of Mycelium.webp</picture>
+				<type type="string">Potion</type>
+				<weight type="number">1</weight>
+			</potion_of_mycelium>

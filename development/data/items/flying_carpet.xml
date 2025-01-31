@@ -1,0 +1,14 @@
+			<flying_carpet>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A richly woven, red carpet with gold tassels.</i></p>
+				<p><b>Benefit.</b> The carpet fits two riders (one is the driver). It can fly double near on the driver's turn.</p>
+				<p><b>Personality.</b> Neutral. Playful, mischievous. Enjoys visiting new places and gets restless without a frequent change in location.</p>
+				</description>
+				<name type="string">Flying Carpet</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Flying Carpet.webp</picture>
+				<type type="string">Misc. Magic</type>
+				<weight type="number">1</weight>
+			</flying_carpet>

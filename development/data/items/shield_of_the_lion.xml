@@ -1,0 +1,17 @@
+			<shield_of_the_lion>
+				<ac type="number">3</ac>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+					<p>Occupies one hand.</p>
+				<p><i>This shield_of_the_lion is carved as a roaring lion's face with a flowing mane.</i></p>
+				<p><b>Bonus.</b> +1 shield_of_the_lion.</p>
+				<p><b>Benefit.</b> Once per day, you can command the lion to animate and bellow a ferocious roar. All hostile creatures within near range must immediately make a morale check.</p>
+				</description>
+				<name type="string">Shield of the Lion</name>
+				<nodex type="number"></nodex>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<picture type="token">campaign/images/Shield of the Lion.webp</picture>
+				<type type="string">Shield</type>
+				<weight type="number">1</weight>
+			</shield_of_the_lion>

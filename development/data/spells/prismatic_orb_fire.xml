@@ -1,0 +1,22 @@
+			<prismatic_orb_fire>
+				<actions />
+				<class type="string">Intelligence</class>
+				<damage type="string">3d8</damage>
+				<damagetype type="string">fire</damagetype>
+				<dc type="string">15</dc>
+				<description type="formattedtext">
+					<p>You send a strobing orb of energy streaking toward a target within range. Choose an energy type from fire, cold, or electricity. Adjust the damage type if needed. The orb deals 3d8 fire damage and delivers a concussive blast of the chosen energy type. If the energy type is anathema to the target's existence (for example, cold energy against a fire elemental), the orb deals double damage to it instead.</p>
+				</description>
+				<duration type="string">Instant</duration>
+				<healing type="string"></healing>
+				<level type="string"></level>
+				<mult type="number"></mult>
+				<name type="string">Prismatic Orb (Fire)</name>
+				<opposed type="number"></opposed>
+				<opposed_dc type="number"></opposed_dc>
+				<opposedAbility type="string"></opposedAbility>
+				<range type="string">Far</range>
+				<shortdescription type="string"></shortdescription>
+				<tier type="number">5</tier>
+				<type type="string">Damage</type>
+			</prismatic_orb_fire>

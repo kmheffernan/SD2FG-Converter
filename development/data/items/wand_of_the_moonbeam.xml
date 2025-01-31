@@ -1,0 +1,15 @@
+			<wand_of_the_moonbeam>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>Any spellcaster can wield this wand to cast Moonbeam with a DC 14 Charisma check.</i></p>
+				<p><i>The wand begins twitching whenever a lycanthrope is within near distance of it.</i></p>
+				<linklist>
+					<link class="power" recordname="reference.power.moonbeam@IPFGSDTALCS1PLAYER">Spell: Moonbeam</link>
+				</linklist>
+				</description>
+				<name type="string">Wand of the Moonbeam</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<type type="string">Wand</type>
+				<weight type="number">1</weight>
+			</wand_of_the_moonbeam>

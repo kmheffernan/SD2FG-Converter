@@ -1,0 +1,7 @@
+			<desert_rider_additional_charge>
+				<class type="string">Desert Rider</class>
+				<name type="string">Additional Charge</name>
+				<text type="formattedtext">
+					<p>Gain an additional use of your Charge talent each day.</p>
+				</text>
+			</desert_rider_additional_charge>

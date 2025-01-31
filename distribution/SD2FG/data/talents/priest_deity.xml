@@ -1,0 +1,7 @@
+			<priest_deity>
+				<class type="string">Priest</class>
+				<name type="string">Deity</name>
+				<text type="formattedtext">
+					<p>Choose a god to serve who matches your alignment (see Deities). You have a holy symbol for your god (it takes up no gear slots).</p>
+				</text>
+			</priest_deity>

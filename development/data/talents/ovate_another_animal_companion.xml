@@ -1,0 +1,7 @@
+			<ovate_another_animal_companion>
+				<class type="string">Ovate</class>
+				<name type="string">Another Animal Companion</name>
+				<text type="formattedtext">
+					<p>The number of animal companions you can have increases by one.</p>
+				</text>
+			</ovate_another_animal_companion>

@@ -1,0 +1,5 @@
+There are two folders:
+Distribution -- Contains a working executable file for Windows
+Development -- Contains the Python script files
+
+Download the Distribution folder, save on your computer, and run the SD2FG.exe file.
