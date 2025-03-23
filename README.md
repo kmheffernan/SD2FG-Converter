@@ -2,7 +2,7 @@
 by Kevin Heffernan
 
 **VERSION:**
-1.01
+1.04
 
 **DOWNLOADING:**
 There are two folders:
@@ -71,3 +71,9 @@ https://discord.com/channels/558029475837902851/1240298222321274900
 
 The shadowdark forum of the Discord server for Fantasy Grounds
 https://discord.com/channels/274582899045695488/1087432684957073418
+
+**UPDATE HISTORY:**
+v1.03 bug: failed to convert when PC had no weapons
+v1.02 fixed errors in spell and item data
+v1.01 added readme.txt
+v1.00 release

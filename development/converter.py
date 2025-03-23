@@ -398,7 +398,7 @@ class Converter:
             self.xml_data = self.xml_data + "\t\t<weaponlist>\n"
             for w in self.weapons_attack_list:
                 self.xml_data = self.xml_data + w
-        self.xml_data = self.xml_data + "\t\t</weaponlist>\n"
+            self.xml_data = self.xml_data + "\t\t</weaponlist>\n"
         self.xml_data = self.xml_data + "\t</character>\n"
         self.xml_data = self.xml_data + "</root>\n"
     #endfor

@@ -2,7 +2,7 @@ Shadowdarklings Fantasy Grounds Converter
 by Kevin Heffernan
 
 VERSION:
-1.0
+1.04
 
 LICENSE:
 This software is an independent product published under the Shadowdark RPG Third-Party License and is not affiliated with
@@ -28,7 +28,7 @@ ancestries
 backgrounds
 talents
 spells
-items, including magic items
+items (but not magic items)
 
 Material outside the scope of coverage should be added to the character sheet by hand after loading into Fantasy Grounds. If such material is included in the character sheet at the time of conversion, the converter will generate warnings, and the write "ERROR" to the character sheet in place of the unrecognized data.
 
