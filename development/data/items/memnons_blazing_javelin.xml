@@ -4,9 +4,9 @@
 				<damage type="string">1d4+1</damage>
 				<damagetype type="string">piercing, magic</damagetype>
 				<description type="formattedtext">
-					<p><i>This golden javelin occasionally blinks and wavers, briefly turning into a bolt of lightning.</i></p>
-				<p><b>Bonus.</b> +1 javelin. Can only be wielded by a chaotic being. If you also wield Memnon's Discordant Blade and Memnon's Entropic Armor, it becomes a +3 javelin.</p>
-				<p><b>Benefit.</b> The javelin always returns to your hand after being thrown. Once per day, when you throw this javelin, you can turn it into lightning as per the lightning bolt spell (no spellcasting check).</p>
+						<p><i>This golden javelin occasionally blinks and wavers, briefly turning into a bolt of lightning.</i></p>
+					<p><b>Bonus.</b> +1 javelin. Can only be wielded by a chaotic being. If you also wield Memnon's Discordant Blade and Memnon's Entropic Armor, it becomes a +3 javelin.</p>
+					<p><b>Benefit.</b> The javelin always returns to your hand after being thrown. Once per day, when you throw this javelin, you can turn it into lightning as per the lightning bolt spell (no spellcasting check).</p>
 				<linklist>
 					<link class="power" recordname="reference.power.lightning_bolt@IPFGSDTALCOREPLAYER">Spell: Lightning Bolt</link>
 				</linklist>
@@ -17,7 +17,6 @@
 				<name type="string">Memnon's Blazing Javelin</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Memnon's Blazing Javelin.webp</picture>
 				<range type="string">Close/Far</range>
 				<thrown type="number">1</thrown>
 				<twohanded type="number">0</twohanded>

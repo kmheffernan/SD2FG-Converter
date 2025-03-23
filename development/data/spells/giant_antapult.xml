@@ -1,14 +1,14 @@
 			<giant_antapult>
 				<actions>
-				<giant_antapult_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Giant Antapult; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</giant_antapult_1>
+					<giant_antapult_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Giant Antapult; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</giant_antapult_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string">8d6</damage>

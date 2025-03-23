@@ -1,14 +1,14 @@
 			<touch_of_fatigue>
 				<actions>
-				<touch_of_fatigue_1>
-					<apply type="string"></apply>
-					<durmod type="string">1</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">DISATK; disadvantage on spell checks</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</touch_of_fatigue_1>
+					<touch_of_fatigue_1>
+						<apply type="string"></apply>
+						<durmod type="string">1</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Touch of Fatigue; DISATK; disadvantage on spell checks</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</touch_of_fatigue_1>
 				</actions>
 				<class type="string">Constitution</class>
 				<damage type="string"></damage>

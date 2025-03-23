@@ -4,7 +4,7 @@
 				<damage type="string">1d6+1</damage>
 				<damagetype type="string">piercing, magic</damagetype>
 				<description type="formattedtext">
-				<p><i>This black iron +1 spear is called Screamer. It shrieks hideously when thrown.</i></p>
+					<p><i>This black iron +1 spear is called Screamer. It shrieks hideously when thrown.</i></p>
 				</description>
 				<finesse type="number">0</finesse>
 				<item_attack_bonus type="number">1</item_attack_bonus>

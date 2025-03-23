@@ -5,16 +5,7 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">13</dc>
 				<description type="formattedtext">
-					<p>You and your gear transform into a wolf for the spell's duration. You assume the wolf's STR, DEX, CON, HP, AC, speed, attacks, and physical characteristics, but retain your INT, WIS, and CHA. You can cast spells in this form. If you go to 0 HP, you revert to your true shape at 0 HP. If you are level 5+, you can transform into a dire wolf or a winter wolf, instead.</p>
-					<linklist>
-						<link class="npc" recordname="reference.npcs.wolf@IPFGSDTALCOREGM">NPC: Wolf</link>
-					</linklist>
-					<linklist>
-						<link class="npc" recordname="reference.npcs.wolf_dire@IPFGSDTALCOREGM">NPC: Wolf, Dire</link>
-					</linklist>
-					<linklist>
-						<link class="npc" recordname="reference.npcs.wolf_winter@IPFGSDTALCOREGM">NPC: Wolf, Winter</link>
-					</linklist>
+					<p>You and your gear transform into a wolf for the spell's duration. You assume the wolf's STR, DEX, CON, HP, AC, speed, attacks, and physical characteristics, but retain your INT, WIS, and CHA. You can cast spells in this form. If you go to 0 HP, you revert to your true shape at 0 HP. If you are level 5+, you can transform into a dire wolf or a winter wolf, instead. [See the NPC entries for wolf, dire wolf, and winter wolf in the Core Rules GM Module.]</p>
 				</description>
 				<duration type="string">Focus</duration>
 				<healing type="string"></healing>

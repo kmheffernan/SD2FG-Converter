@@ -1,14 +1,14 @@
 			<holy_weapon>
 				<actions>
-				<holy_weapon_1>
-					<apply type="string"></apply>
-					<durmod type="string">5</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">DMGTYPE: magic; ATK: 1; DMG: 1</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</holy_weapon_1>
+					<holy_weapon_1>
+						<apply type="string"></apply>
+						<durmod type="string">5</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Holy Weapon; DMGTYPE: magic; ATK: 1; DMG: 1</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</holy_weapon_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

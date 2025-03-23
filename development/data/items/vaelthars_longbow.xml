@@ -1,14 +1,13 @@
 			<vaelthars_longbow>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>An elegant longbow, its shape carved from the spine of a felwraack.</i></p>
-				<p><b>Benefit</b> Fires arrows that do an extra die of damage when hitting living targets.</p>
-				<p><b>Curse</b> Any living target immediately acquires the Fel curse. (See pg. 92)</p>
+					<p><i>An elegant longbow, its shape carved from the spine of a felwraack.</i></p>
+					<p><b>Benefit</b> Fires arrows that do an extra die of damage when hitting living targets.</p>
+					<p><b>Curse</b> Any living target immediately acquires the Fel curse. (See pg. 92)</p>
 				</description>
 				<name type="string">Vaelthar's Longbow</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Vaelthar's Longbow.webp</picture>
 				<type type="string">Weapon</type>
 				<weight type="number">1</weight>
 			</vaelthars_longbow>

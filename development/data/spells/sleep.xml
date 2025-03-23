@@ -1,12 +1,21 @@
 			<sleep>
-				<actions />
+				<actions>
+					<sleep_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Sleep; Unconscious; until woken</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</sleep_1>
+				</actions>
 				<class type="string">Intelligence</class>
 				<damage type="string"></damage>
 				<damagetype type="string"></damagetype>
 				<dc type="string">11</dc>
 				<description type="formattedtext">
 					<p>You weave a lulling spell that fills a near-sized cube extending from you. Creatures in the area of effect fall into a deep sleep if they are LV 2 or less. Vigorous shaking or being injured wakes them.</p>
-					<p>Sleep|unconscious; until woken||targets|</p>
 				</description>
 				<duration type="string">Instant</duration>
 				<healing type="string"></healing>

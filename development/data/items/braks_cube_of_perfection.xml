@@ -1,13 +1,12 @@
 			<braks_cube_of_perfection>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>A tiny cube with paintings of goblins on each face, each one depicting transcendence in a physical or mental trait.</i></p>
-				<p><b>Benefit.</b> Roll the cube by rolling a d6. Your corresponding stat permanently increases to 18 (+4). 1. Strength. 2. Dexterity. 3. Constitution. 4. Intelligence. 5. Wisdom. 6. Charisma. After being rolled, Brak's Cube of Perfection teleports to a random location in the multiverse.</p>
+					<p><i>A tiny cube with paintings of goblins on each face, each one depicting transcendence in a physical or mental trait.</i></p>
+					<p><b>Benefit.</b> Roll the cube by rolling a d6. Your corresponding stat permanently increases to 18 (+4). 1. Strength. 2. Dexterity. 3. Constitution. 4. Intelligence. 5. Wisdom. 6. Charisma. After being rolled, Brak's Cube of Perfection teleports to a random location in the multiverse.</p>
 				</description>
 				<name type="string">Brak's Cube of Perfection</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Brak's Cube of Perfection.webp</picture>
 				<type type="string">Misc. Magic</type>
 				<weight type="number">1</weight>
 			</braks_cube_of_perfection>

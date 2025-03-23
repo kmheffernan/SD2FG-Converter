@@ -1,23 +1,23 @@
 			<regenerate>
 				<actions>
-				<regenerate_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Regenerate; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</regenerate_1>
-				<regenerate_2>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">REGEN: 1d4</label>
-					<order type="number">2</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</regenerate_2>
+					<regenerate_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Regenerate; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</regenerate_1>
+					<regenerate_2>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Regenerate; REGEN: 1d4</label>
+						<order type="number">2</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</regenerate_2>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

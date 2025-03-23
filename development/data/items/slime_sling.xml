@@ -4,9 +4,9 @@
 				<damage type="string">1d4+0</damage>
 				<damagetype type="string">blunt, magic</damagetype>
 				<description type="formattedtext">
-				<p><i>A sling that appears to be made of rubbery, congealed green goo.</i></p>
-				<p><b>Benefit</b> You shoot magical bullets of goo that dissolve armor on impact, dealing standard sling bullet damage.</p>
-				<p><b>Curse</b> The sling holds 10 bullets that cannot be recovered once fired. To resupply, you must defeat a slime, ooze, royal jelly, or gelatinous cube and allow the sling to drink the goo. Slimefolk cannot recharge.</p>
+					<p><i>A sling that appears to be made of rubbery, congealed green goo.</i></p>
+					<p><b>Benefit</b> You shoot magical bullets of goo that dissolve armor on impact, dealing standard sling bullet damage.</p>
+					<p><b>Curse</b> The sling holds 10 bullets that cannot be recovered once fired. To resupply, you must defeat a slime, ooze, royal jelly, or gelatinous cube and allow the sling to drink the goo. Slimefolk cannot recharge.</p>
 				</description>
 				<finesse type="number">0</finesse>
 				<item_attack_bonus type="number">0</item_attack_bonus>

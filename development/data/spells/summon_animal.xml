@@ -1,14 +1,14 @@
 			<summon_animal>
 				<actions>
-				<summon_animal_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Summon Animal; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</summon_animal_1>
+					<summon_animal_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Summon Animal; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</summon_animal_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

@@ -1,5 +1,24 @@
 			<darkness>
-				<actions />
+				<actions>
+					<darkness_1>
+						<apply type="string"></apply>
+						<durmod type="string">5</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Darkness</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</darkness_1>
+					<darkness_2>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Darkness; Blinded</label>
+						<order type="number">2</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</darkness_2>
+				</actions>
 				<class type="string">Constitution</class>
 				<damage type="string"></damage>
 				<damagetype type="string"></damagetype>

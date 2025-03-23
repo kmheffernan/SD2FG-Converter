@@ -1,14 +1,14 @@
 			<turn_undead>
 				<actions>
-				<turn_undead_1>
-					<apply type="string"></apply>
-					<durmod type="string">5</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">turned</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</turn_undead_1>
+					<turn_undead_1>
+						<apply type="string"></apply>
+						<durmod type="string">5</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Turn Undead; turned</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</turn_undead_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

@@ -4,7 +4,7 @@
 				<damage type="string">1d4+1</damage>
 				<damagetype type="string">piercing, magic</damagetype>
 				<description type="formattedtext">
-				<p><i>A +1 dagger that deals 1d100 damage to anyone who tries to take it from previous possessor (dead or alive).</i></p>
+					<p><i>A +1 dagger that deals 1d100 damage to anyone who tries to take it from previous possessor (dead or alive).</i></p>
 				</description>
 				<finesse type="number">1</finesse>
 				<item_attack_bonus type="number">1</item_attack_bonus>

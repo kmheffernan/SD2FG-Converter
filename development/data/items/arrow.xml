@@ -1,0 +1,11 @@
+			<arrow>
+				<cost type="string">5 cp</cost>
+				<description type="formattedtext">
+					<p>Ammunition for shortbows or longbows.</p>
+				</description>
+				<name type="string">Arrow</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<type type="string">Ammunition</type>
+				<weight type="number">0.05</weight>
+			</arrow>

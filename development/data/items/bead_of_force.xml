@@ -1,8 +1,8 @@
 			<bead_of_force>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>A marble with a blue ring of light glowing softly inside it.</i></p>
-				<p><b>Benefit.</b> You can throw this bead at one target up to a near distance. If you hit, the target becomes caught in a resilient sphere spell.</p>
+					<p><i>A marble with a blue ring of light glowing softly inside it.</i></p>
+					<p><b>Benefit.</b> You can throw this bead at one target up to a near distance. If you hit, the target becomes caught in a resilient sphere spell.</p>
 				<linklist>
 					<link class="power" recordname="reference.power.resilient_sphere@IPFGSDTALCOREPLAYER">Spell: Resilient Sphere</link>
 				</linklist>
@@ -10,7 +10,6 @@
 				<name type="string">Bead of Force</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Bead of Force.webp</picture>
 				<type type="string">Misc. Magic</type>
 				<weight type="number">1</weight>
 			</bead_of_force>

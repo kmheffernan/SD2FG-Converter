@@ -1,14 +1,14 @@
 			<magic_circle>
 				<actions>
-				<magic_circle_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Magic Circle; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</magic_circle_1>
+					<magic_circle_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Magic Circle; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</magic_circle_1>
 				</actions>
 				<class type="string">Intelligence</class>
 				<damage type="string"></damage>

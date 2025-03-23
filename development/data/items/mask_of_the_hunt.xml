@@ -1,13 +1,12 @@
 			<mask_of_the_hunt>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>A mask with the lifelike shape and coloration of a snarling tiger.</i></p>
-				<p><b>Benefit</b> Wearing the mask heightens your senses, granting ADV on related checks, including tracking and mimicking wildlife calls. The mask's appearance can shift to match any predator type you desire.</p>
+					<p><i>A mask with the lifelike shape and coloration of a snarling tiger.</i></p>
+					<p><b>Benefit</b> Wearing the mask heightens your senses, granting ADV on related checks, including tracking and mimicking wildlife calls. The mask's appearance can shift to match any predator type you desire.</p>
 				</description>
 				<name type="string">Mask of the Hunt</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Mask of the Hunt.webp</picture>
 				<type type="string">Misc. Magic</type>
 				<weight type="number">1</weight>
 			</mask_of_the_hunt>

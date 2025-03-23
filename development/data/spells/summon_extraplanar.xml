@@ -1,14 +1,14 @@
 			<summon_extraplanar>
 				<actions>
-				<summon_extraplanar_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Summon Extraplanar; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</summon_extraplanar_1>
+					<summon_extraplanar_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Summon Extraplanar; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</summon_extraplanar_1>
 				</actions>
 				<class type="string">Intelligence</class>
 				<damage type="string"></damage>

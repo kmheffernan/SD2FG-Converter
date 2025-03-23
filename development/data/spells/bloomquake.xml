@@ -1,14 +1,14 @@
 			<bloomquake>
 				<actions>
-				<bloomquake_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">prone</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</bloomquake_1>
+					<bloomquake_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Bloomquake; Prone</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</bloomquake_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string">2d6</damage>

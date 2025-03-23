@@ -1,23 +1,23 @@
 			<arbor_vantage>
 				<actions>
-				<arbor_vantage_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Arbor Vantage; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</arbor_vantage_1>
-				<arbor_vantage_2>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">ATKADV</label>
-					<order type="number">2</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</arbor_vantage_2>
+					<arbor_vantage_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Arbor Vantage; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</arbor_vantage_1>
+					<arbor_vantage_2>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Arbor Vantage; ATKADV</label>
+						<order type="number">2</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</arbor_vantage_2>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

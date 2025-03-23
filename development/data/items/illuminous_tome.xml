@@ -1,0 +1,14 @@
+			<illuminous_tome>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A tome with lavish ink drawings. It also contains the spell Light.</i></p>
+				<linklist>
+					<link class="power" recordname="reference.power.light_wizard@IPFGSDTALCOREPLAYER">Spell: Light (Wizard)</link>
+				</linklist>
+				</description>
+				<name type="string">Illuminous Tome</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<type type="string">Tome</type>
+				<weight type="number">1</weight>
+			</illuminous_tome>

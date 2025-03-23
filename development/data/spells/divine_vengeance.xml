@@ -1,14 +1,14 @@
 			<divine_vengeance>
 				<actions>
-				<divine_vengeance_1>
-					<apply type="string"></apply>
-					<durmod type="string">10</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">Divine Vengeance; DMGTYPE: magic; ATK: 4; DMG: 4</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</divine_vengeance_1>
+					<divine_vengeance_1>
+						<apply type="string"></apply>
+						<durmod type="string">10</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Divine Vengeance; DMGTYPE: magic; ATK: 4; DMG: 4</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</divine_vengeance_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

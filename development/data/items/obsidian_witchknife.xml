@@ -4,9 +4,9 @@
 				<damage type="string">1d4+2</damage>
 				<damagetype type="string">piercing, magic</damagetype>
 				<description type="formattedtext">
-					<p><i>A glinting, obsidian blade that trails black smoke in thin curls.</i></p>
-				<p><b>Bonus.</b> +2 dagger. Cannot be wielded by a lawful being.</p>
-				<p><b>Benefit.</b> When you cast a spell while holding this dagger, you may wound yourself with it. Add the amount of damage you take to your spellcasting check.</p>
+						<p><i>A glinting, obsidian blade that trails black smoke in thin curls.</i></p>
+					<p><b>Bonus.</b> +2 dagger. Cannot be wielded by a lawful being.</p>
+					<p><b>Benefit.</b> When you cast a spell while holding this dagger, you may wound yourself with it. Add the amount of damage you take to your spellcasting check.</p>
 				</description>
 				<finesse type="number">1</finesse>
 				<item_attack_bonus type="number">2</item_attack_bonus>
@@ -14,7 +14,6 @@
 				<name type="string">Obsidian Witchknife</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Obsidian Witchknife.webp</picture>
 				<range type="string">Close/Near</range>
 				<thrown type="number">1</thrown>
 				<twohanded type="number">0</twohanded>

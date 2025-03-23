@@ -1,14 +1,14 @@
 			<sword_of_scorpions>
 				<actions>
-				<sword_of_scorpions_1>
-					<apply type="string"></apply>
-					<durmod type="string">1d4</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">paralyzed</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</sword_of_scorpions_1>
+					<sword_of_scorpions_1>
+						<apply type="string"></apply>
+						<durmod type="string">1d4</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Sword of Scorpions; Paralyzed</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</sword_of_scorpions_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string">1d12</damage>

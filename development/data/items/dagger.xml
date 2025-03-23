@@ -12,7 +12,6 @@
 				<name type="string">Dagger</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token"></picture>
 				<range type="string">Close/Near</range>
 				<thrown type="number">1</thrown>
 				<twohanded type="number">0</twohanded>

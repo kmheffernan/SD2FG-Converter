@@ -1,14 +1,14 @@
 			<gift_of_earth>
 				<actions>
-				<gift_of_earth_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">AC: 2; no movement</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</gift_of_earth_1>
+					<gift_of_earth_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Gift of Earth; AC: 2; no movement</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</gift_of_earth_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

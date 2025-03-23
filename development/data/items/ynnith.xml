@@ -4,7 +4,7 @@
 				<damage type="string">1d4+1</damage>
 				<damagetype type="string">blunt, magic</damagetype>
 				<description type="formattedtext">
-				<p><i>A +1 staff of knotted oak called Ynnith. Once a day, the wielder can summon an obedient giant owl for 5 rounds.</i></p>
+					<p><i>A +1 staff of knotted oak called Ynnith. Once a day, the wielder can summon an obedient giant owl for 5 rounds.</i></p>
 				<p><link_n>Owl, Giant</link_n></p>
 				</description>
 				<finesse type="number">0</finesse>

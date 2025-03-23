@@ -1,13 +1,12 @@
 			<krulmaras_silver_scepter>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>A silver scepter wrapped with twisting spikes.</i></p>
-				<p><b>Benefit</b> None. If bearer of the ghost scepter acquires the silver scepter, the two merge, retaining the ghost scepter's qualities and gaining the ability to magically open a mundane lock once per day.</p>
+					<p><i>A silver scepter wrapped with twisting spikes.</i></p>
+					<p><b>Benefit</b> None. If bearer of the ghost scepter acquires the silver scepter, the two merge, retaining the ghost scepter's qualities and gaining the ability to magically open a mundane lock once per day.</p>
 				</description>
 				<name type="string">Krulmara's Silver Scepter</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Krulmara's Silver Scepter.webp</picture>
 				<type type="string">Misc. Magic</type>
 				<weight type="number">1</weight>
 			</krulmaras_silver_scepter>

@@ -1,17 +1,17 @@
 			<armor_of_saint_terragnis>
 				<ac type="number">18</ac>
 				<cost type="string"></cost>
+				<count type="number">1</count>
 				<description type="formattedtext">
 					<p>Cannot swim; Disadvantage on stealth checks.</p>
-				<p><i>Golden plate mail carved from head to toe with warrior angels.</i></p>
-				<p><b>Bonus.</b> +3 plate mail. Only a lawful worshipper of Saint Terragnis can wear this armor.</p>
-				<p><b>Benefit.</b> Hostile spells that target you are DC 18 to cast. Once per month, you can summon an Avatar of Saint Terragnis (treat as an archangel) to fight by your side for 10 rounds.</p>
+					<p><i>Golden plate mail carved from head to toe with warrior angels.</i></p>
+					<p><b>Bonus.</b> +3 plate mail. Only a lawful worshipper of Saint Terragnis can wear this armor.</p>
+					<p><b>Benefit.</b> Hostile spells that target you are DC 18 to cast. Once per month, you can summon an Avatar of Saint Terragnis (treat as an archangel) to fight by your side for 10 rounds.</p>
 				</description>
 				<name type="string">Armor of Saint Terragnis</name>
 				<nodex type="number">1</nodex>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Armor of Saint Terragnis.webp</picture>
 				<type type="string">Armor</type>
 				<weight type="number">3</weight>
 			</armor_of_saint_terragnis>

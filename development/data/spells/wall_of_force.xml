@@ -1,14 +1,14 @@
 			<wall_of_force>
 				<actions>
-				<wall_of_force_1>
-					<apply type="string"></apply>
-					<durmod type="string">5</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">Wall of Force</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</wall_of_force_1>
+					<wall_of_force_1>
+						<apply type="string"></apply>
+						<durmod type="string">5</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Wall of Force</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</wall_of_force_1>
 				</actions>
 				<class type="string">Intelligence</class>
 				<damage type="string"></damage>

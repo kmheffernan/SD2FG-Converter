@@ -4,7 +4,7 @@
 				<damage type="string">1d8+2</damage>
 				<damagetype type="string">slashing, magic</damagetype>
 				<description type="formattedtext">
-				<p><i>A +2 bastard sword that allows its wielder to speak to wild animals.</i></p>
+					<p><i>A +2 bastard sword that allows its wielder to speak to wild animals.</i></p>
 				</description>
 				<finesse type="number">0</finesse>
 				<item_attack_bonus type="number">2</item_attack_bonus>

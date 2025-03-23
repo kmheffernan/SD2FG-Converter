@@ -1,8 +1,8 @@
 			<braks_book_of_misspells>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>A tome bound in ratskin that bears a jagged, glowing rune.</i></p>
-				<p><b>Curse.</b> This spellbook contains one scroll each of acid arrow, fireball, and sleep. When a wizard tries to cast or learn a spell from these scrolls, the spell targets the caster on a success.</p>
+					<p><i>A tome bound in ratskin that bears a jagged, glowing rune.</i></p>
+					<p><b>Curse.</b> This spellbook contains one scroll each of acid arrow, fireball, and sleep. When a wizard tries to cast or learn a spell from these scrolls, the spell targets the caster on a success.</p>
 				<linklist>
 					<link class="power" recordname="reference.power.acid_arrow@IPFGSDTALCOREPLAYER">Spell: Acid Arrow</link>
 				</linklist>
@@ -16,7 +16,6 @@
 				<name type="string">Brak's Book of Misspells</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Brak's Book of Misspells.webp</picture>
 				<type type="string">Tome</type>
 				<weight type="number">1</weight>
 			</braks_book_of_misspells>

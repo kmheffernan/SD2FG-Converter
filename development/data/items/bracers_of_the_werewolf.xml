@@ -1,14 +1,13 @@
 			<bracers_of_the_werewolf>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>Rugged steel bracers inlaid with the claws and fangs of a werewolf.</i></p>
-				<p><b>Benefit</b> When activated, you gain double near movement and 18 strength for 5 rounds.</p>
-				<p><b>Curse</b> After use, exhausted. Attacks and STR checks at DISADV until you consume fresh, bloody meat.</p>
+					<p><i>Rugged steel bracers inlaid with the claws and fangs of a werewolf.</i></p>
+					<p><b>Benefit</b> When activated, you gain double near movement and 18 strength for 5 rounds.</p>
+					<p><b>Curse</b> After use, exhausted. Attacks and STR checks at DISADV until you consume fresh, bloody meat.</p>
 				</description>
 				<name type="string">Bracers of the Werewolf</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Bracers of the Werewolf.webp</picture>
 				<type type="string">Armor</type>
 				<weight type="number">1</weight>
 			</bracers_of_the_werewolf>

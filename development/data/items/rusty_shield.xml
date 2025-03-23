@@ -1,6 +1,7 @@
 			<rusty_shield>
 				<ac type="number">1</ac>
 				<cost type="string">10 gp</cost>
+				<count type="number">1</count>
 				<description type="formattedtext">
 					<p>Occupies one hand.</p>
 				</description>
@@ -8,7 +9,6 @@
 				<nodex type="number"></nodex>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token"></picture>
 				<type type="string">Shield</type>
 				<weight type="number">1</weight>
 			</rusty_shield>

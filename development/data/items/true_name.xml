@@ -1,13 +1,12 @@
 			<true_name>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>The secret, unique name borne by a creature and documented in The Covenant. Few creatures know their own True Names.</i></p>
-				<p><b>Benefit.</b> You have advantage on attack rolls and spellcasting checks targeting a creature whose True Name you utter.</p>
+					<p><i>The secret, unique name borne by a creature and documented in The Covenant. Few creatures know their own True Names.</i></p>
+					<p><b>Benefit.</b> You have advantage on attack rolls and spellcasting checks targeting a creature whose True Name you utter.</p>
 				</description>
 				<name type="string">True Name</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/True Name.webp</picture>
 				<type type="string">Misc. Magic</type>
 				<weight type="number">1</weight>
 			</true_name>

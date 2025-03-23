@@ -5,8 +5,7 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">13</dc>
 				<description type="formattedtext">
-					<p>A dead body you touch answers your questions. You can ask up to three yes or no questions (one at a time). The corpse truthfully answers “yes” or “no” to each.</p>
-					<p>If you cast this spell more than once in 24 hours, treat a failed spellcasting check for it as a critical failure, instead.</p>
+					<p>A dead body you touch answers your questions in a distant, wheezing voice. You can ask the dead body up to three yes or no questions (one at a time). The GM truthfully answers "yes" or "no" to each. If you cast this spell more than once in 24 hours, treat a failed spellcasting check for it as a critical failure instead.</p>
 					<linklist>
 						<link class="imagewindow" recordname="image.speak_with_dead">Image: Speak with Dead</link>
 					</linklist>

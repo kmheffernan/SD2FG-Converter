@@ -1,14 +1,14 @@
 			<dominion>
 				<actions>
-				<dominion_1>
-					<apply type="string"></apply>
-					<durmod type="string">10</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">Dominion</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</dominion_1>
+					<dominion_1>
+						<apply type="string"></apply>
+						<durmod type="string">10</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Dominion</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</dominion_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

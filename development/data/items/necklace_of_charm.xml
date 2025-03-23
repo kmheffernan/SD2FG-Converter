@@ -1,13 +1,12 @@
 			<necklace_of_charm>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>A gold, fishbone chain that shimmers with subtle beauty.</i></p>
-				<p><b>Benefit.</b> Your Charisma stat becomes 18 (+4) while wearing this necklace.</p>
+					<p><i>A gold, fishbone chain that shimmers with subtle beauty.</i></p>
+					<p><b>Benefit.</b> Your Charisma stat becomes 18 (+4) while wearing this necklace.</p>
 				</description>
 				<name type="string">Necklace of Charm</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Necklace of Charm.webp</picture>
 				<type type="string">Jewelry</type>
 				<weight type="number">1</weight>
 			</necklace_of_charm>

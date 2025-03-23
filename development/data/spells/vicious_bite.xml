@@ -1,14 +1,14 @@
 			<vicious_bite>
 				<actions>
-				<vicious_bite_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Vicious Bite; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</vicious_bite_1>
+					<vicious_bite_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Vicious Bite; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</vicious_bite_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

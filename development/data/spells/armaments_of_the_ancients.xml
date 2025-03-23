@@ -1,14 +1,14 @@
 			<armaments_of_the_ancients>
 				<actions>
-				<armaments_of_the_ancients_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">ATK: 1; DMG: 1, magic</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</armaments_of_the_ancients_1>
+					<armaments_of_the_ancients_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Armaments of the Ancients; ATK: 1; DMG: 1, magic</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</armaments_of_the_ancients_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

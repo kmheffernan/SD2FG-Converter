@@ -1,23 +1,23 @@
 			<protection_from_evil_wizard>
 				<actions>
-				<protection_from_evil_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Protection from Evil; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</protection_from_evil_1>
-				<protection_from_evil_2>
-					<apply type="string">roll</apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Protection from Evil; GRANTDISATK</label>
-					<order type="number">2</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</protection_from_evil_2>
+					<protection_from_evil_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Protection from Evil; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</protection_from_evil_1>
+					<protection_from_evil_2>
+						<apply type="string">roll</apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Protection from Evil; GRANTDISATK</label>
+						<order type="number">2</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</protection_from_evil_2>
 				</actions>
 				<class type="string">Intelligence</class>
 				<damage type="string"></damage>

@@ -1,15 +1,14 @@
 			<tome_mordanticus>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>A hand-drawn bestiary of the multiverse's most notable creatures and people.</i></p>
-				<p><b>Benefit.</b> When you read the tome, you learn three True Names of three beings you choose.</p>
-				<p><b>Benefit.</b> Your True Name also appears in the book after reading it.</p>
-				<p><b>Personality.</b> Neutral. Pedantic, fussy. The book constantly tries to escape its owner and can telepathically reach out a near distance to any creature.</p>
+					<p><i>A hand-drawn bestiary of the multiverse's most notable creatures and people.</i></p>
+					<p><b>Benefit.</b> When you read the tome, you learn three True Names of three beings you choose.</p>
+					<p><b>Benefit.</b> Your True Name also appears in the book after reading it.</p>
+					<p><b>Personality.</b> Neutral. Pedantic, fussy. The book constantly tries to escape its owner and can telepathically reach out a near distance to any creature.</p>
 				</description>
 				<name type="string">Tome Mordanticus</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Tome Mordanticus.webp</picture>
 				<type type="string">Tome</type>
 				<weight type="number">1</weight>
 			</tome_mordanticus>

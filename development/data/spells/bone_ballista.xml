@@ -1,14 +1,14 @@
 			<bone_ballista>
 				<actions>
-				<bone_ballista_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Bone Ballista; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</bone_ballista_1>
+					<bone_ballista_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Bone Ballista; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</bone_ballista_1>
 				</actions>
 				<class type="string">Constitution</class>
 				<damage type="string">4d6</damage>

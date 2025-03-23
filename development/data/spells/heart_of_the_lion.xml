@@ -1,14 +1,14 @@
 			<heart_of_the_lion>
 				<actions>
-				<heart_of_the_lion_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">ADVINIT</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</heart_of_the_lion_1>
+					<heart_of_the_lion_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Heart of the Lion; ADVINIT</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</heart_of_the_lion_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

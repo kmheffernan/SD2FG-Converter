@@ -1,14 +1,14 @@
 			<shell_of_the_turtle>
 				<actions>
-				<shell_of_the_turtle_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">AC: 1</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</shell_of_the_turtle_1>
+					<shell_of_the_turtle_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Shell of the Turtle; AC: 1</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</shell_of_the_turtle_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

@@ -1,23 +1,23 @@
 			<hold_monster>
 				<actions>
-				<hold_monster_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Hold Monster; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</hold_monster_1>
-				<hold_monster_2>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">paralyzed</label>
-					<order type="number">2</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</hold_monster_2>
+					<hold_monster_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Hold Monster; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</hold_monster_1>
+					<hold_monster_2>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Hold Monster; Paralyzed</label>
+						<order type="number">2</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</hold_monster_2>
 				</actions>
 				<class type="string">Intelligence</class>
 				<damage type="string"></damage>

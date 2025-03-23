@@ -1,14 +1,14 @@
 			<companion_sight>
 				<actions>
-				<companion_sight_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Companion Sight; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</companion_sight_1>
+					<companion_sight_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Companion Sight; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</companion_sight_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

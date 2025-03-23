@@ -4,7 +4,7 @@
 				<damage type="string">1d12+2</damage>
 				<damagetype type="string">slashing, magic</damagetype>
 				<description type="formattedtext">
-				<p><i>Jotunblad is a green-hued, +2 greatsword. A human killed by it rises as a draugr in 1d4 days.</i></p>
+					<p><i>Jotunblad is a green-hued, +2 greatsword. A human killed by it rises as a draugr in 1d4 days.</i></p>
 				</description>
 				<finesse type="number">0</finesse>
 				<item_attack_bonus type="number">2</item_attack_bonus>

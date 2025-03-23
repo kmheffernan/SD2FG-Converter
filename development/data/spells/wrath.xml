@@ -1,14 +1,14 @@
 			<wrath>
 				<actions>
-				<wrath_1>
-					<apply type="string"></apply>
-					<durmod type="string">10</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">Wrath; DMGTYPE: magic; ATK: 2; DMG: 2; DMG: 1d8</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</wrath_1>
+					<wrath_1>
+						<apply type="string"></apply>
+						<durmod type="string">10</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Wrath; DMGTYPE: magic; ATK: 2; DMG: 2; DMG: 1d8</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</wrath_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

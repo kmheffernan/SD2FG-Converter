@@ -1,14 +1,14 @@
 			<fixed_object>
 				<actions>
-				<fixed_object_1>
-					<apply type="string"></apply>
-					<durmod type="string">5</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">Fixed Object</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</fixed_object_1>
+					<fixed_object_1>
+						<apply type="string"></apply>
+						<durmod type="string">5</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Fixed Object</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</fixed_object_1>
 				</actions>
 				<class type="string">Intelligence</class>
 				<damage type="string"></damage>

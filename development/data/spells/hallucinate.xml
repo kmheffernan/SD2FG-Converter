@@ -1,23 +1,23 @@
 			<hallucinate>
 				<actions>
-				<hallucinate_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">stunned</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</hallucinate_1>
-				<hallucinate_2>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Hallucinate; focus</label>
-					<order type="number">2</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</hallucinate_2>
+					<hallucinate_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">stunned</label>
+						<order type="number">1</order>
+						<targeting type="string">target</targeting>
+						<type type="string">effect</type>
+					</hallucinate_1>
+					<hallucinate_2>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Hallucinate; focus</label>
+						<order type="number">2</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</hallucinate_2>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

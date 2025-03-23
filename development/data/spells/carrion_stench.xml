@@ -1,14 +1,14 @@
 			<carrion_stench>
 				<actions>
-				<carrion_stench_1>
-					<apply type="string"></apply>
-					<durmod type="string">1</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">DISATK</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</carrion_stench_1>
+					<carrion_stench_1>
+						<apply type="string"></apply>
+						<durmod type="string">1</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Carrion Stench; DISATK</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</carrion_stench_1>
 				</actions>
 				<class type="string">Constitution</class>
 				<damage type="string"></damage>

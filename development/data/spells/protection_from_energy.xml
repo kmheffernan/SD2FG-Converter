@@ -1,41 +1,41 @@
 			<protection_from_energy>
 				<actions>
-				<protection_from_energy_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Protection from Energy; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</protection_from_energy_1>
-				<protection_from_energy_2>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">IMMUNE: fire</label>
-					<order type="number">2</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</protection_from_energy_2>
-				<protection_from_energy_3>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">IMMUNE: cold</label>
-					<order type="number">3</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</protection_from_energy_3>
-				<protection_from_energy_4>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">IMMUNE: lightning</label>
-					<order type="number">4</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</protection_from_energy_4>
+					<protection_from_energy_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Protection from Energy; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</protection_from_energy_1>
+					<protection_from_energy_2>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Protection from Energy; IMMUNE: fire</label>
+						<order type="number">2</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</protection_from_energy_2>
+					<protection_from_energy_3>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Protection from Energy; IMMUNE: cold</label>
+						<order type="number">3</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</protection_from_energy_3>
+					<protection_from_energy_4>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Protection from Energy; IMMUNE: lightning</label>
+						<order type="number">4</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</protection_from_energy_4>
 				</actions>
 				<class type="string">Intelligence</class>
 				<damage type="string"></damage>

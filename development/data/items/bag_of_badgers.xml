@@ -1,13 +1,12 @@
 			<bag_of_badgers>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>A gray, fraying sack matted with white, bristly hair.</i></p>
-				<p><b>Benefit.</b> Once per day, you can reach inside the bag and pull out an angry badger. You can throw the badger up to a near distance. The badger attacks the nearest creature for 3 rounds before waddling away.</p>
+					<p><i>A gray, fraying sack matted with white, bristly hair.</i></p>
+					<p><b>Benefit.</b> Once per day, you can reach inside the bag and pull out an angry badger. You can throw the badger up to a near distance. The badger attacks the nearest creature for 3 rounds before waddling away.</p>
 				</description>
 				<name type="string">Bag of Badgers</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Bag of Badgers.webp</picture>
 				<type type="string">Misc. Magic</type>
 				<weight type="number">1</weight>
 			</bag_of_badgers>

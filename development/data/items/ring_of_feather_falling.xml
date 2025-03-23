@@ -1,14 +1,13 @@
 			<ring_of_feather_falling>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>A pearly ring carved in the likeness of an owl feather.</i></p>
-				<p><b>Benefit.</b> Once per day, the ring can cast feather fall on you when you fall.</p>
-				<p><b>Personality.</b> Neutral. Fearful of heights. Mentally hoots in an owl-like voice to stay away from the edge of cliffs and pits.</p>
+					<p><i>A pearly ring carved in the likeness of an owl feather.</i></p>
+					<p><b>Benefit.</b> Once per day, the ring can cast feather fall on you when you fall.</p>
+					<p><b>Personality.</b> Neutral. Fearful of heights. Mentally hoots in an owl-like voice to stay away from the edge of cliffs and pits.</p>
 				</description>
 				<name type="string">Ring of Feather Falling</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Ring of Feather Falling.webp</picture>
 				<type type="string">Ring</type>
 				<weight type="number">1</weight>
 			</ring_of_feather_falling>

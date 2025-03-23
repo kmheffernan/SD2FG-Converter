@@ -1,14 +1,14 @@
 			<grace_of_the_gazelle>
 				<actions>
-				<grace_of_the_gazelle_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">ADVATK, ranged; ADVCHK: dexterity</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</grace_of_the_gazelle_1>
+					<grace_of_the_gazelle_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Grace of the Gazelle; ADVATK, ranged; ADVCHK: dexterity</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</grace_of_the_gazelle_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

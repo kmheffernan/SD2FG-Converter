@@ -4,10 +4,10 @@
 				<damage type="string">1d6+1</damage>
 				<damagetype type="string">slashing, magic</damagetype>
 				<description type="formattedtext">
-					<p><i>+1 shortsword, +3 versus Fel creatures.</i></p>
-				<p><p>Add the folowing effect to the CT:</p></p>
-				<p><p>IFT: CUSTOM(Fel); ATK: 2; DMG: 2</p></p>
-				<p><p>[When attacking a Fel creature, first confirm with the GM that the target has "Fel" listed in its effects on the CT.]</p></p>
+						<p><i>+1 shortsword, +3 versus Fel creatures.</i></p>
+					<p><p>Add the folowing effect to the CT:</p></p>
+					<p><p>IFT: CUSTOM(Fel); ATK: 2; DMG: 2</p></p>
+					<p><p>[When attacking a Fel creature, first confirm with the GM that the target has "Fel" listed in its effects on the CT.]</p></p>
 				</description>
 				<finesse type="number">0</finesse>
 				<item_attack_bonus type="number">1</item_attack_bonus>
@@ -15,7 +15,6 @@
 				<name type="string">Shortsword of Fel Slaying</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Shortsword of Fel Slaying.webp</picture>
 				<range type="string">Close</range>
 				<thrown type="number">0</thrown>
 				<twohanded type="number">0</twohanded>

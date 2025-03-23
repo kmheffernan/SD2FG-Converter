@@ -1,14 +1,14 @@
 			<stoneskin>
 				<actions>
-				<stoneskin_1>
-					<apply type="string"></apply>
-					<durmod type="string">10</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">Stoneskin; AC: X</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</stoneskin_1>
+					<stoneskin_1>
+						<apply type="string"></apply>
+						<durmod type="string">10</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Stoneskin; AC: X</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</stoneskin_1>
 				</actions>
 				<class type="string">Intelligence</class>
 				<damage type="string"></damage>

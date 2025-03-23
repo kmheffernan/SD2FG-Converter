@@ -1,14 +1,14 @@
 			<cleansing_weapon>
 				<actions>
-				<cleansing_weapon_1>
-					<apply type="string"></apply>
-					<durmod type="string">5</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">Cleansing Weapon; DMG: 1d4 radiant; IFT:TYPE(undead); DMG: 1d2 radiant</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</cleansing_weapon_1>
+					<cleansing_weapon_1>
+						<apply type="string"></apply>
+						<durmod type="string">5</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Cleansing Weapon; DMG: 1d4 radiant; IFT:TYPE(undead); DMG: 1d2 radiant</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</cleansing_weapon_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string">1d4</damage>

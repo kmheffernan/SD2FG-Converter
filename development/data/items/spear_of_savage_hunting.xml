@@ -4,9 +4,9 @@
 				<damage type="string">1d6+1</damage>
 				<damagetype type="string">piercing, magic</damagetype>
 				<description type="formattedtext">
-					<p><i>Girthy haft with an obsidian spearhead.</i></p>
-				<p><b>Bonus</b> +1 Spear</p>
-				<p><b>Benefit</b> You gain ADV when attacking any giant animals or giant insects.</p>
+						<p><i>Girthy haft with an obsidian spearhead.</i></p>
+					<p><b>Bonus</b> +1 Spear</p>
+					<p><b>Benefit</b> You gain ADV when attacking any giant animals or giant insects.</p>
 				</description>
 				<finesse type="number">0</finesse>
 				<item_attack_bonus type="number">1</item_attack_bonus>
@@ -14,7 +14,6 @@
 				<name type="string">Spear of Savage Hunting</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Spear of Savage Hunting.webp</picture>
 				<range type="string">Close/Near</range>
 				<thrown type="number">1</thrown>
 				<twohanded type="number">0</twohanded>

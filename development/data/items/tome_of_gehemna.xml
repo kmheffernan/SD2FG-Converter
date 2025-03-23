@@ -1,14 +1,13 @@
 			<tome_of_gehemna>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>A sturdy, russet volume held by metal clasps. A golden eye in a circle adorns the cover.</i></p>
-				<p><b>Benefit.</b> Each day, a random wizard spell scroll appears inside the tome, replacing the spell scroll from the prior day.</p>
-				<p><b>Personality.</b> Neutral. Instructive, technical. Drones on about the obscure points of spellcasting and has an opinion on every wizard's technique.</p>
+					<p><i>A sturdy, russet volume held by metal clasps. A golden eye in a circle adorns the cover.</i></p>
+					<p><b>Benefit.</b> Each day, a random wizard spell scroll appears inside the tome, replacing the spell scroll from the prior day.</p>
+					<p><b>Personality.</b> Neutral. Instructive, technical. Drones on about the obscure points of spellcasting and has an opinion on every wizard's technique.</p>
 				</description>
 				<name type="string">Tome of Gehemna</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Tome of Gehemna.webp</picture>
 				<type type="string">Tome</type>
 				<weight type="number">1</weight>
 			</tome_of_gehemna>

@@ -1,13 +1,12 @@
 			<amulet_of_vitality>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>A gold amulet with a red ruby teardrop at its center.</i></p>
-				<p><b>Benefit.</b> Your Constitution stat becomes 18 (+4) while wearing this amulet.</p>
+					<p><i>A gold amulet with a red ruby teardrop at its center.</i></p>
+					<p><b>Benefit.</b> Your Constitution stat becomes 18 (+4) while wearing this amulet.</p>
 				</description>
 				<name type="string">Amulet of Vitality</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Amulet of Vitality.webp</picture>
 				<type type="string">Jewelry</type>
 				<weight type="number">1</weight>
 			</amulet_of_vitality>

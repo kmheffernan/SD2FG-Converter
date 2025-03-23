@@ -12,7 +12,6 @@
 				<name type="string">Club</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token"></picture>
 				<range type="string">Close</range>
 				<thrown type="number">0</thrown>
 				<twohanded type="number">0</twohanded>

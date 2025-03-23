@@ -1,13 +1,12 @@
 			<bracers_of_archery>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>Leather bracers embossed with soaring hawks.</i></p>
-				<p><b>Benefit.</b> You deal +1 damage with ranged weapons.</p>
+					<p><i>Leather bracers embossed with soaring hawks.</i></p>
+					<p><b>Benefit.</b> You deal +1 damage with ranged weapons.</p>
 				</description>
 				<name type="string">Bracers of Archery</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Bracers of Archery.webp</picture>
 				<type type="string">Armor</type>
 				<weight type="number">1</weight>
 			</bracers_of_archery>

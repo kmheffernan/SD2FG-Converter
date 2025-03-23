@@ -1,14 +1,14 @@
 			<control_water_priest>
 				<actions>
-				<control_water_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Control Water; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</control_water_1>
+					<control_water_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Control Water; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</control_water_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

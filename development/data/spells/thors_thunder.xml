@@ -5,8 +5,9 @@
 				<damagetype type="string">lightning</damagetype>
 				<dc type="string">14</dc>
 				<description type="formattedtext">
+					<p>Thor casts down a bolt of lightning to strike one target. The target takes 3d6 lightning damage.</p>
 					<linklist>
-						<link class="race" recordname="{external_link}race.{record_ref_name}">Ancestry: 13 Thor's Thunder.jpg</link>
+						<link class="imagewindow" recordname="image.thors_thunder">Image: Thor's Thunder</link>
 					</linklist>
 				</description>
 				<duration type="string">Instant</duration>

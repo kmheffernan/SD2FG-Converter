@@ -5,11 +5,9 @@
 				<damagetype type="string"></damagetype>
 				<dc type="string">15</dc>
 				<description type="formattedtext">
+					<p>You summon a valkyrie to your aid. [See NPC record in GM module.] She appears in a location within near and acts of her own free will to help you. She returns to Valhalla when the spell ends. You can't cast this again until you complete penance.</p>
 					<linklist>
-						<link class="item" recordname="item.14_valkyriejpg">Item: 14 Valkyrie.jpg</link>
-					</linklist>
-					<linklist>
-						<link class="npc" recordname="npc.nalkyrie">NPC: Nalkyrie</link>
+						<link class="imagewindow" recordname="image.valkyrie">Image: Valkyrie</link>
 					</linklist>
 				</description>
 				<duration type="string">10 rounds</duration>

@@ -1,14 +1,14 @@
 			<protection_from_undead>
 				<actions>
-				<protection_from_undead_1>
-					<apply type="string"></apply>
-					<durmod type="string">5</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">IFT: TYPE (undead); GRANTDISATK</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</protection_from_undead_1>
+					<protection_from_undead_1>
+						<apply type="string"></apply>
+						<durmod type="string">5</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Protection from Undead; IFT: TYPE (undead); GRANTDISATK</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</protection_from_undead_1>
 				</actions>
 				<class type="string">Constitution</class>
 				<damage type="string"></damage>

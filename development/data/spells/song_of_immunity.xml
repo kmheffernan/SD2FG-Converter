@@ -1,14 +1,14 @@
 			<song_of_immunity>
 				<actions>
-				<song_of_immunity_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">IMMUNE: fire</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</song_of_immunity_1>
+					<song_of_immunity_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Song of Immunity; IMMUNE: fire</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</song_of_immunity_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

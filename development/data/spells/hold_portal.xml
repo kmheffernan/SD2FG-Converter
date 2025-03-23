@@ -1,14 +1,14 @@
 			<hold_portal>
 				<actions>
-				<hold_portal_1>
-					<apply type="string"></apply>
-					<durmod type="string">10</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">Hold Portal</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</hold_portal_1>
+					<hold_portal_1>
+						<apply type="string"></apply>
+						<durmod type="string">10</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Hold Portal</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</hold_portal_1>
 				</actions>
 				<class type="string">Intelligence</class>
 				<damage type="string"></damage>

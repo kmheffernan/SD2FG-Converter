@@ -1,7 +1,7 @@
 			<wand_of_wisdom>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>A gnarled stick dipped in gold with the word "wisdom" etched on it in runes. Seers can wield it. Contains the seer spell trance.</i></p>
+				<p><i>A gnarled stick dipped in gold with the word "wisdom" etched on it in runes. Seers can wield it. Contains the seer spell Trance.</i></p>
 				<linklist>
 					<link class="power" recordname="reference.power.trance@IPFGSDTALCS3PLAYER">Spell: Trance</link>
 				</linklist>

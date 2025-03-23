@@ -1,14 +1,14 @@
 			<zone_of_truth>
 				<actions>
-				<zone_of_truth_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Zone of Truth; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</zone_of_truth_1>
+					<zone_of_truth_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Zone of Truth; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</zone_of_truth_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

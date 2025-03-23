@@ -7,7 +7,7 @@
 				<description type="formattedtext">
 					<p>You ask the gods a question and cast the runestones, interpreting the meaning of the results. Ask the Game Master one yes or no question. The Game Master truthfully answers "yes" or "no."</p>
 					<linklist>
-						<link class="imagewindow" recordname="image.ead_the_runesjpg">Image: ead the Runes.jpg</link>
+						<link class="imagewindow" recordname="image.read_the_runes">Image: Read the Runes</link>
 					</linklist>
 				</description>
 				<duration type="string">Instant</duration>

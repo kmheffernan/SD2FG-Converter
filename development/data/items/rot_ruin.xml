@@ -4,7 +4,7 @@
 				<damage type="string">1d8+1</damage>
 				<damagetype type="string">slashing, magic</damagetype>
 				<description type="formattedtext">
-				<p><i>A +1 longsword named Rot Ruin that can rust one door-sized piece of metal it touches into powder once a day.</i></p>
+					<p><i>A +1 longsword named Rot Ruin that can rust one door-sized piece of metal it touches into powder once a day.</i></p>
 				</description>
 				<finesse type="number">0</finesse>
 				<item_attack_bonus type="number">1</item_attack_bonus>

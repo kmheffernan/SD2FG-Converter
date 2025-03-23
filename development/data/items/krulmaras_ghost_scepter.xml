@@ -1,15 +1,14 @@
 			<krulmaras_ghost_scepter>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>An incorporeal scepter wrapped with twisting spikes.</i></p>
-				<p><b>Bonus</b> Can be used as a +1 club.</p>
-				<p><b>Benefit</b> When you are granted this item, it is solid for you, but remains incorporeal for everyone else.</p>
-				<p><b>Curse</b> No one else can pick it up.</p>
+					<p><i>An incorporeal scepter wrapped with twisting spikes.</i></p>
+					<p><b>Bonus</b> Can be used as a +1 club.</p>
+					<p><b>Benefit</b> When you are granted this item, it is solid for you, but remains incorporeal for everyone else.</p>
+					<p><b>Curse</b> No one else can pick it up.</p>
 				</description>
 				<name type="string">Krulmara's Ghost Scepter</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Krulmara's Ghost Scepter.webp</picture>
 				<type type="string">Misc. Magic</type>
 				<weight type="number">1</weight>
 			</krulmaras_ghost_scepter>

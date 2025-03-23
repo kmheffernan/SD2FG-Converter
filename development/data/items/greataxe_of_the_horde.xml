@@ -4,10 +4,10 @@
 				<damage type="string">1d8+2</damage>
 				<damagetype type="string">slashing, magic</damagetype>
 				<description type="formattedtext">
-					<p><i>A jagged greataxe carved from a weighty dragon bone.</i></p>
-				<p><b>Bonus.</b> +2 greataxe.</p>
-				<p><b>Benefit.</b> Once per day, you can turn a regular hit with this weapon into a critical hit.</p>
-				<p><b>Curse.</b> Each time you go below half your hit points, make a DC 12 Charisma check. On a failure, you enter a battle rage for 1d4 rounds and must attack the nearest creature.</p>
+						<p><i>A jagged greataxe carved from a weighty dragon bone.</i></p>
+					<p><b>Bonus.</b> +2 greataxe.</p>
+					<p><b>Benefit.</b> Once per day, you can turn a regular hit with this weapon into a critical hit.</p>
+					<p><b>Curse.</b> Each time you go below half your hit points, make a DC 12 Charisma check. On a failure, you enter a battle rage for 1d4 rounds and must attack the nearest creature.</p>
 				</description>
 				<finesse type="number">0</finesse>
 				<item_attack_bonus type="number">2</item_attack_bonus>
@@ -15,7 +15,6 @@
 				<name type="string">Greataxe of the Horde</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Greataxe of the Horde.webp</picture>
 				<range type="string">Close</range>
 				<thrown type="number">0</thrown>
 				<twohanded type="number">0</twohanded>

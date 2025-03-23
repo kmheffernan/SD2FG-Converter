@@ -1,6 +1,7 @@
 			<round_shield>
 				<ac type="number">2</ac>
 				<cost type="string">15 gp</cost>
+				<count type="number">1</count>
 				<description type="formattedtext">
 				<p>Occupies one hand, sundering.</p>
 				</description>

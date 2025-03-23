@@ -4,9 +4,9 @@
 				<damage type="string">1d6+1</damage>
 				<damagetype type="string">blunt, magic</damagetype>
 				<description type="formattedtext">
-					<p><i>A tarnished, silver mace with seven flanges in the shape of crescent moons.</i></p>
-				<p><b>Bonus.</b> +1 mace.</p>
-				<p><b>Benefit.</b> This weapon deals double damage against creatures with lycanthropy.</p>
+						<p><i>A tarnished, silver mace with seven flanges in the shape of crescent moons.</i></p>
+					<p><b>Bonus.</b> +1 mace.</p>
+					<p><b>Benefit.</b> This weapon deals double damage against creatures with lycanthropy.</p>
 				</description>
 				<finesse type="number">0</finesse>
 				<item_attack_bonus type="number">1</item_attack_bonus>
@@ -14,7 +14,6 @@
 				<name type="string">Silver Mace of Wrath</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Silver Mace of Wrath.webp</picture>
 				<range type="string">Close</range>
 				<thrown type="number">0</thrown>
 				<twohanded type="number">0</twohanded>

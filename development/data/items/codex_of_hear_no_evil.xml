@@ -1,0 +1,14 @@
+			<codex_of_hear_no_evil>
+				<cost type="string"></cost>
+				<description type="formattedtext">
+				<p><i>A tome with lavish ink drawings. It also contains the spell Protection from Evil.</i></p>
+				<linklist>
+					<link class="power" recordname="reference.power.protection_from_evil_wizard@IPFGSDTALCOREPLAYER">Spell: Protection from Evil (Wizard)</link>
+				</linklist>
+				</description>
+				<name type="string">Codex of Hear No Evil</name>
+				<nonid_name type="string">Unidentified item</nonid_name>
+				<nonidentified type="string"></nonidentified>
+				<type type="string">Tome</type>
+				<weight type="number">1</weight>
+			</codex_of_hear_no_evil>

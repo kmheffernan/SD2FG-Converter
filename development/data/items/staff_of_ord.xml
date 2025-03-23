@@ -4,10 +4,10 @@
 				<damage type="string">1d4+3</damage>
 				<damagetype type="string">blunt, magic</damagetype>
 				<description type="formattedtext">
-					<p><i>A tapered, mithral staff that resonates with arcane power. The tip features an upward-looking eye in a circle of runes.</i></p>
-				<p><b>Bonus.</b> +3 staff. Can only be wielded by a wizard.</p>
-				<p><b>Benefit.</b> Functions as a wand of dimension door, fireball, sending, and telekinesis. Unlike a wand, the staff remains intact if you roll a 1 on your spellcasting checks.</p>
-				<p><b>Benefit.</b> Hostile spells targeting you are DC 18 to cast.</p>
+						<p><i>A tapered, mithral staff that resonates with arcane power. The tip features an upward-looking eye in a circle of runes.</i></p>
+					<p><b>Bonus.</b> +3 staff. Can only be wielded by a wizard.</p>
+					<p><b>Benefit.</b> Functions as a wand of dimension door, fireball, sending, and telekinesis. Unlike a wand, the staff remains intact if you roll a 1 on your spellcasting checks.</p>
+					<p><b>Benefit.</b> Hostile spells targeting you are DC 18 to cast.</p>
 				<linklist>
 					<link class="power" recordname="reference.power.dimension_door@IPFGSDTALCOREPLAYER">Spell: dimension door</link>
 				</linklist>
@@ -27,7 +27,6 @@
 				<name type="string">Staff of Ord</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Staff of Ord.webp</picture>
 				<range type="string">Close</range>
 				<thrown type="number">0</thrown>
 				<twohanded type="number">1</twohanded>

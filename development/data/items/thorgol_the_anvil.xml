@@ -4,7 +4,7 @@
 				<damage type="string">1d10+2</damage>
 				<damagetype type="string">blunt, magic</damagetype>
 				<description type="formattedtext">
-				<p><i>This +2 warhammer is made from heavy, black iron with triangular knots on each face. It can instantly fuse together two metal objects it strikes at the same time, if its wielder chooses.</i></p>
+					<p><i>This +2 warhammer is made from heavy, black iron with triangular knots on each face. It can instantly fuse together two metal objects it strikes at the same time, if its wielder chooses.</i></p>
 				</description>
 				<finesse type="number">0</finesse>
 				<item_attack_bonus type="number">2</item_attack_bonus>

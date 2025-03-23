@@ -1,14 +1,14 @@
 			<lifeward_circle>
 				<actions>
-				<lifeward_circle_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Lifeward Circle; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</lifeward_circle_1>
+					<lifeward_circle_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Lifeward Circle; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</lifeward_circle_1>
 				</actions>
 				<class type="string">Constitution</class>
 				<damage type="string"></damage>

@@ -1,14 +1,14 @@
 			<barkhide>
 				<actions>
-				<barkhide_1>
-					<apply type="string"></apply>
-					<durmod type="string">5</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">AC: 2</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</barkhide_1>
+					<barkhide_1>
+						<apply type="string"></apply>
+						<durmod type="string">5</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Barkhide; AC: 2</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</barkhide_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

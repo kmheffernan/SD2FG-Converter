@@ -4,7 +4,7 @@
 				<damage type="string">1d8+1</damage>
 				<damagetype type="string">slashing, magic</damagetype>
 				<description type="formattedtext">
-				<p><i>A silvery, +1 greataxe with nine open eyes engraved on its blade. Its wielder can learn the True Name of up to 9 creatures total. An eye closes each time this is used.</i></p>
+					<p><i>A silvery, +1 greataxe with nine open eyes engraved on its blade. Its wielder can learn the True Name of up to 9 creatures total. An eye closes each time this is used.</i></p>
 				</description>
 				<finesse type="number">0</finesse>
 				<item_attack_bonus type="number">1</item_attack_bonus>

@@ -1,14 +1,14 @@
 			<pillar_of_salt>
 				<actions>
-				<pillar_of_salt_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">Pillar of Salt; focus</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</pillar_of_salt_1>
+					<pillar_of_salt_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Pillar of Salt; focus</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</pillar_of_salt_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

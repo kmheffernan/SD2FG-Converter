@@ -1,14 +1,14 @@
 			<fungal_cloud>
 				<actions>
-				<fungal_cloud_1>
-					<apply type="string"></apply>
-					<durmod type="string">1</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">DISATK</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</fungal_cloud_1>
+					<fungal_cloud_1>
+						<apply type="string"></apply>
+						<durmod type="string">1</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Fungal Cloud; DISATK</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</fungal_cloud_1>
 				</actions>
 				<class type="string">Wisdom</class>
 				<damage type="string"></damage>

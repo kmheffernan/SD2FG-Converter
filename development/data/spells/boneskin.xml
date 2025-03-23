@@ -1,14 +1,14 @@
 			<boneskin>
 				<actions>
-				<boneskin_1>
-					<apply type="string"></apply>
-					<durmod type="string">10</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">Boneskin; AC: 1</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</boneskin_1>
+					<boneskin_1>
+						<apply type="string"></apply>
+						<durmod type="string">10</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Boneskin; AC: 1</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</boneskin_1>
 				</actions>
 				<class type="string">Constitution</class>
 				<damage type="string"></damage>

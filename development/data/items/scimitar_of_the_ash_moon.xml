@@ -4,9 +4,9 @@
 				<damage type="string">1d12+3</damage>
 				<damagetype type="string">slashing, magic</damagetype>
 				<description type="formattedtext">
-					<p><i>This wide, curved blade has a snarling efreeti head on the bronze pommel.</i></p>
-				<p><b>Bonus.</b> +3 greatsword.</p>
-				<p><b>Benefit.</b> If you roll a critical hit with this weapon, the target is beheaded. It dies instantly if decapitation would kill it.</p>
+						<p><i>This wide, curved blade has a snarling efreeti head on the bronze pommel.</i></p>
+					<p><b>Bonus.</b> +3 greatsword.</p>
+					<p><b>Benefit.</b> If you roll a critical hit with this weapon, the target is beheaded. It dies instantly if decapitation would kill it.</p>
 				</description>
 				<finesse type="number">0</finesse>
 				<item_attack_bonus type="number">3</item_attack_bonus>
@@ -14,7 +14,6 @@
 				<name type="string">Scimitar of the Ash Moon</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Scimitar of the Ash Moon.webp</picture>
 				<range type="string">Close</range>
 				<thrown type="number">0</thrown>
 				<twohanded type="number">1</twohanded>

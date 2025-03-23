@@ -1,13 +1,12 @@
 			<guildmasters_echelon_elixir>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>Rich, shimmering blue liquid in a crystal vial with a silver stopper.</i></p>
-				<p><b>Benefit</b> For two days your social status is elevated, granting you invites to meetings within influential circles. Gain ADV on negotiation and influence-based checks during this span.</p>
+					<p><i>Rich, shimmering blue liquid in a crystal vial with a silver stopper.</i></p>
+					<p><b>Benefit</b> For two days your social status is elevated, granting you invites to meetings within influential circles. Gain ADV on negotiation and influence-based checks during this span.</p>
 				</description>
 				<name type="string">Guildmaster's Echelon Elixir</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Guildmaster's Echelon Elixir.webp</picture>
 				<type type="string">Potion</type>
 				<weight type="number">1</weight>
 			</guildmasters_echelon_elixir>

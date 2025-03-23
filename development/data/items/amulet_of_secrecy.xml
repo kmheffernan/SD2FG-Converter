@@ -1,14 +1,13 @@
 			<amulet_of_secrecy>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>A heavy, flat pendant carved with a lidded eye.</i></p>
-				<p><b>Benefit.</b> You can't be detected by divination magic such as the scrying spell or a Crystal Ball while wearing this amulet.</p>
-				<p><b>Curse.</b> You constantly have the sensation of being watched.</p>
+					<p><i>A heavy, flat pendant carved with a lidded eye.</i></p>
+					<p><b>Benefit.</b> You can't be detected by divination magic such as the scrying spell or a Crystal Ball while wearing this amulet.</p>
+					<p><b>Curse.</b> You constantly have the sensation of being watched.</p>
 				</description>
 				<name type="string">Amulet of Secrecy</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Amulet of Secrecy.webp</picture>
 				<type type="string">Jewelry</type>
 				<weight type="number">1</weight>
 			</amulet_of_secrecy>

@@ -1,15 +1,14 @@
 			<swarmtide_crown>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>Woven from stingers, legs, abdomens, and wings, the crown wriggles with life.</i></p>
-				<p><b>Benefit</b> You can summon a giant insect once per day. It acts on your turn and obeys your commands. It cannot speak to you unless you know its language. It serves you for 1 day. Determine what is summoned with the Swarmtide Crown Summoned Creature table.</p>
-				<p><b>Curse</b> You are driven to take over the world using giant insects, replacing any previous personal objectives. You do not want to remove crown.</p>
-				<p><link_t>Swarmtide Crown Summoned Creature</link_t></p>
+					<p><i>Woven from stingers, legs, abdomens, and wings, the crown wriggles with life.</i></p>
+					<p><b>Benefit</b> You can summon a giant insect once per day. It acts on your turn and obeys your commands. It cannot speak to you unless you know its language. It serves you for 1 day. Determine what is summoned with the Swarmtide Crown Summoned Creature table.</p>
+					<p><b>Curse</b> You are driven to take over the world using giant insects, replacing any previous personal objectives. You do not want to remove crown.</p>
+					<p><link_t>Swarmtide Crown Summoned Creature</link_t></p>
 				</description>
 				<name type="string">Swarmtide Crown</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Swarmtide Crown.webp</picture>
 				<type type="string">Jewelry</type>
 				<weight type="number">1</weight>
 			</swarmtide_crown>

@@ -1,14 +1,14 @@
 			<fossilize>
 				<actions>
-				<fossilize_1>
-					<apply type="string"></apply>
-					<durmod type="string"></durmod>
-					<durunit type="string"></durunit>
-					<label type="string">AC: 2; RESIST: all</label>
-					<order type="number">1</order>
-					<targeting type="string">target</targeting>
-					<type type="string">effect</type>
-				</fossilize_1>
+					<fossilize_1>
+						<apply type="string"></apply>
+						<durmod type="string"></durmod>
+						<durunit type="string"></durunit>
+						<label type="string">Fossilize; AC: 2; RESIST: all</label>
+						<order type="number">1</order>
+						<targeting type="string"></targeting>
+						<type type="string">effect</type>
+					</fossilize_1>
 				</actions>
 				<class type="string">Constitution</class>
 				<damage type="string"></damage>

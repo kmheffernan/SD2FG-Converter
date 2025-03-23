@@ -1,7 +1,7 @@
 			<scroll_of_detect_magic>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>DC 11 INT to cast Detect Magic, lasts 1 hour.</i></p>
+					<p><i>DC 11 INT to cast Detect Magic, lasts 1 hour.</i></p>
 				<linklist>
 					<link class="power" recordname="reference.power.detect_magic@IPFGSDTALCOREPLAYER">Spell: Detect Magic</link>
 				</linklist>
@@ -9,7 +9,6 @@
 				<name type="string">Scroll of Detect Magic</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Scroll of Detect Magic.webp</picture>
 				<type type="string">Scroll</type>
 				<weight type="number">1</weight>
 			</scroll_of_detect_magic>

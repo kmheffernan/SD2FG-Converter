@@ -1,14 +1,13 @@
 			<serpents_eye>
 				<cost type="string"></cost>
 				<description type="formattedtext">
-				<p><i>A gemstone that eerily looks like the living eye of a snake.</i></p>
-				<p><b>Benefit</b> When you gaze into it, you gain the ability to see through the eyes of an animal within a far range for 3 rounds.</p>
-				<p><b>Curse</b> If you use this more than once per day, your next rest will be interrupted by nightmares of the wild, resulting in no HP recovery.</p>
+					<p><i>A gemstone that eerily looks like the living eye of a snake.</i></p>
+					<p><b>Benefit</b> When you gaze into it, you gain the ability to see through the eyes of an animal within a far range for 3 rounds.</p>
+					<p><b>Curse</b> If you use this more than once per day, your next rest will be interrupted by nightmares of the wild, resulting in no HP recovery.</p>
 				</description>
 				<name type="string">Serpent's Eye</name>
 				<nonid_name type="string">Unidentified item</nonid_name>
 				<nonidentified type="string"></nonidentified>
-				<picture type="token">campaign/images/Serpent's Eye.webp</picture>
 				<type type="string">Misc. Magic</type>
 				<weight type="number">1</weight>
 			</serpents_eye>

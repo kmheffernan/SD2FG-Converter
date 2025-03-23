@@ -1,14 +1,14 @@
 			<gaseous_form>
 				<actions>
-				<gaseous_form_1>
-					<apply type="string"></apply>
-					<durmod type="string">10</durmod>
-					<durunit type="string">rnd</durunit>
-					<label type="string">Gaseous Form</label>
-					<order type="number">1</order>
-					<targeting type="string">self</targeting>
-					<type type="string">effect</type>
-				</gaseous_form_1>
+					<gaseous_form_1>
+						<apply type="string"></apply>
+						<durmod type="string">10</durmod>
+						<durunit type="string">rnd</durunit>
+						<label type="string">Gaseous Form</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</gaseous_form_1>
 				</actions>
 				<class type="string">Intelligence</class>
 				<damage type="string"></damage>
